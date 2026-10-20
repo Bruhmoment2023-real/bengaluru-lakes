@@ -1,0 +1,19 @@
+,n
+records_identified_total,6402
+duplicates_removed,2861
+records_screened_title_abstract,3541
+excluded_prescreen_rule,2994
+excluded_manual_title_abstract,215
+full_text_candidates,332
+s2_X6 full text not obtained,167
+s2_full text retrieved - no extractable numeric table found by automated triage,111
+"s2_eligible - full text retrieved, extraction queued",28
+s2_included - extracted to dataset,20
+s2_excluded at full text,4
+s2_eligible - extraction queued (low priority),2
+identified_Crossref,4600
+identified_DOAJ,225
+identified_GoogleScholar,240
+identified_OpenAlex,819
+identified_SemanticScholar,200
+identified_Shodhganga,318

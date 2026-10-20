@@ -1,0 +1,128 @@
+database,family,query,note,n_records,date
+openalex,A,"(Bengaluru OR Bangalore OR Bangaluru) AND (lake OR lakes OR tank OR tanks OR wetland OR wetlands) AND (""water quality"" OR pollution OR eutrophication OR ""dissolved oxygen"" OR BOD OR physicochemical OR physico-chemical OR sewage OR nutrient OR coliform OR ""heavy metal"")",count=322 page=1,100,2026-10-17
+openalex,A,"(Bengaluru OR Bangalore OR Bangaluru) AND (lake OR lakes OR tank OR tanks OR wetland OR wetlands) AND (""water quality"" OR pollution OR eutrophication OR ""dissolved oxygen"" OR BOD OR physicochemical OR physico-chemical OR sewage OR nutrient OR coliform OR ""heavy metal"")",count=322 page=2,100,2026-10-17
+openalex,A,"(Bengaluru OR Bangalore OR Bangaluru) AND (lake OR lakes OR tank OR tanks OR wetland OR wetlands) AND (""water quality"" OR pollution OR eutrophication OR ""dissolved oxygen"" OR BOD OR physicochemical OR physico-chemical OR sewage OR nutrient OR coliform OR ""heavy metal"")",count=322 page=3,100,2026-10-17
+openalex,A,"(Bengaluru OR Bangalore OR Bangaluru) AND (lake OR lakes OR tank OR tanks OR wetland OR wetlands) AND (""water quality"" OR pollution OR eutrophication OR ""dissolved oxygen"" OR BOD OR physicochemical OR physico-chemical OR sewage OR nutrient OR coliform OR ""heavy metal"")",count=322 page=4,22,2026-10-17
+openalex,B1,(Bellandur OR Varthur OR Ulsoor OR Hebbal OR Sankey OR Lalbagh OR Agara OR Madiwala OR Jakkur OR Yelahanka OR Puttenahalli OR Kaikondrahalli OR Nagawara OR Hennur OR Kengeri OR Hesaraghatta OR Doddabommasandra OR Kommaghatta) AND (lake OR lakes OR tank OR wetland),count=275 page=1,100,2026-10-17
+openalex,B1,(Bellandur OR Varthur OR Ulsoor OR Hebbal OR Sankey OR Lalbagh OR Agara OR Madiwala OR Jakkur OR Yelahanka OR Puttenahalli OR Kaikondrahalli OR Nagawara OR Hennur OR Kengeri OR Hesaraghatta OR Doddabommasandra OR Kommaghatta) AND (lake OR lakes OR tank OR wetland),count=275 page=2,100,2026-10-17
+openalex,B1,(Bellandur OR Varthur OR Ulsoor OR Hebbal OR Sankey OR Lalbagh OR Agara OR Madiwala OR Jakkur OR Yelahanka OR Puttenahalli OR Kaikondrahalli OR Nagawara OR Hennur OR Kengeri OR Hesaraghatta OR Doddabommasandra OR Kommaghatta) AND (lake OR lakes OR tank OR wetland),count=275 page=3,75,2026-10-17
+openalex,C,"(Bellandur OR Varthur) AND (foam OR froth OR fire OR surfactant OR ""heavy metal"" OR metals OR pollution)",count=53 page=1,53,2026-10-17
+openalex,A2,"(Bengaluru OR Bangalore) AND (lake OR lakes) AND (restoration OR rejuvenation OR sewage OR STP OR ""treatment wetland"" OR eutrophication OR algae OR cyanobacteria OR phytoplankton)",count=169 page=1,100,2026-10-17
+openalex,A2,"(Bengaluru OR Bangalore) AND (lake OR lakes) AND (restoration OR rejuvenation OR sewage OR STP OR ""treatment wetland"" OR eutrophication OR algae OR cyanobacteria OR phytoplankton)",count=169 page=2,69,2026-10-17
+crossref,,Bangalore lake water quality,offset=0,100,2026-10-17
+crossref,,Bangalore lake water quality,offset=100,100,2026-10-17
+crossref,,Bengaluru lake water quality,offset=0,100,2026-10-17
+crossref,,Bengaluru lake water quality,offset=100,100,2026-10-17
+crossref,,Bellandur lake,offset=0,100,2026-10-17
+crossref,,Bellandur lake,offset=100,100,2026-10-17
+crossref,,Varthur lake,offset=0,100,2026-10-17
+crossref,,Varthur lake,offset=100,100,2026-10-17
+crossref,,Bangalore lakes pollution,offset=0,100,2026-10-17
+crossref,,Bangalore lakes pollution,offset=100,100,2026-10-17
+crossref,,Bengaluru lakes sewage eutrophication,offset=0,100,2026-10-17
+crossref,,Bengaluru lakes sewage eutrophication,offset=100,100,2026-10-17
+crossref,,Bellandur Varthur foam,offset=0,100,2026-10-17
+crossref,,Bellandur Varthur foam,offset=100,100,2026-10-17
+crossref,,Ulsoor lake,offset=0,100,2026-10-17
+crossref,,Ulsoor lake,offset=100,100,2026-10-17
+crossref,,Hebbal lake water,offset=0,100,2026-10-17
+crossref,,Hebbal lake water,offset=100,100,2026-10-17
+crossref,,Sankey tank water quality,offset=0,100,2026-10-17
+crossref,,Sankey tank water quality,offset=100,100,2026-10-17
+crossref,,Lalbagh lake,offset=0,100,2026-10-17
+crossref,,Lalbagh lake,offset=100,100,2026-10-17
+crossref,,Madiwala lake,offset=0,100,2026-10-17
+crossref,,Madiwala lake,offset=100,100,2026-10-17
+crossref,,Agara lake,offset=0,100,2026-10-17
+crossref,,Agara lake,offset=100,100,2026-10-17
+crossref,,Jakkur lake,offset=0,100,2026-10-17
+crossref,,Jakkur lake,offset=100,100,2026-10-17
+crossref,,Yelahanka lake,offset=0,100,2026-10-17
+crossref,,Yelahanka lake,offset=100,100,2026-10-17
+crossref,,Bangalore lake heavy metals,offset=0,100,2026-10-17
+crossref,,Bangalore lake heavy metals,offset=100,100,2026-10-17
+crossref,,Bangalore lake physico-chemical,offset=0,100,2026-10-17
+crossref,,Bangalore lake physico-chemical,offset=100,100,2026-10-17
+crossref,,Bangalore lake zooplankton phytoplankton water quality,offset=0,100,2026-10-17
+crossref,,Bangalore lake zooplankton phytoplankton water quality,offset=100,100,2026-10-17
+crossref,,Bangalore urban lakes restoration water,offset=0,100,2026-10-17
+crossref,,Bangalore urban lakes restoration water,offset=100,100,2026-10-17
+crossref,,Hesaraghatta lake,offset=0,100,2026-10-17
+crossref,,Hesaraghatta lake,offset=100,100,2026-10-17
+crossref,,Kengeri lake,offset=0,100,2026-10-17
+crossref,,Kengeri lake,offset=100,100,2026-10-17
+crossref,,Puttenahalli lake,offset=0,100,2026-10-17
+crossref,,Puttenahalli lake,offset=100,100,2026-10-17
+crossref,,Bangalore tank coliform,offset=0,100,2026-10-17
+crossref,,Bangalore tank coliform,offset=100,100,2026-10-17
+doaj,,Bangalore lake,page=1,65,2026-10-17
+doaj,,Bengaluru lake,page=1,100,2026-10-17
+doaj,,Bengaluru lake,page=2,18,2026-10-17
+doaj,,Bellandur,page=1,21,2026-10-17
+doaj,,Varthur,page=1,17,2026-10-17
+doaj,,Bangalore lakes water quality,page=1,0,2026-10-17
+doaj,,Bengaluru lakes pollution,page=1,1,2026-10-17
+doaj,,Bangalore wetland,page=1,2,2026-10-17
+doaj,,Bengaluru lake restoration,page=1,1,2026-10-17
+shodhganga,,Bangalore lake water quality,start=0,10,2026-10-17
+shodhganga,,Bangalore lake water quality,start=10,10,2026-10-17
+shodhganga,,Bangalore lake water quality,start=20,10,2026-10-17
+shodhganga,,Bengaluru lakes,start=0,10,2026-10-17
+shodhganga,,Bengaluru lakes,start=10,8,2026-10-17
+shodhganga,,Bellandur,start=0,10,2026-10-17
+shodhganga,,Bellandur,start=10,10,2026-10-17
+shodhganga,,Bellandur,start=20,10,2026-10-17
+shodhganga,,Varthur lake,start=0,10,2026-10-17
+shodhganga,,Varthur lake,start=10,10,2026-10-17
+shodhganga,,Varthur lake,start=20,10,2026-10-17
+shodhganga,,lakes of Bangalore,start=0,10,2026-10-17
+shodhganga,,lakes of Bangalore,start=10,10,2026-10-17
+shodhganga,,lakes of Bangalore,start=20,10,2026-10-17
+shodhganga,,Bangalore tanks pollution,start=0,10,2026-10-17
+shodhganga,,Bangalore tanks pollution,start=10,10,2026-10-17
+shodhganga,,Bangalore tanks pollution,start=20,10,2026-10-17
+shodhganga,,Bangalore lake eutrophication,start=0,10,2026-10-17
+shodhganga,,Bangalore lake eutrophication,start=10,10,2026-10-17
+shodhganga,,Bangalore lake eutrophication,start=20,10,2026-10-17
+shodhganga,,urban lakes Bangalore restoration,start=0,10,2026-10-17
+shodhganga,,urban lakes Bangalore restoration,start=10,10,2026-10-17
+shodhganga,,urban lakes Bangalore restoration,start=20,10,2026-10-17
+shodhganga,,Hebbal lake,start=0,10,2026-10-17
+shodhganga,,Hebbal lake,start=10,10,2026-10-17
+shodhganga,,Hebbal lake,start=20,10,2026-10-17
+shodhganga,,Ulsoor lake,start=0,10,2026-10-17
+shodhganga,,Ulsoor lake,start=10,10,2026-10-17
+shodhganga,,Ulsoor lake,start=20,10,2026-10-17
+shodhganga,,Karnataka lakes physico-chemical,start=0,10,2026-10-17
+shodhganga,,Karnataka lakes physico-chemical,start=10,10,2026-10-17
+shodhganga,,Karnataka lakes physico-chemical,start=20,10,2026-10-17
+semanticscholar,,Bellandur lake water quality,ok,100,2026-10-17
+semanticscholar,,Bangalore lakes water quality,ok,100,2026-10-17
+semanticscholar,,Bengaluru lake pollution,HTTP 429 (rate-limited),0,2026-10-17
+semanticscholar,,Varthur lake,HTTP 429 (rate-limited),0,2026-10-17
+semanticscholar,,Bangalore lake eutrophication,HTTP 429 (rate-limited),0,2026-10-17
+semanticscholar,,Bengaluru urban lakes sewage,HTTP 429 (rate-limited),0,2026-10-17
+scholar,,Bellandur lake water quality,start=0,10,2026-10-17
+scholar,,Bellandur lake water quality,start=10,10,2026-10-17
+scholar,,Bangalore lakes water quality,start=0,10,2026-10-17
+scholar,,Bangalore lakes water quality,start=10,10,2026-10-17
+scholar,,Bengaluru lake pollution BOD dissolved oxygen,start=0,10,2026-10-17
+scholar,,Bengaluru lake pollution BOD dissolved oxygen,start=10,10,2026-10-17
+scholar,,Varthur lake water quality,start=0,10,2026-10-17
+scholar,,Varthur lake water quality,start=10,10,2026-10-17
+scholar,,Bangalore lake physico-chemical parameters,start=0,10,2026-10-17
+scholar,,Bangalore lake physico-chemical parameters,start=10,10,2026-10-17
+scholar,,Bengaluru lakes coliform,start=0,10,2026-10-17
+scholar,,Bengaluru lakes coliform,start=10,10,2026-10-17
+scholar,,Bangalore lake heavy metals,start=0,10,2026-10-17
+scholar,,Bangalore lake heavy metals,start=10,10,2026-10-17
+scholar,,Ulsoor lake water quality,start=0,10,2026-10-17
+scholar,,Ulsoor lake water quality,start=10,10,2026-10-17
+scholar,,Hebbal lake water quality,start=0,10,2026-10-17
+scholar,,Hebbal lake water quality,start=10,10,2026-10-17
+scholar,,Bengaluru lakes foam surfactants,start=0,10,2026-10-17
+scholar,,Bengaluru lakes foam surfactants,start=10,10,2026-10-17
+scholar,,Bangalore lake eutrophication nutrients,start=0,10,2026-10-17
+scholar,,Bangalore lake eutrophication nutrients,start=10,10,2026-10-17
+scholar,,KSPCB lake water quality monitoring Bangalore,start=0,10,2026-10-17
+scholar,,KSPCB lake water quality monitoring Bangalore,start=10,10,2026-10-17

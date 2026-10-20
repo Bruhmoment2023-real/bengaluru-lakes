@@ -1,0 +1,4 @@
+series,n_pre,n_post,median_pre,median_post,U,p
+BOD_max,3,7,16.0,17.4,8.5,0.7316567887695276
+DO_min,3,7,5.7,2.0,21.0,0.02103526003050671
+faecal_coliform_MPN_max,3,7,540.0,94000.0,6.0,0.3833333333333333

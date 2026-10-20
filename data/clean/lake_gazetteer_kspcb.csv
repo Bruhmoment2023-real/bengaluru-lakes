@@ -1,0 +1,148 @@
+lake_id,stn,name_kspcb,water_body_type,osm_name,osm_id,lat,lon,match_score,coord_source,coord_confidence
+KSPCB-1388,1388,ulsoor lake training centre of fish breeding,lake/tank,"Halasuru lake, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Ba",relation/1857615,12.9823891,77.6191669,0.39,OSM-Nominatim,medium-low (Nominatim top hit; name is a water feature)
+KSPCB-2778,2778,river arkavathi at tippagondanahalli reservoir,river/reservoir (outside lake scope),,,,,0.58,,
+KSPCB-3589,3589,madiwala tank,lake/tank,Madiwala Lake,relation/2310417,12.9064372,77.6161679,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3590,3590,lalbagh tank,lake/tank,Lalbagh Tank,way/172845847,12.9461132,77.5839449,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3591,3591,kempambudhi tank,lake/tank,Kempambudhi Kere,way/38047206,12.9518021,77.5601908,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3592,3592,yediyur tank,lake/tank,Yediyur Lake,relation/9362927,12.9336198,77.5766852,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3593,3593,ulsoor lake temple,lake/tank,"Halasuru lake, K Kamaraj Ward, Bengaluru Central City Corporation, Bengaluru, Ba",relation/1857615,12.9823891,77.6191669,0.69,OSM-Nominatim,medium-low (Nominatim top hit; name is a water feature)
+KSPCB-3594,3594,sankey tank,lake/tank,Sankey Tank,relation/6030715,13.0099908,77.5748627,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3595,3595,byrasandra tank,lake/tank,Byrasandra Lake,way/28126428,12.9303518,77.5956618,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3596,3596,nayandanahalli tank,lake/tank,Nayandahalli Lake,relation/17379150,12.9397202,77.521555,0.92,OSM-Overpass-name-match,medium (OSM name match score 0.92)
+KSPCB-3597,3597,hesaraghatta lake,lake/tank,Hesaraghatta Lake,way/41662659,13.1662946,77.4925553,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3598,3598,herohalli tank,lake/tank,Herohalli Kere,relation/6586695,12.9886695,77.4902565,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3599,3599,anchepalya lake,lake/tank,Anchepalya Lake,way/1114982303,12.8903383,77.4581502,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3600,3600,shivapura tank,lake/tank,Shivapura Old Lake,way/750685724,13.0267969,77.504767,0.82,OSM-Overpass-name-match,medium (OSM name match score 0.82)
+KSPCB-3601,3601,karihobanahalli lake,lake/tank,,,,,0.79,,
+KSPCB-3602,3602,bellandur lake,lake/tank,Bellandur Lake,relation/19751547,12.936231,77.6614871,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3603,3603,vengaiyyanakere kr puram lake,lake/tank,,,,,0.59,,
+KSPCB-3604,3604,doddanekkundi lake,lake/tank,Doddanekundi Lake,relation/20742762,12.9753366,77.6878631,0.96,OSM-Overpass-name-match,medium (OSM name match score 0.96)
+KSPCB-3605,3605,yelemallappa shetty lake,lake/tank,Yellamallappa Chetty Lake,way/28091209,13.0270667,77.7279363,0.87,OSM-Overpass-name-match,medium (OSM name match score 0.87)
+KSPCB-3606,3606,dasarahalli tank,lake/tank,Dasarahalli Tank,relation/16245927,13.0410227,77.5122791,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3607,3607,kalkere tank,lake/tank,Kalkere Lake,relation/17390865,13.0483051,77.6652395,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3608,3608,varthur lake,lake/tank,Varthur Lake,relation/19306126,12.9483689,77.7346424,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3609,3609,ibbalur lake,lake/tank,Iblur Lake,relation/3120373,12.922397,77.6667564,0.83,OSM-Overpass-name-match,medium (OSM name match score 0.83)
+KSPCB-3610,3610,tubarahalli tank,lake/tank,Thubarahalli Lake,relation/14671536,12.9583942,77.7256154,0.96,OSM-Overpass-name-match,medium (OSM name match score 0.96)
+KSPCB-3611,3611,kaikondanahalli lake,lake/tank,Kaikondrahalli Lake,relation/6820030,12.9132005,77.6727648,0.9,OSM-Overpass-name-match,medium (OSM name match score 0.90)
+KSPCB-3612,3612,agaram lake,lake/tank,Agara Lake,way/124797587,12.8506401,77.4911964,0.91,OSM-Overpass-name-match,medium (OSM name match score 0.91)
+KSPCB-3613,3613,gottigere lake,lake/tank,Gottigere Tank,way/24430851,12.8532976,77.5905896,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3614,3614,puttenahalli lake,lake/tank,Puttenahalli Lake,relation/15989750,13.1119796,77.5759776,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3615,3615,arakere lake,lake/tank,Arekere Lake,relation/19509700,12.8830927,77.598849,0.86,OSM-Overpass-name-match,medium (OSM name match score 0.86)
+KSPCB-3616,3616,kalena agrahara lake,lake/tank,Kalena Agrahara lake,relation/19509702,12.8655502,77.590175,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3617,3617,hulimavu lake,lake/tank,Hulimavu Lake,way/23000626,12.8700925,77.6047511,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3618,3618,singasandra lake,lake/tank,Singasandra Lake,way/133729402,12.8824195,77.645403,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3619,3619,begur tank,lake/tank,Begur Kere,way/111871740,12.8786017,77.6418588,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3620,3620,parappana agrahara lake,lake/tank,Parappana Agrahara Lake,way/350153647,12.8791964,77.6613498,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3621,3621,haralur lake,lake/tank,Haralur Lake,way/111563782,12.897135,77.6633337,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3622,3622,somasundrapalya lake,lake/tank,Somasundarapalya Lake,way/287327440,12.8986076,77.6480672,0.97,OSM-Overpass-name-match,medium (OSM name match score 0.97)
+KSPCB-3623,3623,anekal doddakere tank,lake/tank,,,,,0.71,,
+KSPCB-3624,3624,puttenahalli lake,lake/tank,Puttenahalli Lake,relation/15989750,13.1119796,77.5759776,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3625,3625,hebbal lake,lake/tank,Hebbal Lake,relation/8754543,13.0471905,77.5863624,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3626,3626,nagavara lake,lake/tank,Nagawara Lake,way/30414489,13.044916,77.6071398,0.88,OSM-Overpass-name-match,medium (OSM name match score 0.88)
+KSPCB-3627,3627,jakkur lake,lake/tank,Jakkur Lake,relation/9321012,13.0867121,77.610743,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3628,3628,amruthahalli lake,lake/tank,Amruthalli Lake,relation/21390988,13.0614411,77.5986584,0.91,OSM-Overpass-name-match,medium (OSM name match score 0.91)
+KSPCB-3629,3629,allalasandra lake,lake/tank,Allalasandra Lake,way/41206188,13.09101,77.5874633,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3630,3630,yelahanka tank,lake/tank,Yelahanka Lake,relation/10179602,13.1120741,77.5937458,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3632,3632,veerapura tank,lake/tank,,,,,0.71,,
+KSPCB-3633,3633,subramanyapura tank,lake/tank,Subramanyapura Lake,relation/16551234,12.89589,77.542605,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3634,3634,devarakere tank,lake/tank,,,,,0.75,,
+KSPCB-3635,3635,malathahalli lake,lake/tank,Mallathahalli Lake,way/37898906,12.9649919,77.4946405,0.96,OSM-Overpass-name-match,medium (OSM name match score 0.96)
+KSPCB-3636,3636,hoskere lake,lake/tank,Hosakere,way/45741726,12.9283531,77.4815138,0.93,OSM-Overpass-name-match,medium (OSM name match score 0.93)
+KSPCB-3638,3638,yelachenahalli lake,lake/tank,Yelachenahalli Kere,relation/17431112,12.8996046,77.5656269,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3639,3639,kengeri tank,lake/tank,Kengeri Lake,way/395505152,12.9160681,77.4881388,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3640,3640,uttarahalli doraikere,lake/tank,,,,,0.69,,
+KSPCB-3641,3641,dhorekere tank,lake/tank,,,,,0.75,,
+KSPCB-3642,3642,jigani tank,lake/tank,,,,,0.53,,
+KSPCB-3643,3643,benniganahalli lake,lake/tank,Benniganahalli Lake,relation/3127245,12.9970951,77.6661598,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3648,3648,mydala tank,lake/tank,,,,,0.71,,
+KSPCB-3655,3655,mathikere tank,lake/tank,Mathikere Lake,relation/3816212,13.0344857,77.550771,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-3678,3678,nanjapura tank,lake/tank,Nanjapura Lake,way/28076391,12.7955591,77.6328701,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4094,4094,gangondanahalli lake,lake/tank,Gangondanahalli Lake,way/45921942,13.0184866,77.4737705,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4095,4095,chikkabanavara lake,lake/tank,Chikkabanavara Lake,way/75610567,13.0827608,77.5076423,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4096,4096,andhrahalli lake,lake/tank,Andrahalli Lake,way/145513549,13.0109313,77.4862356,0.95,OSM-Overpass-name-match,medium (OSM name match score 0.95)
+KSPCB-4097,4097,kachohalli lake,lake/tank,Kachohalli Kere,way/146003047,12.9998944,77.4666019,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4107,4107,river dakshina pinakini,river/reservoir (outside lake scope),,,,,0.49,,
+KSPCB-4503,4503,madhure tank,lake/tank,Madhure Kere,way/179089155,13.2186943,77.4421956,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4504,4504,sarakki lake,lake/tank,Sarakki Kere,relation/9269383,12.8983775,77.5781234,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4505,4505,nelamangala lake,lake/tank,Nelamangala Kere,way/380102739,13.0893502,77.4124556,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4506,4506,abbigere lake,lake/tank,Abbigere Lake,way/41667654,13.0799825,77.5277724,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4507,4507,chelekere lake,lake/tank,Chelekere Lake,relation/2310400,13.0266459,77.6448457,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4508,4508,singapura lake,lake/tank,Singapura Kere,way/41667653,13.0818715,77.5352826,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4509,4509,narasipura lake,lake/tank,Narsipura Lake,relation/16075392,13.0721779,77.5589488,0.95,OSM-Overpass-name-match,medium (OSM name match score 0.95)
+KSPCB-4510,4510,rachenahalli lake,lake/tank,Rachenahalli Lake,relation/6041559,13.0624776,77.6140305,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4511,4511,kogilu kere,lake/tank,Kogilu Lake,way/41667656,13.1098769,77.6182384,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4512,4512,viswaneedam lake,lake/tank,,,,,0.67,,
+KSPCB-4513,4513,ramammana kere,lake/tank,,,,,0.74,,
+KSPCB-4514,4514,sadaramangala lake,lake/tank,,,,,0.72,,
+KSPCB-4515,4515,bhattarahalli lake,lake/tank,Bhattarahalli Lake,way/137539770,13.0243719,77.7089677,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4516,4516,kundalahalli lake,lake/tank,Kundalahalli Lake,way/120904870,12.969414,77.7204563,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4517,4517,kowdhenahalli tank,lake/tank,Kowdenahalli Lake,way/44546800,13.0130642,77.6855626,0.96,OSM-Overpass-name-match,medium (OSM name match score 0.96)
+KSPCB-4518,4518,garudacharpalya tank,lake/tank,Garudacharpalya Lake,way/95639129,12.9909295,77.6957012,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4519,4519,rampura lake,lake/tank,Ramapura Lake,relation/19353942,13.0470835,77.6859855,0.93,OSM-Overpass-name-match,medium (OSM name match score 0.93)
+KSPCB-4520,4520,chinnappanahalli lake,lake/tank,Chinnappanahalli Lake,relation/6183523,12.9658564,77.7071242,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4521,4521,devarabeesanahalli lake,lake/tank,Deverabisanahalli Lake,relation/17083842,12.9234468,77.6872922,0.86,OSM-Overpass-name-match,medium (OSM name match score 0.86)
+KSPCB-4522,4522,vibhuthipura lake,lake/tank,,,,,0.64,,
+KSPCB-4523,4523,nallurahalli lake,lake/tank,Nallurahalli Lake,way/130111880,12.9743685,77.7366169,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4524,4524,pattandur agrahara lake,lake/tank,Pattandur Agrahara Kunte,way/122129754,12.9798577,77.7379939,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4525,4525,seetharampalya lake,lake/tank,Seetharampalya Lake,relation/18077307,12.9823612,77.7133481,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4526,4526,devasandra lake,lake/tank,Devasandra lake,way/44999246,13.0017881,77.7032109,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4527,4527,sheelavanta whitefield lake,lake/tank,,,,,0.57,,
+KSPCB-4528,4528,doddakannehalli lake,lake/tank,Doddakannelli Lake,relation/17083906,12.9115657,77.6934455,0.93,OSM-Overpass-name-match,medium (OSM name match score 0.93)
+KSPCB-4529,4529,kasavanahalli lake,lake/tank,Kasavanahalli Lake,way/62381586,12.9048414,77.6680258,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4530,4530,kammasandra lake,lake/tank,Kammasandra Lake,relation/19422828,12.8247676,77.6949149,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4531,4531,rayasandra lake,lake/tank,Rayasandra Lake,way/119132391,12.8704288,77.6770034,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4532,4532,chandapura lake,lake/tank,Andapura Lake,way/1118844142,12.8216815,77.7018224,0.89,OSM-Overpass-name-match,medium (OSM name match score 0.89)
+KSPCB-4533,4533,ullalu lake,lake/tank,Ullal Lake,way/146447604,12.9614243,77.4816818,0.91,OSM-Overpass-name-match,medium (OSM name match score 0.91)
+KSPCB-4534,4534,sompura lake,lake/tank,Sompura Lake,way/1283528233,12.8698434,77.7694834,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4535,4535,gubbalal lake,lake/tank,Gubbalala Kere,way/1118946163,12.8806855,77.5407675,0.94,OSM-Overpass-name-match,medium (OSM name match score 0.94)
+KSPCB-4536,4536,hosakerehalli lake,lake/tank,Hosakerahalli Lake,way/41196197,12.926961,77.5345406,0.92,OSM-Overpass-name-match,medium (OSM name match score 0.92)
+KSPCB-4537,4537,chinnakurchi kere,lake/tank,,,,,0.57,,
+KSPCB-4538,4538,machohalli lake,lake/tank,Kachohalli Kere,way/146003047,12.9998944,77.4666019,0.9,OSM-Overpass-name-match,medium (OSM name match score 0.90)
+KSPCB-4539,4539,doddabidarakallu lake,lake/tank,Doddabidirakallu Kere,way/597564903,13.0428379,77.4953789,0.94,OSM-Overpass-name-match,medium (OSM name match score 0.94)
+KSPCB-4540,4540,kammagondanahalli lake,lake/tank,Kammagondanahalli Lake,way/135267829,13.0684136,77.5238416,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4541,4541,alur lake,lake/tank,Alur Lake,way/41668669,13.097625,77.4585,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4542,4542,basavanapura lake,lake/tank,Basavanapura Kere,way/137539703,13.0102614,77.7130537,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-4543,4543,kodi singasandra lake,lake/tank,Singasandra Lake,way/133729402,12.8824195,77.645403,0.81,OSM-Overpass-name-match,medium (OSM name match score 0.81)
+KSPCB-4544,4544,kothanuru lake,lake/tank,,,,,0.75,,
+KSPCB-4545,4545,jungu kere devarabeesanahalli lake,lake/tank,,,,,0.73,,
+KSPCB-4546,4546,jakksandra lake kasavanahalli lake,lake/tank,,,,,0.7,,
+KSPCB-4547,4547,mangamanapalya lake swarana kunte,lake/tank,,,,,0.53,,
+KSPCB-5558,5558,kannahalli lake kannahalli,lake/tank,,,,,0.55,,
+KSPCB-5559,5559,shettihalli lake mallasandra gudde lake,lake/tank,,,,,0.61,,
+KSPCB-5560,5560,hoodi rajapalya lake,lake/tank,,,,,0.64,,
+KSPCB-5561,5561,munekolalu lake marathahalli,lake/tank,,,,,0.67,,
+KSPCB-5562,5562,mahadevpura lake k r puram,lake/tank,,,,,0.67,,
+KSPCB-5563,5563,segehalli lake baavanapura,lake/tank,,,,,0.67,,
+KSPCB-5564,5564,kannamangala lake hoskote,lake/tank,,,,,0.75,,
+KSPCB-5565,5565,kannur lake,lake/tank,Kannuru Lake,relation/17368637,13.0998585,77.6509796,0.92,OSM-Overpass-name-match,medium (OSM name match score 0.92)
+KSPCB-5566,5566,basavanapura lake ayyappa,lake/tank,,,,,0.75,,
+KSPCB-5567,5567,doddakallasandra lake,lake/tank,Doddakalasandra Lake,way/118910872,12.8821049,77.5615106,0.97,OSM-Overpass-name-match,medium (OSM name match score 0.97)
+KSPCB-5568,5568,ulsoor lake,lake/tank,Ulsoor Lake,relation/1857615,12.9824723,77.6193014,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-5569,5569,byrasandra upper lake,lake/tank,,,,,0.77,,
+KSPCB-5570,5570,soulkere kaikondrahalli,lake/tank,,,,,0.76,,
+KSPCB-5571,5571,kudlu doddakere kudlu,lake/tank,,,,,0.56,,
+KSPCB-5572,5572,kudlu chikkakere,lake/tank,,,,,0.56,,
+KSPCB-5573,5573,doddathogur lake doddathoguru,lake/tank,,,,,0.63,,
+KSPCB-5574,5574,anjanapura lake avala halli lake anjanapura,lake/tank,,,,,0.48,,
+KSPCB-5820,5820,chunchaghatta lake chunchaghatta,lake/tank,,,,,0.62,,
+KSPCB-5821,5821,kembhatahali lake kothannur,lake/tank,,,,,0.53,,
+KSPCB-5822,5822,doddakammanahalli lake doddakammanahalli,lake/tank,"Doddakammanahalli Lake Park, Doddakammanahalli, Bengaluru South City Corporation",relation/19509694,12.8559543,77.6048513,0.63,OSM-Nominatim,medium-low (Nominatim top hit; name is a water feature)
+KSPCB-5823,5823,basspura lake aishwarya crystal,lake/tank,,,,,0.43,,
+KSPCB-5825,5825,lower amblipura lake,lake/tank,,,,,0.62,,
+KSPCB-5826,5826,bhoganhalli lake bhoganhalli,lake/tank,,,,,0.63,,
+KSPCB-5828,5828,parappana agrahara chikka kere,lake/tank,Parappana Agrahara Lake,way/350153647,12.8791964,77.6613498,0.84,OSM-Overpass-name-match,medium (OSM name match score 0.84)
+KSPCB-5829,5829,vittasandra lake vittasandra,lake/tank,"Vittasandra Lake, Vittasandra, Bangalore South, Bengaluru Urban, Karnataka, Indi",way/170447464,12.8531951,77.6330953,0.65,OSM-Nominatim,medium-low (Nominatim top hit; name is a water feature)
+KSPCB-5830,5830,akshyanagara lake akshyanagara,lake/tank,,,,,0.57,,
+KSPCB-5831,5831,yallenahalli lake begur,lake/tank,,,,,0.69,,
+KSPCB-5833,5833,doddagubbi lake,lake/tank,Dodda Gubbi Kere,way/35927597,13.0767563,77.6738415,0.95,OSM-Overpass-name-match,medium (OSM name match score 0.95)
+KSPCB-5834,5834,chikkagubi lake,lake/tank,Chikka Gubbi Kere,way/42857728,13.0873344,77.6650503,0.91,OSM-Overpass-name-match,medium (OSM name match score 0.91)
+KSPCB-5835,5835,vijanapura lake,lake/tank,Vijinapura Lake,way/675250068,13.0091051,77.6765853,0.9,OSM-Overpass-name-match,medium (OSM name match score 0.90)
+KSPCB-5836,5836,cheemasandra,lake/tank,Cheemasandra Lake,way/1298349248,13.0433209,77.7405734,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-5837,5837,leghumenahalli lake,lake/tank,,,,,0.79,,
+KSPCB-5838,5838,varanasi lake,lake/tank,,,,,0.67,,
+KSPCB-5839,5839,gangashetty lake,lake/tank,,,,,0.5,,
+KSPCB-5840,5840,panathur lake,lake/tank,Panathuru Kere,relation/17062035,12.9317781,77.7068256,0.94,OSM-Overpass-name-match,medium (OSM name match score 0.94)
+KSPCB-5841,5841,garudacharpalya lake,lake/tank,Garudacharpalya Lake,way/95639129,12.9909295,77.6957012,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-5842,5842,mahadevapura lake,lake/tank,Mahadevapura Lake,relation/17426667,12.9871992,77.692144,1.0,OSM-Overpass-name-match,medium (OSM name match score 1.00)
+KSPCB-5843,5843,b narayannapura lake,lake/tank,B Narayanapura Lake,way/135398428,12.9962977,77.6828454,0.97,OSM-Overpass-name-match,medium (OSM name match score 0.97)
+KSPCB-5844,5844,halnayakanahalli lake,lake/tank,Halanayakanahalli Lake,way/1069600852,12.8989945,77.6915776,0.97,OSM-Overpass-name-match,medium (OSM name match score 0.97)

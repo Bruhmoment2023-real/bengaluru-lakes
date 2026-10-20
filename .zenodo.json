@@ -1,0 +1,21 @@
+{
+  "title": "Water quality in Bengaluru's lakes: a systematic review and open dataset of published and official measurements",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Systematic review and harmonised, row-level dataset of reported water-quality measurements for Bengaluru's lakes, with the code that builds it.",
+  "keywords": [
+    "Bengaluru",
+    "lakes",
+    "water quality",
+    "systematic review",
+    "open data",
+    "BOD",
+    "dissolved oxygen"
+  ]
+}

@@ -1,0 +1,12 @@
+year,DO_status,BOD_status,TC_status
+2013.0,{'always meets DO>4': 1},{'never meets BOD<3': 1},{'always meets TC<5000': 1}
+2014.0,{'always meets DO>4': 1},{'never meets BOD<3': 1},{'always meets TC<5000': 1}
+2016.0,"{'straddles': 28, 'always meets DO>4': 14, 'never meets DO>4': 2}","{'never meets BOD<3': 34, 'straddles': 10}","{'never meets TC<5000': 41, 'straddles': 3}"
+2017.0,"{'straddles': 29, 'always meets DO>4': 17, 'never meets DO>4': 1}","{'straddles': 29, 'never meets BOD<3': 17, 'always meets BOD<3': 1}","{'never meets TC<5000': 30, 'straddles': 17}"
+2018.0,"{'straddles': 30, 'always meets DO>4': 18, 'never meets DO>4': 3}","{'never meets BOD<3': 26, 'straddles': 25}","{'never meets TC<5000': 27, 'straddles': 24}"
+2019.0,"{'straddles': 54, 'always meets DO>4': 18, 'never meets DO>4': 3}","{'never meets BOD<3': 39, 'straddles': 34, 'always meets BOD<3': 2}","{'never meets TC<5000': 61, 'straddles': 14}"
+2020.0,"{'straddles': 80, 'always meets DO>4': 17, 'never meets DO>4': 2}","{'never meets BOD<3': 55, 'straddles': 44}","{'never meets TC<5000': 82, 'straddles': 17}"
+2021.0,"{'straddles': 74, 'always meets DO>4': 26, 'never meets DO>4': 1}","{'straddles': 51, 'never meets BOD<3': 50}","{'never meets TC<5000': 99, 'straddles': 2}"
+2022.0,"{'straddles': 81, 'always meets DO>4': 22, 'never meets DO>4': 1}","{'never meets BOD<3': 78, 'straddles': 26}","{'straddles': 73, 'never meets TC<5000': 30, 'always meets TC<5000': 1}"
+2023.0,"{'straddles': 100, 'always meets DO>4': 18, 'never meets DO>4': 3}",{'never meets BOD<3': 121},"{'never meets TC<5000': 100, 'straddles': 21}"
+2024.0,"{'straddles': 107, 'always meets DO>4': 11, 'never meets DO>4': 4}","{'never meets BOD<3': 121, 'straddles': 1}","{'straddles': 119, 'never meets TC<5000': 2, 'always meets TC<5000': 1}"

@@ -1,0 +1,41 @@
+id	label	weight<Occurrences>
+1	eutrophication	19
+2	heavy metals	47
+3	sewage	88
+4	foam	16
+5	froth	3
+6	water quality index	20
+7	phytoplankton	9
+8	zooplankton	5
+9	fish	39
+10	macrophyte	17
+11	restoration	33
+12	rejuvenation	12
+13	idol immersion	5
+14	governance	12
+15	urbanization	44
+16	groundwater	24
+17	coliform	25
+18	dissolved oxygen	52
+19	bod	121
+20	nutrient	42
+21	nitrate	42
+22	phosphate	34
+23	remote sensing	5
+24	sediment	25
+25	microplastic	3
+26	algal bloom	9
+27	surfactant	8
+28	pollution	112
+29	physico-chemical	43
+30	stp	8
+31	bellandur	66
+32	varthur	41
+33	hebbal	38
+34	ulsoor	22
+35	jakkur	7
+36	madiwala	7
+37	sankey	6
+38	lalbagh	3
+39	kengeri	7
+40	yelahanka	6

@@ -1,0 +1,7 @@
+,share_of_lake_months
+DO < 4 mg/L (Class C/D floor),0.3415273680760406
+DO < 5 mg/L (Class B),0.5476892822025565
+BOD > 3 mg/L (Class B/C),0.9993444772205834
+total coliform > 5000 MPN/100 mL (Class C),0.5050803015404786
+pH outside 6.5-8.5,0.022287774500163882
+free ammonia proxy (ammoniacal-N) > 1.2 mg/L,0.2700753851196329

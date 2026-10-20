@@ -1,0 +1,17 @@
+family,source_type,rows,lakes,sources
+DO/BOD/COD,grey-literature,12,2,1
+DO/BOD/COD,literature,909,22,14
+DO/BOD/COD,official-monitoring,11829,195,3
+coliforms,literature,44,4,4
+coliforms,official-monitoring,9169,155,3
+heavy metals,literature,1516,21,9
+heavy metals,official-monitoring,3505,185,2
+ions/hardness/alkalinity,literature,953,11,14
+ions/hardness/alkalinity,official-monitoring,25426,191,2
+"nutrients (N, P)",literature,481,9,10
+"nutrients (N, P)",official-monitoring,16051,195,3
+other,literature,183,4,5
+other,official-monitoring,15318,156,2
+pH/EC/TDS/temp/turbidity,grey-literature,4,2,1
+pH/EC/TDS/temp/turbidity,literature,1881,30,18
+pH/EC/TDS/temp/turbidity,official-monitoring,20702,195,3
