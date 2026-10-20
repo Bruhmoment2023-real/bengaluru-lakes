@@ -1,10 +1,10 @@
-# Water quality in Bengaluru's lakes: a systematic review and open dataset of published and official measurements
+# Water quality in Bengaluru's lakes: a systematic search and open dataset of published and official measurements
 
 Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
 ## Summary
 
-Bengaluru's lakes became known for foaming and fires, yet their water-quality measurements are scattered across papers, theses, reports and monthly PDF bulletins. This repository holds the code, screening record, extracted data and results behind a systematic review of six databases and the official sources (3,541 unique records screened), from which every reported measurement was extracted from 20 published studies and from the Karnataka State Pollution Control Board (KSPCB) monthly lake reports and Central Pollution Control Board (CPCB) annual tables, each row carrying provenance and comparability flags. Analyses cover coverage by lake and year, compliance with CPCB designated-use classes, and trend tests.
+Bengaluru's lakes became known for foaming and fires, yet their water-quality measurements are scattered across papers, theses, reports and monthly PDF bulletins. This repository holds the code, screening record, extracted data and results behind a systematic search of six databases and the official sources (3,541 unique records screened), from which every reported measurement was extracted from 20 published studies and from the Karnataka State Pollution Control Board (KSPCB) monthly lake reports and Central Pollution Control Board (CPCB) annual tables, each row carrying provenance and comparability flags. Analyses cover coverage by lake and year, compliance with CPCB designated-use classes, and trend tests.
 
 ## Repository layout
 
@@ -60,7 +60,7 @@ Full provenance notes: `data/release/LICENCE-NOTES.md` (written for the complete
 
 ## Citation
 
-Solano Paul, S. (2026). Water quality in Bengaluru's lakes: a systematic review and open dataset of published and official measurements. Code and data repository. See `CITATION.cff`. A Zenodo DOI will be added when the repository is made public.
+Solano Paul, S. (2026). Water quality in Bengaluru's lakes: a systematic search and open dataset of published and official measurements. Code and data repository. See `CITATION.cff`. A Zenodo DOI will be added when the repository is made public.
 
 ## Licences
 
