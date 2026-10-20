@@ -39,6 +39,14 @@ docs/            prior-work review, design, amendments, appendix (rerun script, 
 | "Bangalore Lakes Water Quality Results (2011)" (Department of Mines and Geology, via OpenCity) | analysis | no licence stated: NOT redistributed |
 | IISc ENVIS Technical Report 116 (2017), Table 3.1 | 16 range values | report copyright IISc: NOT redistributed |
 
+### CPCB source files (not redistributed)
+Central Pollution Control Board, National Water Quality Monitoring Programme, "Water quality of lakes, ponds and tanks" (cpcb.gov.in, Water Quality Monitoring pages). Files used, by year:
+- 2013 and 2014: HTML station tables (yearly pages)
+- 2015: `NWMP_2015.pdf`
+- 2016 to 2024: `Water_pond_tanks_<year>.pdf` (one file per year)
+- 2024 also: `LPT-PhysicoChemical.pdf`, `LPT-Nitorgen_Indicator.pdf`, `LPT-Bectological.pdf` (CPCB's own file names)
+Download them and run `code/extract_cpcb.py` to rebuild the 12,256 CPCB rows.
+
 Full provenance notes: `data/release/LICENCE-NOTES.md` (written for the complete table; the rows it lists for CPCB, the 2011 CSV and IISc are the ones omitted here).
 
 ## Not included and why

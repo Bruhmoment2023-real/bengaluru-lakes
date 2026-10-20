@@ -1,3 +1,5 @@
+> **Note for this repository:** these notes were written for the complete 108,915-row table. In this repository release, the CPCB rows (12,256), the 2011 Mines & Geology CSV rows (1,702) and the IISc rows (16) are **not included**, because no explicit licence permitting redistribution was found. `lake_measurements_long.csv` here has 94,941 rows (KSPCB and the 20 published studies). See the README for how to obtain the CPCB tables.
+
 # Licence and provenance notes (read before depositing)
 
 Checked 2026-10-17. "Opened" = the page or file was fetched and read in this session.
