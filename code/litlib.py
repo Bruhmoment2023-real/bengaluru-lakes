@@ -2,6 +2,7 @@
 (pdftotext -layout output) so extraction is auditable. Values are parsed from the text by program, not typed from memory, wherever a table exists."""
 import re, csv, os
 TX = r"E:\Research-Staging\13-bengaluru-lakes\text"
+if not os.path.isdir(TX): TX = r"D:\Research-Publishing\13-bengaluru-lakes\staged-from-E\text"  # copy of the E: staging (STAGING.md)
 OUT = r"D:\Research-Publishing\13-bengaluru-lakes\data\raw\extraction"
 os.makedirs(OUT, exist_ok=True)
 FIELDS = ["record_id", "lake", "site", "date_start", "date_end", "period_precision", "season", "parameter", "parameter_as_reported", "statistic", "value", "unit_as_reported",

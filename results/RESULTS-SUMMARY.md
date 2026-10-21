@@ -1,7 +1,7 @@
 # RESULTS-SUMMARY (bullets; numbers come from results/tables/*.csv produced by code/*.py on 2026-10-17)
 
 ## Evidence base
-- Search: 6,402 records from 6 databases (OpenAlex 819, Crossref 4,600, DOAJ 225, Google Scholar 240, Semantic Scholar 200, Shodhganga 318) -> 3,541 after de-duplication -> 332 retained at title/abstract. Full text obtained for 165; 20 published studies extracted, 4 excluded at full text, 30 eligible queued, 111 triage-negative (not read by eye), 167 not obtainable (X6). See fig01 and data/release/screening_log.csv.
+- Search: 6,402 records from 6 databases (OpenAlex 819, Crossref 4,600, DOAJ 225, Google Scholar 240, Semantic Scholar 200, Shodhganga 318) -> 3,541 after de-duplication -> 326 retained at title/abstract (after the author check of 60 sampled decisions). Full text obtained for 163; 20 published studies extracted, 4 excluded at full text, 31 eligible queued, 108 triage-negative (not read by eye), 163 not obtainable (X6). See fig01 and data/release/screening_log.csv.
 - Dataset (data/release/lake_measurements_long.csv): 108,915 rows (104,283 with a numeric value), 24 sources, 202 lake keys plus one key for a group of four lakes that one study reported together (39 rows; not counted as a lake, so 203 keys in the file). Sources: KSPCB monthly reports 88,935 rows (27 of 28 files parsed; Jul 2023 - Nov 2025), CPCB NWMP annual min/max 12,256 rows (2013-14 Ulsoor, 2016-2024), DMG 2011 CSV 1,702, IISc blueprint 16, 20 published studies 6,006.
 - Parameter coverage (t03/t03b): DO, BOD, pH, EC, coliforms and temperature are covered mainly by the official series; nutrients are N species in KSPCB (nitrate-N, nitrite-N, ammoniacal-N; phosphate in part of the months) and nitrate/phosphate in 12 studies; heavy metals: 3,011 KSPCB values (2024-25 months), 510 DMG 2011 values, and 7 studies (L068 Varthur, L112 16 lakes, L138, L147 Hebbal, L409 Bellandur, L421 Ulsoor/Agara, L445/L453/L492 in part). Foaming: no measurement dataset; 19 candidate papers mention foam/froth/surfactant/fire in title/abstract (t09).
 - Lakes: only Bellandur (66 candidate papers), Varthur (41), Hebbal (38), Ulsoor (22) exceed 20 candidate mentions; 122 of 202 lake keys have coordinates; most KSPCB-monitored lakes have no published study (fig05, fig02).
@@ -27,6 +27,6 @@
 - Data-quality exclusions: two papers with physically implausible tables; several others kept with flags (DO 41.2 mg/L for Ulsoor in the DMG 2011 CSV; DO 10-14 with BOD 20-30 in L207).
 
 ## Limits
-- Single screener/extractor; 20 of ~165 retrieved studies read; 167 candidates without open full text; Google Scholar/Semantic Scholar partial.
+- Single screener/extractor, with a non-blind author check of a sample (100 values, 60 screening decisions; docs/02a-amendments.md A9); 20 of 163 retrieved studies read; 163 candidates without open full text; Google Scholar/Semantic Scholar partial.
 - BOD basis (3 d at 27 C vs 5 d at 20 C), nitrate/phosphate basis and coliform method (MPN vs CFU) differ or are unstated; values are flagged, not converted unless the basis is stated.
 - KSPCB/CPCB use annual extremes or single monthly grabs; neither gives sampling dates inside the month.

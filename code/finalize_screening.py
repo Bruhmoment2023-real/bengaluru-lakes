@@ -6,7 +6,7 @@ R = r"D:\Research-Publishing\13-bengaluru-lakes"
 raw = pd.read_csv(R + r"\data\raw\records-raw.csv")
 dd = pd.read_csv(R + r"\data\clean\records-dedup-flagged.csv")
 pool = pd.read_csv(R + r"\data\clean\screen-pool.csv")[["id", "key"]]
-dec = pd.read_csv(R + r"\data\clean\screening-pool-decisions.csv")
+dec = pd.read_csv(R + r"\data\clean\screening-pool-decisions-final.csv")  # first pass: screening-pool-decisions.csv; corrections from the check in data/checks/check-changelog.csv
 tri = pd.read_csv(R + r"\data\clean\fulltext-triage.csv")
 fl = pd.read_csv(R + r"\data\raw\fulltext-fetch-log.csv", header=None, names=["id", "title", "status", "url"], on_bad_lines="skip")
 fl = fl[pd.to_numeric(fl.id, errors="coerce").notna()].copy(); fl["id"] = fl.id.astype(int)
@@ -15,7 +15,7 @@ EXC_FT = {403: "X1 not Bengaluru (Hebbal Lake at Krishnarajanagara, Mysuru distr
           524: "X5 narrative review compiling values from other studies; no new measurements",
           290: "X8 data-quality exclusion: implausible repeated-digit values (e.g. DO 21.21 and 36.36 mg/L; Sn 24 ppm) in all three lakes",
           441: "X8 data-quality exclusion: pH reported as 16.00 +/- 27.71, 'humidity' listed as a water parameter, summer water temperature 42 C"}
-LOWPRI = {241: "alkali/alkaline-earth metals only in tables, time given as days after idol immersion, year not stated; heavy metals only in figures", 288: "same design as 241 (Yelahanka and Yediyur lakes)"}
+LOWPRI = {350: "sampling year not stated (journal received the paper in March 2014); six-month summary table only, and the table rows are misaligned in the text layer, so it needs reading from the page image", 241: "alkali/alkaline-earth metals only in tables, time given as days after idol immersion, year not stated; heavy metals only in figures", 288: "same design as 241 (Yelahanka and Yediyur lakes)"}
 # merge
 m = dd.merge(pool, on="key", how="left").merge(dec[["id", "decision", "reason"]], on="id", how="left")
 m["stage1_decision"] = np.where(m.decision == "full-text check", "retain for full-text check", "exclude")
@@ -68,6 +68,6 @@ box(0.05, 0.10, 0.28, 0.20, f"Included, extracted:\n{s2.get('included - extracte
 box(0.36, 0.10, 0.28, 0.20, f"Eligible, extraction queued:\n{s2.get('eligible - full text retrieved, extraction queued', 0) + s2.get('eligible - extraction queued (low priority)', 0)}\nTriage-negative (unverified): {s2.get('full text retrieved - no extractable numeric table found by automated triage', 0)}", "#fff6dc")
 box(0.67, 0.10, 0.28, 0.20, f"Excluded at full text:\n{s2.get('excluded at full text', 0)} (X1, X5, 2x X8)", "#f6f6f6")
 for a in ((0.5, 0.86, 0.26, 0.80), (0.26, 0.70, 0.26, 0.64), (0.47, 0.75, 0.55, 0.75), (0.47, 0.585, 0.55, 0.585), (0.26, 0.53, 0.26, 0.47), (0.47, 0.415, 0.55, 0.415), (0.26, 0.36, 0.19, 0.30), (0.26, 0.36, 0.50, 0.30), (0.26, 0.36, 0.80, 0.30)): arrow(*a)
-ax.set_title("PRISMA-style flow (single screener; extraction not yet complete for the queued records)", fontsize=11)
+ax.set_title("PRISMA-style flow (extraction not yet complete for the queued records)", fontsize=11)
 os.makedirs(R + r"\results\figures", exist_ok=True)
 fig.savefig(R + r"\results\figures\fig01_prisma_flow.png", dpi=200, bbox_inches="tight"); fig.savefig(R + r"\results\figures\fig01_prisma_flow.svg", bbox_inches="tight")

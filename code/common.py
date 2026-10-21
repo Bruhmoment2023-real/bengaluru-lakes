@@ -1,7 +1,7 @@
 """HTTP helper: on-disk cache in data/raw/cache, per-host throttle, descriptive UA, no personal identifiers."""
 import hashlib, json, os, time, requests
 ROOT = r"D:\Research-Publishing\13-bengaluru-lakes"
-CACHE = "E:/Research-Staging/13-bengaluru-lakes/cache"
+CACHE = "D:/Research-Publishing/13-bengaluru-lakes/staged-from-E/cache"  # copy of the E: staging cache (STAGING.md); was E:/Research-Staging/13-bengaluru-lakes/cache
 os.makedirs(CACHE, exist_ok=True)
 UA = "BengaluruLakesReview/1.0 (open-data systematic review; contact via project folder)"
 INTERVAL = {"api.openalex.org": 1.0, "api.crossref.org": 0.5, "api.semanticscholar.org": 3.0,

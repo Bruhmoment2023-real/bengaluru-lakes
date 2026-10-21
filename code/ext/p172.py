@@ -6,7 +6,7 @@ P = [("temperature", "degC"), ("pH", "pH units"), ("TDS", "mg/L"), ("EC", "umho/
      ("phosphate", "mg/L"), ("nitrate", "mg/L"), ("sulphate", "mg/L"), ("phytoplankton", "units/mL"), ("zooplankton", "units/mL"), ("total_coliform", "CFU/100mL")]
 main = []; quad = []
 for i in range(168, 190):
-    s = x.L[i].strip()
+    s = re.sub(r"(?<=[A-Za-z])-1\b", "", x.L[i].strip())  # drop the "-1" exponent in units (mg L-1, cm-1): read as a number it shifted every month by one (check E062-E064)
     if re.match(r"^\d{1,2}\s+[A-Za-z]", s):
         v = nums(s)[1:]
         if "cfu 100" in s: v.remove(100.0)

@@ -9,7 +9,7 @@ from lakekey import lake_key
 R = r"D:\Research-Publishing\13-bengaluru-lakes"
 d = pd.read_csv(R + r"\data\release\lake_measurements_long.csv", low_memory=False)
 g = pd.read_csv(R + r"\data\clean\lake_gazetteer_kspcb.csv"); g["lake_key"] = g.name_kspcb.map(lake_key)
-pool = pd.read_csv(R + r"\data\clean\screening-pool-decisions.csv")
+pool = pd.read_csv(R + r"\data\clean\screening-pool-decisions-final.csv")
 pool = pool[pool.decision == "full-text check"].merge(pd.read_csv(R + r"\data\clean\screen-pool.csv")[["id", "abstract", "authors"]], on="id", how="left")
 # ---------- OSM features
 osm = json.load(open(R + r"\data\raw\osm\overpass-water-bengaluru.json", encoding="utf-8"))["elements"]
