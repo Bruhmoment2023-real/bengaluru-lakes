@@ -111,21 +111,22 @@ for col in ("BOD_max", "DO_min", "faecal_coliform_MPN_max"):
 pd.DataFrame(out).to_csv(T + r"\t08b_ulsoor_pre_post_2017.csv", index=False); print(pd.DataFrame(out).to_string())
 # ---------------------------------------------------------------- Hebbal cross-source figure (BOD, DO)
 hb = d[d.lake_key == "hebbal"].copy()
-# sized for print at the paper's text width (6.5 in); title on three lines, one legend under the panels; all text >= 8 pt
-fig, axs = plt.subplots(1, 2, figsize=(6.5, 3.85))
+# sized for print at 174 mm (Springer single-column width); no title inside the figure (the caption is in the paper);
+# one legend under the panels, all text >= 8 pt. The KSPCB rows are sorted by date before the line is drawn: the CSV
+# is not in date order, and unsorted the line ran backwards in time.
+fig, axs = plt.subplots(1, 2, figsize=(174 / 25.4, 3.6))
 for a_, par, lab in zip(axs, ["BOD", "DO"], ["BOD (mg/L)", "DO (mg/L)"]):
     x1 = hb[(hb.record_id == "L147") & (hb.parameter_std == par) & (hb.statistic == "single")]; x1 = x1.assign(t=pd.to_datetime(x1.date_start))
-    a_.scatter(x1.t, x1.value_std, s=6, color="#9ecae1", label="L147 (thesis): 8 stations x 12 months, 2013")
-    kk = hb[(hb.record_id == "KSPCB") & (hb.parameter_std == par)]; kk = kk.assign(t=pd.to_datetime(kk.date_start)); a_.plot(kk.t, kk.value_std, "o-", color="#08519c", ms=2.5, lw=1.2, label="KSPCB monthly (station 3625)")
+    a_.scatter(x1.t, x1.value_std, s=6, color="#9ecae1", label="Thesis, 2013 (Nagendra Babu, 2014): 8 stations x 12 months")
+    kk = hb[(hb.record_id == "KSPCB") & (hb.parameter_std == par)]; kk = kk.assign(t=pd.to_datetime(kk.date_start)).sort_values("t"); a_.plot(kk.t, kk.value_std, "o-", color="#08519c", ms=2.5, lw=1.2, label="KSPCB monthly (station 3625)")
     cc = hb[(hb.record_id == "CPCB") & (hb.parameter_std == par) & hb.statistic.isin(["min", "max"]) & (hb.station_code == 3627) | ((hb.record_id == "CPCB") & (hb.parameter_std == par) & hb.statistic.isin(["min", "max"]) & (hb.station_code == 3625))]
     for yr, g in cc.groupby("year"):
         a_.plot([pd.Timestamp(f"{int(yr)}-07-01")] * 2, [g[g.statistic == "min"].value_std.min(), g[g.statistic == "max"].value_std.max()], color="#d94801", lw=2.5, alpha=0.7, label="CPCB annual min-max" if yr == cc.year.min() else None)
-    a_.axhline(3 if par == "BOD" else 4, ls="--", color="grey", lw=0.8); a_.set_ylabel(lab); a_.set_xlabel("Date")
+    a_.axhline(3 if par == "BOD" else 4, ls="--", color="grey", lw=0.8, label="CPCB criterion (BOD 3, DO 4 mg/L)"); a_.set_ylabel(lab); a_.set_xlabel("Date")
     a_.tick_params(labelsize=8.5)
 h, l = axs[0].get_legend_handles_labels()
-fig.legend(h, l, loc="lower center", ncol=2, frameon=False, fontsize=8.5, bbox_to_anchor=(0.5, 0.0))
-fig.suptitle("Hebbal Lake (Bengaluru): three compilations of BOD and DO\n(CPCB 2023-24 annual ranges are derived from the KSPCB monthly data)\n(dashed = CPCB criterion BOD 3, DO 4)", fontsize=9)
-fig.tight_layout(rect=(0, 0.11, 1, 1)); fig.savefig(F + r"\fig08_hebbal_cross_source.png", dpi=300); plt.close(fig)
+fig.legend(h, l, loc="lower center", ncol=2, frameon=False, fontsize=8, bbox_to_anchor=(0.5, 0.0), columnspacing=1.2, handlelength=1.6)
+fig.tight_layout(rect=(0, 0.12, 1, 1)); fig.savefig(F + r"\fig08_hebbal_cross_source.png", dpi=300); plt.close(fig)
 # ---------------------------------------------------------------- consistency: KSPCB monthly values inside CPCB annual range, same station, 2023-24
 inside = []
 for yr in (2023, 2024):
