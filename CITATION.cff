@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Water quality in Bengaluru's lakes: a systematic search and open dataset of published and official measurements"
+doi: 10.5281/zenodo.23537686
 type: software
 authors:
   - family-names: "Solano Paul"

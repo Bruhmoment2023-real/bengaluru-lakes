@@ -1,5 +1,7 @@
 # Water quality in Bengaluru's lakes: a systematic search and open dataset of published and official measurements
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537686 (this DOI always points to the latest version).
+
 Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
 ## Summary
