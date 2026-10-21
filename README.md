@@ -24,7 +24,7 @@ docs/            prior-work review, design, amendments, appendix (rerun script, 
 ## How to reproduce
 
 - Python 3.12; `pip install -r requirements.txt`. Scripts are run with `python -X utf8 -I <script>`.
-- Run order is in `code/README.md` and `docs/appendix/rerun.ps1`: `build_dataset.py`, `build_lakes.py`, `finalize_screening.py`, `analysis_coverage.py`, `analysis_compliance_trends.py`, then `bibliometrics/python/bib_analysis.py` and `main_path.py`.
+- Run order is in `code/README.md` and `docs/appendix/rerun.ps1`: `build_dataset.py`, `build_lakes.py`, `finalize_screening.py`, `analysis_coverage.py`, `analysis_compliance_trends.py`, `literature_compliance.py`, then `bibliometrics/python/bib_analysis.py` and `main_path.py`.
 - The scripts were written against a working tree rooted at `D:\Research-Publishing\13-bengaluru-lakes` (see `R = ...` near the top of each script and `code/common.py`); edit that root path to your checkout.
 - `build_dataset.py` also reads CPCB and 2011 inputs that are not redistributed here (see below). To rebuild the full 108,915-row table, obtain those sources and re-create the inputs with `extract_cpcb.py` and `ext_dmg2011.py` / `ext_bp2017.py`. Otherwise use the released subset in `data/release/`.
 - Searches (`search.py`) and full-text fetching (`fetch_fulltext.py`) call public APIs and are slow and rate-limited; no personal identifier is sent.

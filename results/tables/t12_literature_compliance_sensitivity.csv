@@ -1,7 +1,7 @@
 subset,parameter,n_values,share_failing
-all,DO,241,0.274
-all,BOD,244,0.951
+all,DO,241,0.27
+all,BOD,244,0.955
 all,pH,258,0.236
-score>=3,DO,235,0.281
-score>=3,BOD,234,0.949
+score>=3,DO,235,0.277
+score>=3,BOD,234,0.953
 score>=3,pH,248,0.246

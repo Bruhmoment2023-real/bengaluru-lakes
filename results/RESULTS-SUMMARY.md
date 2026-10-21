@@ -23,7 +23,7 @@
 ## Consistency (RQ5; t10, t11; fig08)
 - CPCB 2023-24 annual min-max contain 99.5-100 percent of the KSPCB monthly values at the same station codes (t10): the two official series are one data stream, not two independent sources (changes the trend rule, 02a A4).
 - Between independent sources for the same lake the spread is large and partly methodological. Examples (t11): Hebbal BOD median 6.0 (L147, 2013, 108 values), 22.9 (L287, undated, 38 values), 3.1 (L492, undated, 3 values), 7.0 (KSPCB 2023-25); Varthur BOD 58.5 (L514, 2025) vs 14.0 (KSPCB/CPCB medians) vs 6.4 (L112, KSPCB 2008-10 means); Ulsoor DO 12 (L207, 2011-12) vs 5.3-5.7 (KSPCB/CPCB).
-- Quality score (0-6) of the 20 studies: median 3 (range 1-4), 15 of 20 score >= 3. Sensitivity (t12): literature values failing DO >= 4: 27.4 percent (all, n = 241) vs 28.1 percent (score >= 3, n = 235); BOD > 3: 95.1 vs 94.9 percent; pH outside 6.5-8.5: 23.6 vs 24.6 percent. Restricting to higher-scored studies changes nothing material.
+- Quality score (0-6) of the 20 studies: median 3 (range 1-4), 15 of 20 score >= 3. Sensitivity (t12): literature values failing DO >= 4: 27.0 percent (all, n = 241) vs 27.7 percent (score >= 3, n = 235); BOD > 3: 95.5 vs 95.3 percent; pH outside 6.5-8.5: 23.6 vs 24.6 percent. Restricting to higher-scored studies changes nothing material. (Table made by code/literature_compliance.py; re-run after the author check.)
 - Data-quality exclusions: two papers with physically implausible tables; several others kept with flags (DO 41.2 mg/L for Ulsoor in the DMG 2011 CSV; DO 10-14 with BOD 20-30 in L207).
 
 ## Limits
