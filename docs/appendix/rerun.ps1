@@ -14,6 +14,6 @@ if ($Full) {
   Run "code\ext_dmg2011.py"; Run "code\ext_bp2017.py"
 }
 Run "code\build_dataset.py"; Run "code\build_lakes.py"; Run "code\finalize_screening.py"
-Run "code\analysis_coverage.py"; Run "code\analysis_compliance_trends.py"
+Run "code\analysis_coverage.py"; Run "code\analysis_compliance_trends.py"; Run "code\literature_compliance.py"
 Run "bibliometrics\python\bib_analysis.py"; Run "bibliometrics\python\main_path.py"
 Write-Host "done: results in $R\results and $R\data\release"
