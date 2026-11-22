@@ -1,0 +1,18 @@
+# Amendment A10 (22 Nov 2026): hypotheses for the self-confirmation tests
+
+Written before `code/v18_self_confirmation_tests.py` was first run. The protocol (02-design.md) is dated 17 Oct 2026; this amendment is dated 22 Nov 2026. No new data were collected; every test uses the compiled dataset.
+
+Status of each hypothesis. H1 and H2 formalise two patterns found earlier in exploratory work (A4), so their p-values describe the data and do not confirm a prior prediction. H3 to H8 were specified after the dataset was complete and are exploratory. Holm correction is applied across the four primary new tests (H4 DO, H4 BOD, H6 COD, H7 undated versus dated).
+
+| id | Hypothesis | Test | Would count against it |
+|---|---|---|---|
+| H1 | The CPCB annual ranges are not independent of the KSPCB monthly values. | Share of KSPCB lake-months (2023, 2024; BOD, DO) inside the CPCB range of the same station-year, against the same values tested against (a) other stations' ranges in the same year, (b) the same station's 2016-2022 ranges; permutation test over station labels; exact binomial against the higher null. | Containment no higher than the nulls. |
+| H2 | KSPCB BOD values sit on a reporting floor. | Zero values below 3.2 mg/L against the published studies' share below 3.2 (Fisher exact); whole-number share and heaping at 4.0, 5.0, 6.0 against neighbouring 0.1 steps; interval-bound table for the share over the 3 mg/L limit and for class A to C compliance. | Low values present in the KSPCB series at a rate similar to independent sources. |
+| H3 | Failure of the designated-use classes is driven by BOD in most lakes, and the conclusion survives the floor. | Per-lake binding parameter; class A to C months if every BOD up to 5 mg/L is allowed to be as low as 2. | Many lakes meeting class C in some months under the floor assumption. |
+| H4 | Water quality is worse in the dry months (January to May) than the wet months (June to December): lower DO, higher BOD and coliform. | Site-paired Wilcoxon on site medians; site fixed effects regression with site-clustered errors; repeated separately for 2024 and 2025. | Differences near zero or in opposite directions in the two years. |
+| H5 | Lake identity explains most of the variance; month-to-month variation is smaller. | ICC(1) by site with a site-bootstrap interval; incremental R2 of calendar month; the same for CPCB 2016-22 annual extremes by year. | ICC near zero. |
+| H6 | Lakes remove organic load and nutrients: outlet values are lower than inlet values in the 2011 table. Only possible if station position is recorded (it is: inlet, middle, outlet, periphery). | Paired Wilcoxon on lake medians (COD primary; nitrate-N, phosphate-P, TSS, chloride secondary); DO tested only if at least 8 lakes have both positions. | Outlet no lower than inlet. |
+| H7 | Disagreement between a published study and the official series is larger for undated studies, studies with quality score below 3 and studies with fewer than 10 values. | Absolute log10 ratio of study median to KSPCB median for each study-lake-parameter; Mann-Whitney (one-sided); bootstrap over studies for the difference in medians. | No difference, or the reverse. |
+| H8 | Monitoring coverage is thin: many lake-year-parameter cells empty; foam-related measurements absent. | Counts of lakes with any value per year and parameter family, 2015 to 2025; lake-years with at least 9 monthly values. | Dense coverage. |
+
+Dropped before the run (and why): a trend-versus-sewage-inflow test (the dataset holds no catchment, STP or inflow covariates; collecting them would be new data, so it is not attempted); a 1-to-1 comparison of CPCB ranges for 2016-2022 against KSPCB (the KSPCB series starts in 2023).

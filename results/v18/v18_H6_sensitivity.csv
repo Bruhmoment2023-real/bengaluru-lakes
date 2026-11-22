@@ -1,0 +1,5 @@
+parameter,scope,lakes,median_diff_outlet_minus_inlet,wilcoxon_p
+COD,values below the 95th percentile,23,0.0,0.11551769461154042
+nitrate_N,values below the 95th percentile,29,-0.027107617240444526,0.49451667461355175
+phosphate_P,values below the 95th percentile,29,0.0,0.07303812648742904
+TSS,values below the 95th percentile,26,-5.25,0.38778805269923255

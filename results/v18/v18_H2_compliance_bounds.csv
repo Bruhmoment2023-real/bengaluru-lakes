@@ -1,0 +1,6 @@
+scenario,floor,share_BOD_over_3_lower_bound,n_over,n_with_bod,share_class_A,share_class_B,share_class_C,share_class_ABC
+as printed,,100.0,3049,3049,0,0.0,0.0,0.0
+values <= 3.2 treated as possibly <= 2,3.2,100.0,3048,3049,0,0.0,0.0,0.0
+values <= 4.0 treated as possibly <= 2,4.0,84.8,2586,3049,0,0.4,7.9,8.3
+values <= 5.0 treated as possibly <= 2,5.0,71.9,2193,3049,0,0.6,16.1,16.7
+values <= 6.0 treated as possibly <= 2,6.0,61.4,1871,3049,0,0.8,22.2,22.9

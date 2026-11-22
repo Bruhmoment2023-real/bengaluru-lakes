@@ -1,0 +1,4673 @@
+lake_key,yr,family,values,sources,months
+abbigere,2020,BOD,2,1,1
+abbigere,2020,DO,2,1,1
+abbigere,2020,coliform,4,1,1
+abbigere,2020,nutrients,2,1,1
+abbigere,2021,BOD,2,1,1
+abbigere,2021,DO,2,1,1
+abbigere,2021,coliform,4,1,1
+abbigere,2021,nutrients,2,1,1
+abbigere,2022,BOD,2,1,1
+abbigere,2022,DO,2,1,1
+abbigere,2022,coliform,4,1,1
+abbigere,2022,nutrients,2,1,1
+abbigere,2023,BOD,3,2,2
+abbigere,2023,DO,3,2,2
+abbigere,2023,coliform,6,2,2
+abbigere,2023,nutrients,3,2,2
+abbigere,2024,BOD,13,2,11
+abbigere,2024,COD,8,1,8
+abbigere,2024,DO,13,2,11
+abbigere,2024,coliform,26,2,11
+abbigere,2024,metals,8,1,1
+abbigere,2024,nutrients,51,2,11
+abbigere,2025,BOD,11,1,11
+abbigere,2025,COD,11,1,11
+abbigere,2025,DO,11,1,11
+abbigere,2025,coliform,22,1,11
+abbigere,2025,metals,16,1,2
+abbigere,2025,nutrients,66,1,11
+agara,2016,BOD,2,1,1
+agara,2016,DO,2,1,1
+agara,2016,coliform,4,1,1
+agara,2016,nutrients,2,1,1
+agara,2017,BOD,2,1,1
+agara,2017,DO,2,1,1
+agara,2017,coliform,4,1,1
+agara,2017,nutrients,2,1,1
+agara,2018,BOD,2,1,1
+agara,2018,DO,2,1,1
+agara,2018,coliform,4,1,1
+agara,2018,nutrients,2,1,1
+agara,2019,BOD,2,1,1
+agara,2019,DO,2,1,1
+agara,2019,coliform,4,1,1
+agara,2019,nutrients,2,1,1
+agara,2020,BOD,2,1,1
+agara,2020,DO,2,1,1
+agara,2020,coliform,4,1,1
+agara,2020,nutrients,2,1,1
+agara,2021,BOD,2,1,1
+agara,2021,DO,2,1,1
+agara,2021,coliform,4,1,1
+agara,2021,metals,29,1,5
+agara,2021,nutrients,2,1,1
+agara,2022,BOD,2,1,1
+agara,2022,DO,2,1,1
+agara,2022,coliform,4,1,1
+agara,2022,metals,37,1,7
+agara,2022,nutrients,2,1,1
+agara,2023,BOD,6,2,5
+agara,2023,COD,2,1,2
+agara,2023,DO,6,2,5
+agara,2023,coliform,12,2,5
+agara,2023,nutrients,10,2,5
+agara,2024,BOD,13,2,12
+agara,2024,COD,8,1,8
+agara,2024,DO,13,2,12
+agara,2024,coliform,26,2,12
+agara,2024,metals,8,1,1
+agara,2024,nutrients,52,2,12
+agara,2025,BOD,11,1,11
+agara,2025,COD,11,1,11
+agara,2025,DO,11,1,11
+agara,2025,coliform,22,1,11
+agara,2025,metals,16,1,2
+agara,2025,nutrients,66,1,11
+akshyanagara akshyanagara,2025,BOD,8,1,8
+akshyanagara akshyanagara,2025,COD,8,1,8
+akshyanagara akshyanagara,2025,DO,8,1,8
+akshyanagara akshyanagara,2025,coliform,16,1,8
+akshyanagara akshyanagara,2025,metals,16,1,2
+akshyanagara akshyanagara,2025,nutrients,48,1,8
+allalasandra,2016,BOD,2,1,1
+allalasandra,2016,DO,2,1,1
+allalasandra,2016,coliform,4,1,1
+allalasandra,2016,nutrients,2,1,1
+allalasandra,2017,BOD,2,1,1
+allalasandra,2017,DO,2,1,1
+allalasandra,2017,coliform,4,1,1
+allalasandra,2017,nutrients,2,1,1
+allalasandra,2018,BOD,2,1,1
+allalasandra,2018,DO,2,1,1
+allalasandra,2018,coliform,4,1,1
+allalasandra,2018,nutrients,2,1,1
+allalasandra,2019,BOD,2,1,1
+allalasandra,2019,DO,2,1,1
+allalasandra,2019,coliform,4,1,1
+allalasandra,2019,nutrients,2,1,1
+allalasandra,2020,BOD,2,1,1
+allalasandra,2020,DO,2,1,1
+allalasandra,2020,coliform,4,1,1
+allalasandra,2020,nutrients,2,1,1
+allalasandra,2021,BOD,2,1,1
+allalasandra,2021,DO,2,1,1
+allalasandra,2021,coliform,4,1,1
+allalasandra,2021,nutrients,2,1,1
+allalasandra,2022,BOD,2,1,1
+allalasandra,2022,DO,2,1,1
+allalasandra,2022,coliform,4,1,1
+allalasandra,2022,nutrients,2,1,1
+allalasandra,2023,BOD,6,2,5
+allalasandra,2023,COD,2,1,2
+allalasandra,2023,DO,6,2,5
+allalasandra,2023,coliform,12,2,5
+allalasandra,2023,nutrients,10,2,5
+allalasandra,2024,BOD,12,2,11
+allalasandra,2024,COD,8,1,8
+allalasandra,2024,DO,12,2,11
+allalasandra,2024,coliform,24,2,11
+allalasandra,2024,metals,8,1,1
+allalasandra,2024,nutrients,51,2,11
+allalasandra,2025,BOD,11,1,11
+allalasandra,2025,COD,11,1,11
+allalasandra,2025,DO,11,1,11
+allalasandra,2025,coliform,22,1,11
+allalasandra,2025,metals,16,1,2
+allalasandra,2025,nutrients,66,1,11
+alur,2020,BOD,2,1,1
+alur,2020,DO,2,1,1
+alur,2020,coliform,4,1,1
+alur,2020,nutrients,2,1,1
+alur,2021,BOD,2,1,1
+alur,2021,DO,2,1,1
+alur,2021,coliform,4,1,1
+alur,2021,nutrients,2,1,1
+alur,2022,BOD,2,1,1
+alur,2022,DO,2,1,1
+alur,2022,coliform,4,1,1
+alur,2022,nutrients,2,1,1
+alur,2023,BOD,5,2,4
+alur,2023,COD,1,1,1
+alur,2023,DO,5,2,4
+alur,2023,coliform,10,2,4
+alur,2023,nutrients,7,2,4
+alur,2024,BOD,12,2,10
+alur,2024,COD,8,1,8
+alur,2024,DO,12,2,10
+alur,2024,coliform,24,2,10
+alur,2024,metals,8,1,1
+alur,2024,nutrients,51,2,10
+alur,2025,BOD,11,1,11
+alur,2025,COD,11,1,11
+alur,2025,DO,11,1,11
+alur,2025,coliform,22,1,11
+alur,2025,metals,16,1,2
+alur,2025,nutrients,66,1,11
+amruthahalli,2011,COD,3,1,1
+amruthahalli,2011,DO,1,1,1
+amruthahalli,2011,metals,12,1,1
+amruthahalli,2011,nutrients,6,1,1
+amruthahalli,2018,BOD,2,1,1
+amruthahalli,2018,DO,2,1,1
+amruthahalli,2018,coliform,4,1,1
+amruthahalli,2018,nutrients,2,1,1
+amruthahalli,2019,BOD,2,1,1
+amruthahalli,2019,DO,2,1,1
+amruthahalli,2019,coliform,4,1,1
+amruthahalli,2019,nutrients,2,1,1
+amruthahalli,2020,BOD,2,1,1
+amruthahalli,2020,DO,2,1,1
+amruthahalli,2020,coliform,4,1,1
+amruthahalli,2020,nutrients,2,1,1
+amruthahalli,2021,BOD,2,1,1
+amruthahalli,2021,DO,2,1,1
+amruthahalli,2021,coliform,4,1,1
+amruthahalli,2021,nutrients,2,1,1
+amruthahalli,2022,BOD,2,1,1
+amruthahalli,2022,DO,2,1,1
+amruthahalli,2022,coliform,4,1,1
+amruthahalli,2022,nutrients,2,1,1
+amruthahalli,2023,BOD,3,2,2
+amruthahalli,2023,DO,3,2,2
+amruthahalli,2023,coliform,6,2,2
+amruthahalli,2023,nutrients,3,2,2
+amruthahalli,2024,BOD,11,2,10
+amruthahalli,2024,COD,8,1,8
+amruthahalli,2024,DO,11,2,10
+amruthahalli,2024,coliform,22,2,10
+amruthahalli,2024,metals,8,1,1
+amruthahalli,2024,nutrients,50,2,10
+amruthahalli,2025,BOD,10,1,10
+amruthahalli,2025,COD,10,1,10
+amruthahalli,2025,DO,10,1,10
+amruthahalli,2025,coliform,20,1,10
+amruthahalli,2025,metals,16,1,2
+amruthahalli,2025,nutrients,60,1,10
+anchepalya,2020,BOD,2,1,1
+anchepalya,2020,DO,2,1,1
+anchepalya,2020,coliform,4,1,1
+anchepalya,2020,nutrients,2,1,1
+anchepalya,2022,BOD,2,1,1
+anchepalya,2022,DO,2,1,1
+anchepalya,2022,coliform,4,1,1
+anchepalya,2022,nutrients,2,1,1
+anchepalya,2023,BOD,5,2,4
+anchepalya,2023,COD,1,1,1
+anchepalya,2023,DO,5,2,4
+anchepalya,2023,coliform,10,2,4
+anchepalya,2023,nutrients,7,2,4
+anchepalya,2024,BOD,14,2,12
+anchepalya,2024,COD,8,1,8
+anchepalya,2024,DO,14,2,12
+anchepalya,2024,coliform,28,2,12
+anchepalya,2024,metals,8,1,1
+anchepalya,2024,nutrients,53,2,12
+anchepalya,2025,BOD,11,1,11
+anchepalya,2025,COD,11,1,11
+anchepalya,2025,DO,11,1,11
+anchepalya,2025,coliform,22,1,11
+anchepalya,2025,metals,16,1,2
+anchepalya,2025,nutrients,66,1,11
+andrahalli,2011,COD,2,1,1
+andrahalli,2011,DO,2,1,1
+andrahalli,2011,coliform,4,1,1
+andrahalli,2011,metals,8,1,1
+andrahalli,2011,nutrients,4,1,1
+andrahalli,2018,BOD,2,1,1
+andrahalli,2018,DO,2,1,1
+andrahalli,2018,coliform,4,1,1
+andrahalli,2018,nutrients,2,1,1
+andrahalli,2019,BOD,2,1,1
+andrahalli,2019,DO,2,1,1
+andrahalli,2019,coliform,4,1,1
+andrahalli,2019,nutrients,2,1,1
+andrahalli,2020,BOD,6,2,4
+andrahalli,2020,COD,4,1,4
+andrahalli,2020,DO,6,2,4
+andrahalli,2020,coliform,8,2,4
+andrahalli,2020,nutrients,2,1,1
+andrahalli,2021,BOD,2,1,1
+andrahalli,2021,DO,2,1,1
+andrahalli,2021,coliform,4,1,1
+andrahalli,2021,nutrients,2,1,1
+andrahalli,2022,BOD,2,1,1
+andrahalli,2022,DO,2,1,1
+andrahalli,2022,coliform,4,1,1
+andrahalli,2022,nutrients,2,1,1
+andrahalli,2023,BOD,4,2,3
+andrahalli,2023,DO,4,2,3
+andrahalli,2023,coliform,8,2,3
+andrahalli,2023,nutrients,4,2,3
+andrahalli,2024,BOD,13,2,11
+andrahalli,2024,COD,7,1,7
+andrahalli,2024,DO,13,2,11
+andrahalli,2024,coliform,24,2,10
+andrahalli,2024,metals,8,1,1
+andrahalli,2024,nutrients,46,2,11
+andrahalli,2025,BOD,10,1,10
+andrahalli,2025,COD,10,1,10
+andrahalli,2025,DO,9,1,9
+andrahalli,2025,coliform,20,1,10
+andrahalli,2025,metals,16,1,2
+andrahalli,2025,nutrients,60,1,10
+anekal doddakere,2019,BOD,2,1,1
+anekal doddakere,2019,DO,2,1,1
+anekal doddakere,2019,coliform,4,1,1
+anekal doddakere,2019,nutrients,2,1,1
+anekal doddakere,2020,BOD,2,1,1
+anekal doddakere,2020,DO,2,1,1
+anekal doddakere,2020,coliform,4,1,1
+anekal doddakere,2020,nutrients,2,1,1
+anekal doddakere,2021,BOD,2,1,1
+anekal doddakere,2021,DO,2,1,1
+anekal doddakere,2021,coliform,4,1,1
+anekal doddakere,2021,nutrients,2,1,1
+anekal doddakere,2022,BOD,2,1,1
+anekal doddakere,2022,DO,2,1,1
+anekal doddakere,2022,coliform,4,1,1
+anekal doddakere,2022,nutrients,2,1,1
+anekal doddakere,2023,BOD,4,2,3
+anekal doddakere,2023,DO,4,2,3
+anekal doddakere,2023,coliform,8,2,3
+anekal doddakere,2023,nutrients,4,2,3
+anekal doddakere,2024,BOD,13,2,12
+anekal doddakere,2024,COD,8,1,8
+anekal doddakere,2024,DO,13,2,12
+anekal doddakere,2024,coliform,26,2,12
+anekal doddakere,2024,metals,8,1,1
+anekal doddakere,2024,nutrients,52,2,12
+anekal doddakere,2025,BOD,11,1,11
+anekal doddakere,2025,COD,11,1,11
+anekal doddakere,2025,DO,11,1,11
+anekal doddakere,2025,coliform,22,1,11
+anekal doddakere,2025,metals,16,1,2
+anekal doddakere,2025,nutrients,65,1,11
+anjanapura,2011,COD,1,1,1
+anjanapura,2011,DO,1,1,1
+anjanapura,2011,metals,4,1,1
+anjanapura,2011,nutrients,2,1,1
+anjanapura avala halli anjanapura,2023,BOD,6,2,5
+anjanapura avala halli anjanapura,2023,COD,2,1,2
+anjanapura avala halli anjanapura,2023,DO,6,2,5
+anjanapura avala halli anjanapura,2023,coliform,12,2,5
+anjanapura avala halli anjanapura,2023,nutrients,10,2,5
+anjanapura avala halli anjanapura,2024,BOD,14,2,12
+anjanapura avala halli anjanapura,2024,COD,8,1,8
+anjanapura avala halli anjanapura,2024,DO,14,2,12
+anjanapura avala halli anjanapura,2024,coliform,28,2,12
+anjanapura avala halli anjanapura,2024,metals,8,1,1
+anjanapura avala halli anjanapura,2024,nutrients,53,2,12
+anjanapura avala halli anjanapura,2025,BOD,11,1,11
+anjanapura avala halli anjanapura,2025,COD,11,1,11
+anjanapura avala halli anjanapura,2025,DO,11,1,11
+anjanapura avala halli anjanapura,2025,coliform,22,1,11
+anjanapura avala halli anjanapura,2025,metals,16,1,2
+anjanapura avala halli anjanapura,2025,nutrients,66,1,11
+annayappa,2017,BOD,2,1,1
+annayappa,2017,DO,2,1,1
+annayappa,2017,coliform,4,1,1
+annayappa,2017,nutrients,2,1,1
+annayappa,2018,BOD,2,1,1
+annayappa,2018,DO,2,1,1
+annayappa,2018,coliform,4,1,1
+annayappa,2018,nutrients,2,1,1
+annayappa,2019,BOD,2,1,1
+annayappa,2019,DO,2,1,1
+annayappa,2019,coliform,4,1,1
+annayappa,2019,nutrients,2,1,1
+annayappa,2021,BOD,2,1,1
+annayappa,2021,DO,2,1,1
+annayappa,2021,coliform,4,1,1
+annayappa,2021,nutrients,2,1,1
+arakere,2011,DO,1,1,1
+arakere,2011,nutrients,1,1,1
+arakere,2016,BOD,2,1,1
+arakere,2016,DO,2,1,1
+arakere,2016,coliform,4,1,1
+arakere,2016,nutrients,2,1,1
+arakere,2017,BOD,2,1,1
+arakere,2017,DO,2,1,1
+arakere,2017,coliform,4,1,1
+arakere,2017,nutrients,2,1,1
+arakere,2018,BOD,2,1,1
+arakere,2018,DO,2,1,1
+arakere,2018,coliform,4,1,1
+arakere,2018,nutrients,2,1,1
+arakere,2019,BOD,2,1,1
+arakere,2019,DO,2,1,1
+arakere,2019,coliform,4,1,1
+arakere,2019,nutrients,2,1,1
+arakere,2020,BOD,2,1,1
+arakere,2020,DO,2,1,1
+arakere,2020,coliform,4,1,1
+arakere,2020,nutrients,2,1,1
+arakere,2021,BOD,2,1,1
+arakere,2021,DO,2,1,1
+arakere,2021,coliform,4,1,1
+arakere,2021,nutrients,2,1,1
+arakere,2022,BOD,2,1,1
+arakere,2022,DO,2,1,1
+arakere,2022,coliform,4,1,1
+arakere,2022,nutrients,2,1,1
+arakere,2023,BOD,7,2,5
+arakere,2023,COD,3,1,2
+arakere,2023,DO,7,2,5
+arakere,2023,coliform,14,2,5
+arakere,2023,nutrients,13,2,5
+arakere,2024,BOD,13,2,12
+arakere,2024,COD,8,1,8
+arakere,2024,DO,13,2,12
+arakere,2024,coliform,26,2,12
+arakere,2024,metals,8,1,1
+arakere,2024,nutrients,52,2,12
+arakere,2025,BOD,11,1,11
+arakere,2025,COD,11,1,11
+arakere,2025,DO,11,1,11
+arakere,2025,coliform,22,1,11
+arakere,2025,metals,15,1,2
+arakere,2025,nutrients,66,1,11
+arehalli sanna i,2011,COD,1,1,1
+arehalli sanna i,2011,DO,1,1,1
+arehalli sanna i,2011,metals,4,1,1
+arehalli sanna i,2011,nutrients,2,1,1
+arehalli sanna ii,2011,COD,1,1,1
+arehalli sanna ii,2011,DO,1,1,1
+arehalli sanna ii,2011,metals,4,1,1
+arehalli sanna ii,2011,nutrients,2,1,1
+attur,2011,DO,1,1,1
+attur,2011,metals,8,1,1
+attur,2011,nutrients,6,1,1
+b narayannapura,2025,BOD,8,1,8
+b narayannapura,2025,COD,8,1,8
+b narayannapura,2025,DO,8,1,8
+b narayannapura,2025,coliform,16,1,8
+b narayannapura,2025,metals,16,1,2
+b narayannapura,2025,nutrients,48,1,8
+bagalkunte,2011,COD,1,1,1
+bagalkunte,2011,DO,1,1,1
+bagalkunte,2011,metals,4,1,1
+bagalkunte,2011,nutrients,2,1,1
+balajinagar,2011,COD,1,1,1
+balajinagar,2011,DO,1,1,1
+balajinagar,2011,metals,4,1,1
+balajinagar,2011,nutrients,2,1,1
+bandematta,2021,BOD,2,1,1
+bandematta,2021,DO,2,1,1
+bandematta,2021,coliform,4,1,1
+bandematta,2021,nutrients,2,1,1
+basapura,2011,COD,1,1,1
+basapura,2011,DO,1,1,1
+basapura,2011,metals,4,1,1
+basapura,2011,nutrients,2,1,1
+basavanapura,2020,BOD,2,1,1
+basavanapura,2020,DO,2,1,1
+basavanapura,2020,coliform,4,1,1
+basavanapura,2020,nutrients,2,1,1
+basavanapura,2021,BOD,2,1,1
+basavanapura,2021,DO,2,1,1
+basavanapura,2021,coliform,4,1,1
+basavanapura,2021,nutrients,2,1,1
+basavanapura,2022,BOD,2,1,1
+basavanapura,2022,DO,2,1,1
+basavanapura,2022,coliform,4,1,1
+basavanapura,2022,nutrients,2,1,1
+basavanapura,2023,BOD,6,2,5
+basavanapura,2023,COD,2,1,2
+basavanapura,2023,DO,6,2,5
+basavanapura,2023,coliform,12,2,5
+basavanapura,2023,nutrients,10,2,5
+basavanapura,2024,BOD,12,2,10
+basavanapura,2024,COD,7,1,7
+basavanapura,2024,DO,12,2,10
+basavanapura,2024,coliform,24,2,10
+basavanapura,2024,metals,8,1,1
+basavanapura,2024,nutrients,47,2,10
+basavanapura,2025,BOD,11,1,11
+basavanapura,2025,COD,11,1,11
+basavanapura,2025,DO,11,1,11
+basavanapura,2025,coliform,22,1,11
+basavanapura,2025,metals,16,1,2
+basavanapura,2025,nutrients,66,1,11
+basavanapura ayyappa,2023,BOD,5,2,4
+basavanapura ayyappa,2023,COD,2,1,2
+basavanapura ayyappa,2023,DO,5,2,4
+basavanapura ayyappa,2023,coliform,10,2,4
+basavanapura ayyappa,2023,nutrients,9,2,4
+basavanapura ayyappa,2024,BOD,14,2,12
+basavanapura ayyappa,2024,COD,8,1,8
+basavanapura ayyappa,2024,DO,14,2,12
+basavanapura ayyappa,2024,coliform,28,2,12
+basavanapura ayyappa,2024,metals,8,1,1
+basavanapura ayyappa,2024,nutrients,53,2,12
+basavanapura ayyappa,2025,BOD,11,1,11
+basavanapura ayyappa,2025,COD,11,1,11
+basavanapura ayyappa,2025,DO,11,1,11
+basavanapura ayyappa,2025,coliform,22,1,11
+basavanapura ayyappa,2025,metals,16,1,2
+basavanapura ayyappa,2025,nutrients,66,1,11
+basspura aishwarya crystal,2025,BOD,8,1,8
+basspura aishwarya crystal,2025,COD,8,1,8
+basspura aishwarya crystal,2025,DO,8,1,8
+basspura aishwarya crystal,2025,coliform,16,1,8
+basspura aishwarya crystal,2025,metals,16,1,2
+basspura aishwarya crystal,2025,nutrients,48,1,8
+begur,2008,BOD,4,1,1
+begur,2008,DO,4,1,1
+begur,2008,metals,16,1,1
+begur,2009,BOD,4,1,1
+begur,2009,DO,4,1,1
+begur,2009,metals,16,1,1
+begur,2010,BOD,4,1,1
+begur,2010,DO,4,1,1
+begur,2010,metals,16,1,1
+begur,2011,COD,3,1,1
+begur,2011,DO,1,1,1
+begur,2011,metals,12,1,1
+begur,2011,nutrients,6,1,1
+begur,2016,BOD,2,1,1
+begur,2016,DO,2,1,1
+begur,2016,coliform,4,1,1
+begur,2016,nutrients,2,1,1
+begur,2017,BOD,2,1,1
+begur,2017,DO,2,1,1
+begur,2017,coliform,4,1,1
+begur,2017,nutrients,2,1,1
+begur,2018,BOD,2,1,1
+begur,2018,DO,2,1,1
+begur,2018,coliform,4,1,1
+begur,2018,nutrients,2,1,1
+begur,2020,BOD,2,1,1
+begur,2020,DO,2,1,1
+begur,2020,coliform,4,1,1
+begur,2020,nutrients,2,1,1
+begur,2021,BOD,2,1,1
+begur,2021,DO,2,1,1
+begur,2021,coliform,4,1,1
+begur,2021,nutrients,2,1,1
+begur,2022,BOD,2,1,1
+begur,2022,DO,2,1,1
+begur,2022,coliform,4,1,1
+begur,2022,nutrients,2,1,1
+begur,2023,BOD,6,2,5
+begur,2023,COD,2,1,2
+begur,2023,DO,6,2,5
+begur,2023,coliform,12,2,5
+begur,2023,nutrients,10,2,5
+begur,2024,BOD,13,2,12
+begur,2024,COD,8,1,8
+begur,2024,DO,13,2,12
+begur,2024,coliform,26,2,12
+begur,2024,metals,8,1,1
+begur,2024,nutrients,51,2,11
+begur,2025,BOD,11,1,11
+begur,2025,COD,11,1,11
+begur,2025,DO,11,1,11
+begur,2025,coliform,22,1,11
+begur,2025,metals,15,1,2
+begur,2025,nutrients,66,1,11
+bellandur,2008,BOD,6,2,1
+bellandur,2008,COD,2,1,1
+bellandur,2008,DO,6,2,1
+bellandur,2008,metals,16,1,1
+bellandur,2009,BOD,4,1,1
+bellandur,2009,DO,4,1,1
+bellandur,2009,metals,16,1,1
+bellandur,2010,BOD,4,1,1
+bellandur,2010,DO,4,1,1
+bellandur,2010,metals,16,1,1
+bellandur,2011,COD,4,1,1
+bellandur,2011,DO,2,1,1
+bellandur,2011,metals,16,1,1
+bellandur,2011,nutrients,8,1,1
+bellandur,2016,BOD,2,1,1
+bellandur,2016,DO,2,1,1
+bellandur,2016,coliform,4,1,1
+bellandur,2016,nutrients,2,1,1
+bellandur,2017,BOD,2,1,1
+bellandur,2017,DO,2,1,1
+bellandur,2017,coliform,4,1,1
+bellandur,2017,nutrients,2,1,1
+bellandur,2018,BOD,2,1,1
+bellandur,2018,DO,2,1,1
+bellandur,2018,coliform,4,1,1
+bellandur,2018,nutrients,2,1,1
+bellandur,2019,BOD,2,1,1
+bellandur,2019,DO,2,1,1
+bellandur,2019,coliform,4,1,1
+bellandur,2019,nutrients,2,1,1
+bellandur,2020,BOD,2,1,1
+bellandur,2020,DO,2,1,1
+bellandur,2020,coliform,4,1,1
+bellandur,2020,nutrients,2,1,1
+bellandur,2021,BOD,2,1,1
+bellandur,2021,DO,2,1,1
+bellandur,2021,coliform,4,1,1
+bellandur,2021,nutrients,2,1,1
+bellandur,2022,BOD,2,1,1
+bellandur,2022,DO,2,1,1
+bellandur,2022,coliform,4,1,1
+bellandur,2022,nutrients,2,1,1
+bellandur,2023,BOD,5,2,5
+bellandur,2023,COD,2,1,2
+bellandur,2023,DO,6,2,5
+bellandur,2023,coliform,12,2,5
+bellandur,2023,nutrients,10,2,5
+bellandur,2024,BOD,13,2,12
+bellandur,2024,COD,8,1,8
+bellandur,2024,DO,13,2,12
+bellandur,2024,coliform,26,2,12
+bellandur,2024,metals,8,1,1
+bellandur,2024,nutrients,52,2,12
+bellandur,2025,BOD,11,1,11
+bellandur,2025,COD,11,1,11
+bellandur,2025,DO,11,1,11
+bellandur,2025,coliform,22,1,11
+bellandur,2025,metals,16,1,2
+bellandur,2025,nutrients,66,1,11
+benniganahalli,2016,BOD,2,1,1
+benniganahalli,2016,DO,2,1,1
+benniganahalli,2016,coliform,4,1,1
+benniganahalli,2016,nutrients,2,1,1
+benniganahalli,2017,BOD,2,1,1
+benniganahalli,2017,DO,2,1,1
+benniganahalli,2017,coliform,4,1,1
+benniganahalli,2017,nutrients,2,1,1
+benniganahalli,2018,BOD,2,1,1
+benniganahalli,2018,DO,2,1,1
+benniganahalli,2018,coliform,4,1,1
+benniganahalli,2018,nutrients,2,1,1
+benniganahalli,2019,BOD,2,1,1
+benniganahalli,2019,DO,2,1,1
+benniganahalli,2019,coliform,4,1,1
+benniganahalli,2019,nutrients,2,1,1
+benniganahalli,2020,BOD,2,1,1
+benniganahalli,2020,DO,2,1,1
+benniganahalli,2020,coliform,4,1,1
+benniganahalli,2020,nutrients,2,1,1
+benniganahalli,2021,BOD,2,1,1
+benniganahalli,2021,DO,2,1,1
+benniganahalli,2021,coliform,4,1,1
+benniganahalli,2021,nutrients,2,1,1
+benniganahalli,2022,BOD,2,1,1
+benniganahalli,2022,DO,2,1,1
+benniganahalli,2022,coliform,4,1,1
+benniganahalli,2022,nutrients,2,1,1
+benniganahalli,2023,BOD,5,2,4
+benniganahalli,2023,COD,1,1,1
+benniganahalli,2023,DO,5,2,4
+benniganahalli,2023,coliform,10,2,4
+benniganahalli,2023,nutrients,7,2,4
+benniganahalli,2024,BOD,13,2,12
+benniganahalli,2024,COD,8,1,8
+benniganahalli,2024,DO,13,2,12
+benniganahalli,2024,coliform,26,2,12
+benniganahalli,2024,metals,8,1,1
+benniganahalli,2024,nutrients,51,2,12
+benniganahalli,2025,BOD,11,1,11
+benniganahalli,2025,COD,11,1,11
+benniganahalli,2025,DO,11,1,11
+benniganahalli,2025,coliform,22,1,11
+benniganahalli,2025,metals,16,1,2
+benniganahalli,2025,nutrients,64,1,11
+bhattarahalli,2011,COD,2,1,1
+bhattarahalli,2011,DO,1,1,1
+bhattarahalli,2011,metals,8,1,1
+bhattarahalli,2011,nutrients,4,1,1
+bhattarahalli,2020,BOD,2,1,1
+bhattarahalli,2020,DO,2,1,1
+bhattarahalli,2020,coliform,4,1,1
+bhattarahalli,2020,nutrients,2,1,1
+bhattarahalli,2021,BOD,2,1,1
+bhattarahalli,2021,DO,2,1,1
+bhattarahalli,2021,coliform,4,1,1
+bhattarahalli,2021,nutrients,2,1,1
+bhattarahalli,2022,BOD,2,1,1
+bhattarahalli,2022,DO,2,1,1
+bhattarahalli,2022,coliform,4,1,1
+bhattarahalli,2022,nutrients,2,1,1
+bhattarahalli,2023,BOD,5,2,4
+bhattarahalli,2023,COD,2,1,2
+bhattarahalli,2023,DO,5,2,4
+bhattarahalli,2023,coliform,10,2,4
+bhattarahalli,2023,nutrients,9,2,4
+bhattarahalli,2024,BOD,14,2,12
+bhattarahalli,2024,COD,8,1,8
+bhattarahalli,2024,DO,14,2,12
+bhattarahalli,2024,coliform,28,2,12
+bhattarahalli,2024,metals,8,1,1
+bhattarahalli,2024,nutrients,53,2,12
+bhattarahalli,2025,BOD,11,1,11
+bhattarahalli,2025,COD,11,1,11
+bhattarahalli,2025,DO,11,1,11
+bhattarahalli,2025,coliform,22,1,11
+bhattarahalli,2025,metals,16,1,2
+bhattarahalli,2025,nutrients,66,1,11
+bhoganhalli bhoganhalli,2025,BOD,8,1,8
+bhoganhalli bhoganhalli,2025,COD,8,1,8
+bhoganhalli bhoganhalli,2025,DO,8,1,8
+bhoganhalli bhoganhalli,2025,coliform,16,1,8
+bhoganhalli bhoganhalli,2025,metals,16,1,2
+bhoganhalli bhoganhalli,2025,nutrients,48,1,8
+busegowdana,2011,COD,2,1,1
+busegowdana,2011,DO,1,1,1
+busegowdana,2011,coliform,2,1,1
+busegowdana,2011,metals,8,1,1
+busegowdana,2011,nutrients,4,1,1
+byrasandra,2016,BOD,2,1,1
+byrasandra,2016,DO,2,1,1
+byrasandra,2016,coliform,4,1,1
+byrasandra,2016,nutrients,2,1,1
+byrasandra,2017,BOD,2,1,1
+byrasandra,2017,DO,2,1,1
+byrasandra,2017,coliform,4,1,1
+byrasandra,2017,nutrients,2,1,1
+byrasandra,2018,BOD,2,1,1
+byrasandra,2018,DO,2,1,1
+byrasandra,2018,coliform,4,1,1
+byrasandra,2018,nutrients,2,1,1
+byrasandra,2019,BOD,2,1,1
+byrasandra,2019,DO,2,1,1
+byrasandra,2019,coliform,4,1,1
+byrasandra,2019,nutrients,2,1,1
+byrasandra,2020,BOD,2,1,1
+byrasandra,2020,DO,2,1,1
+byrasandra,2020,coliform,4,1,1
+byrasandra,2020,nutrients,2,1,1
+byrasandra,2021,BOD,2,1,1
+byrasandra,2021,DO,2,1,1
+byrasandra,2021,coliform,4,1,1
+byrasandra,2021,nutrients,2,1,1
+byrasandra,2022,BOD,2,1,1
+byrasandra,2022,DO,2,1,1
+byrasandra,2022,coliform,4,1,1
+byrasandra,2022,nutrients,2,1,1
+byrasandra,2023,BOD,6,2,5
+byrasandra,2023,COD,2,1,2
+byrasandra,2023,DO,6,2,5
+byrasandra,2023,coliform,12,2,5
+byrasandra,2023,nutrients,10,2,5
+byrasandra,2024,BOD,14,2,12
+byrasandra,2024,COD,8,1,8
+byrasandra,2024,DO,14,2,12
+byrasandra,2024,coliform,28,2,12
+byrasandra,2024,metals,8,1,1
+byrasandra,2024,nutrients,53,2,12
+byrasandra,2025,BOD,11,1,11
+byrasandra,2025,COD,11,1,11
+byrasandra,2025,DO,11,1,11
+byrasandra,2025,coliform,22,1,11
+byrasandra,2025,metals,16,1,2
+byrasandra,2025,nutrients,66,1,11
+byrasandra upper,2023,BOD,5,2,4
+byrasandra upper,2023,COD,2,1,2
+byrasandra upper,2023,DO,5,2,4
+byrasandra upper,2023,coliform,10,2,4
+byrasandra upper,2023,nutrients,9,2,4
+byrasandra upper,2024,BOD,14,2,12
+byrasandra upper,2024,COD,8,1,8
+byrasandra upper,2024,DO,14,2,12
+byrasandra upper,2024,coliform,28,2,12
+byrasandra upper,2024,metals,8,1,1
+byrasandra upper,2024,nutrients,53,2,12
+byrasandra upper,2025,BOD,11,1,11
+byrasandra upper,2025,COD,11,1,11
+byrasandra upper,2025,DO,11,1,11
+byrasandra upper,2025,coliform,22,1,11
+byrasandra upper,2025,metals,16,1,2
+byrasandra upper,2025,nutrients,66,1,11
+chandapura,2019,BOD,2,1,1
+chandapura,2019,DO,2,1,1
+chandapura,2019,coliform,4,1,1
+chandapura,2019,nutrients,2,1,1
+chandapura,2020,BOD,2,1,1
+chandapura,2020,DO,2,1,1
+chandapura,2020,coliform,4,1,1
+chandapura,2020,nutrients,2,1,1
+chandapura,2021,BOD,2,1,1
+chandapura,2021,DO,2,1,1
+chandapura,2021,coliform,4,1,1
+chandapura,2021,nutrients,2,1,1
+chandapura,2022,BOD,2,1,1
+chandapura,2022,DO,2,1,1
+chandapura,2022,coliform,4,1,1
+chandapura,2022,nutrients,2,1,1
+chandapura,2023,BOD,6,2,5
+chandapura,2023,COD,2,1,2
+chandapura,2023,DO,6,2,5
+chandapura,2023,coliform,12,2,5
+chandapura,2023,nutrients,10,2,5
+chandapura,2024,BOD,14,2,12
+chandapura,2024,COD,8,1,8
+chandapura,2024,DO,14,2,12
+chandapura,2024,coliform,28,2,12
+chandapura,2024,metals,8,1,1
+chandapura,2024,nutrients,53,2,12
+chandapura,2025,BOD,11,1,11
+chandapura,2025,COD,11,1,11
+chandapura,2025,DO,11,1,11
+chandapura,2025,coliform,22,1,11
+chandapura,2025,metals,16,1,2
+chandapura,2025,nutrients,66,1,11
+cheemasandra,2025,BOD,7,1,7
+cheemasandra,2025,COD,7,1,7
+cheemasandra,2025,DO,7,1,7
+cheemasandra,2025,coliform,14,1,7
+cheemasandra,2025,metals,8,1,1
+cheemasandra,2025,nutrients,42,1,7
+chelekere,2019,BOD,2,1,1
+chelekere,2019,DO,2,1,1
+chelekere,2019,coliform,4,1,1
+chelekere,2019,nutrients,2,1,1
+chelekere,2020,BOD,2,1,1
+chelekere,2020,DO,2,1,1
+chelekere,2020,coliform,4,1,1
+chelekere,2020,nutrients,2,1,1
+chelekere,2021,BOD,2,1,1
+chelekere,2021,DO,2,1,1
+chelekere,2021,coliform,4,1,1
+chelekere,2021,nutrients,2,1,1
+chelekere,2022,BOD,2,1,1
+chelekere,2022,DO,2,1,1
+chelekere,2022,coliform,4,1,1
+chelekere,2022,nutrients,2,1,1
+chelekere,2023,BOD,5,2,4
+chelekere,2023,COD,2,1,2
+chelekere,2023,DO,5,2,4
+chelekere,2023,coliform,10,2,4
+chelekere,2023,nutrients,9,2,4
+chelekere,2024,BOD,13,2,11
+chelekere,2024,COD,8,1,8
+chelekere,2024,DO,13,2,11
+chelekere,2024,coliform,26,2,11
+chelekere,2024,metals,8,1,1
+chelekere,2024,nutrients,52,2,11
+chelekere,2025,BOD,10,1,10
+chelekere,2025,COD,10,1,10
+chelekere,2025,DO,10,1,10
+chelekere,2025,coliform,20,1,10
+chelekere,2025,metals,16,1,2
+chelekere,2025,nutrients,60,1,10
+chikkabanavara,2018,BOD,2,1,1
+chikkabanavara,2018,DO,2,1,1
+chikkabanavara,2018,coliform,4,1,1
+chikkabanavara,2018,nutrients,2,1,1
+chikkabanavara,2019,BOD,2,1,1
+chikkabanavara,2019,DO,2,1,1
+chikkabanavara,2019,coliform,4,1,1
+chikkabanavara,2019,nutrients,2,1,1
+chikkabanavara,2020,BOD,2,1,1
+chikkabanavara,2020,DO,2,1,1
+chikkabanavara,2020,coliform,4,1,1
+chikkabanavara,2020,nutrients,2,1,1
+chikkabanavara,2021,BOD,2,1,1
+chikkabanavara,2021,DO,2,1,1
+chikkabanavara,2021,coliform,4,1,1
+chikkabanavara,2021,nutrients,2,1,1
+chikkabanavara,2022,BOD,2,1,1
+chikkabanavara,2022,DO,2,1,1
+chikkabanavara,2022,coliform,4,1,1
+chikkabanavara,2022,nutrients,2,1,1
+chikkabanavara,2023,BOD,6,2,5
+chikkabanavara,2023,COD,2,1,2
+chikkabanavara,2023,DO,6,2,5
+chikkabanavara,2023,coliform,12,2,5
+chikkabanavara,2023,nutrients,10,2,5
+chikkabanavara,2024,BOD,10,2,9
+chikkabanavara,2024,COD,5,1,5
+chikkabanavara,2024,DO,10,2,9
+chikkabanavara,2024,coliform,20,2,9
+chikkabanavara,2024,metals,8,1,1
+chikkabanavara,2024,nutrients,35,2,9
+chikkabanavara,2025,BOD,9,1,9
+chikkabanavara,2025,COD,9,1,9
+chikkabanavara,2025,DO,9,1,9
+chikkabanavara,2025,coliform,18,1,9
+chikkabanavara,2025,metals,8,1,1
+chikkabanavara,2025,nutrients,54,1,9
+chikkabasavanapura,2011,COD,1,1,1
+chikkabasavanapura,2011,DO,1,1,1
+chikkabasavanapura,2011,metals,8,1,1
+chikkabasavanapura,2011,nutrients,4,1,1
+chikkagubi,2025,BOD,8,1,8
+chikkagubi,2025,COD,8,1,8
+chikkagubi,2025,DO,8,1,8
+chikkagubi,2025,coliform,16,1,8
+chikkagubi,2025,metals,16,1,2
+chikkagubi,2025,nutrients,48,1,8
+chinnakurchi,2019,BOD,2,1,1
+chinnakurchi,2019,DO,2,1,1
+chinnakurchi,2019,coliform,4,1,1
+chinnakurchi,2019,nutrients,2,1,1
+chinnakurchi,2020,BOD,2,1,1
+chinnakurchi,2020,DO,2,1,1
+chinnakurchi,2020,coliform,4,1,1
+chinnakurchi,2020,nutrients,2,1,1
+chinnakurchi,2021,BOD,2,1,1
+chinnakurchi,2021,DO,2,1,1
+chinnakurchi,2021,coliform,4,1,1
+chinnakurchi,2021,nutrients,2,1,1
+chinnakurchi,2022,BOD,2,1,1
+chinnakurchi,2022,DO,2,1,1
+chinnakurchi,2022,coliform,4,1,1
+chinnakurchi,2022,nutrients,2,1,1
+chinnakurchi,2023,BOD,6,2,5
+chinnakurchi,2023,COD,2,1,2
+chinnakurchi,2023,DO,6,2,5
+chinnakurchi,2023,coliform,10,2,4
+chinnakurchi,2023,nutrients,10,2,5
+chinnakurchi,2024,BOD,14,2,12
+chinnakurchi,2024,COD,8,1,8
+chinnakurchi,2024,DO,14,2,12
+chinnakurchi,2024,coliform,28,2,12
+chinnakurchi,2024,metals,8,1,1
+chinnakurchi,2024,nutrients,53,2,12
+chinnakurchi,2025,BOD,11,1,11
+chinnakurchi,2025,COD,11,1,11
+chinnakurchi,2025,DO,11,1,11
+chinnakurchi,2025,coliform,22,1,11
+chinnakurchi,2025,metals,16,1,2
+chinnakurchi,2025,nutrients,66,1,11
+chinnappanahalli,2011,COD,2,1,1
+chinnappanahalli,2011,DO,1,1,1
+chinnappanahalli,2011,metals,8,1,1
+chinnappanahalli,2011,nutrients,4,1,1
+chinnappanahalli,2020,BOD,2,1,1
+chinnappanahalli,2020,DO,2,1,1
+chinnappanahalli,2020,coliform,4,1,1
+chinnappanahalli,2020,nutrients,2,1,1
+chinnappanahalli,2021,BOD,2,1,1
+chinnappanahalli,2021,DO,2,1,1
+chinnappanahalli,2021,coliform,4,1,1
+chinnappanahalli,2021,nutrients,2,1,1
+chinnappanahalli,2022,BOD,2,1,1
+chinnappanahalli,2022,DO,2,1,1
+chinnappanahalli,2022,coliform,4,1,1
+chinnappanahalli,2022,nutrients,2,1,1
+chinnappanahalli,2023,BOD,5,2,4
+chinnappanahalli,2023,COD,2,1,2
+chinnappanahalli,2023,DO,5,2,4
+chinnappanahalli,2023,coliform,10,2,4
+chinnappanahalli,2023,nutrients,9,2,4
+chinnappanahalli,2024,BOD,14,2,12
+chinnappanahalli,2024,COD,8,1,8
+chinnappanahalli,2024,DO,14,2,12
+chinnappanahalli,2024,coliform,28,2,12
+chinnappanahalli,2024,metals,8,1,1
+chinnappanahalli,2024,nutrients,53,2,12
+chinnappanahalli,2025,BOD,11,1,11
+chinnappanahalli,2025,COD,11,1,11
+chinnappanahalli,2025,DO,11,1,11
+chinnappanahalli,2025,coliform,22,1,11
+chinnappanahalli,2025,metals,16,1,2
+chinnappanahalli,2025,nutrients,66,1,11
+chmnappanahalh,2011,COD,1,1,1
+chmnappanahalh,2011,metals,4,1,1
+chmnappanahalh,2011,nutrients,2,1,1
+chunchaghatta chunchaghatta,2025,BOD,3,1,3
+chunchaghatta chunchaghatta,2025,COD,3,1,3
+chunchaghatta chunchaghatta,2025,DO,3,1,3
+chunchaghatta chunchaghatta,2025,coliform,6,1,3
+chunchaghatta chunchaghatta,2025,metals,8,1,1
+chunchaghatta chunchaghatta,2025,nutrients,18,1,3
+dasarahalli,2016,BOD,2,1,1
+dasarahalli,2016,DO,2,1,1
+dasarahalli,2016,coliform,4,1,1
+dasarahalli,2016,nutrients,2,1,1
+dasarahalli,2017,BOD,2,1,1
+dasarahalli,2017,DO,2,1,1
+dasarahalli,2017,coliform,4,1,1
+dasarahalli,2017,nutrients,2,1,1
+dasarahalli,2018,BOD,2,1,1
+dasarahalli,2018,DO,2,1,1
+dasarahalli,2018,coliform,4,1,1
+dasarahalli,2018,nutrients,2,1,1
+dasarahalli,2019,BOD,2,1,1
+dasarahalli,2019,DO,2,1,1
+dasarahalli,2019,coliform,4,1,1
+dasarahalli,2019,nutrients,2,1,1
+dasarahalli,2020,BOD,2,1,1
+dasarahalli,2020,DO,2,1,1
+dasarahalli,2020,coliform,4,1,1
+dasarahalli,2020,nutrients,2,1,1
+dasarahalli,2021,BOD,2,1,1
+dasarahalli,2021,DO,2,1,1
+dasarahalli,2021,coliform,4,1,1
+dasarahalli,2021,nutrients,2,1,1
+dasarahalli,2022,BOD,2,1,1
+dasarahalli,2022,DO,2,1,1
+dasarahalli,2022,coliform,4,1,1
+dasarahalli,2022,nutrients,2,1,1
+dasarahalli,2023,BOD,5,2,4
+dasarahalli,2023,COD,1,1,1
+dasarahalli,2023,DO,5,2,4
+dasarahalli,2023,coliform,10,2,4
+dasarahalli,2023,nutrients,7,2,4
+dasarahalli,2024,BOD,13,2,12
+dasarahalli,2024,COD,8,1,8
+dasarahalli,2024,DO,13,2,12
+dasarahalli,2024,coliform,26,2,12
+dasarahalli,2024,metals,8,1,1
+dasarahalli,2024,nutrients,52,2,12
+dasarahalli,2025,BOD,11,1,11
+dasarahalli,2025,COD,11,1,11
+dasarahalli,2025,DO,11,1,11
+dasarahalli,2025,coliform,22,1,11
+dasarahalli,2025,metals,16,1,2
+dasarahalli,2025,nutrients,66,1,11
+devarabeesanahalli,2011,DO,1,1,1
+devarabeesanahalli,2011,coliform,2,1,1
+devarabeesanahalli,2011,metals,8,1,1
+devarabeesanahalli,2011,nutrients,4,1,1
+devarabeesanahalli,2020,BOD,2,1,1
+devarabeesanahalli,2020,DO,2,1,1
+devarabeesanahalli,2020,coliform,4,1,1
+devarabeesanahalli,2020,nutrients,2,1,1
+devarabeesanahalli,2021,BOD,2,1,1
+devarabeesanahalli,2021,DO,2,1,1
+devarabeesanahalli,2021,coliform,4,1,1
+devarabeesanahalli,2021,nutrients,2,1,1
+devarabeesanahalli,2022,BOD,2,1,1
+devarabeesanahalli,2022,DO,2,1,1
+devarabeesanahalli,2022,coliform,4,1,1
+devarabeesanahalli,2022,nutrients,2,1,1
+devarabeesanahalli,2023,BOD,5,2,4
+devarabeesanahalli,2023,COD,2,1,2
+devarabeesanahalli,2023,DO,5,2,4
+devarabeesanahalli,2023,coliform,10,2,4
+devarabeesanahalli,2023,nutrients,9,2,4
+devarabeesanahalli,2024,BOD,10,2,8
+devarabeesanahalli,2024,COD,6,1,6
+devarabeesanahalli,2024,DO,10,2,8
+devarabeesanahalli,2024,coliform,20,2,8
+devarabeesanahalli,2024,nutrients,39,2,8
+devarabeesanahalli,2025,BOD,10,1,10
+devarabeesanahalli,2025,COD,10,1,10
+devarabeesanahalli,2025,DO,10,1,10
+devarabeesanahalli,2025,coliform,20,1,10
+devarabeesanahalli,2025,metals,16,1,2
+devarabeesanahalli,2025,nutrients,59,1,10
+devarakere,2011,COD,2,1,1
+devarakere,2011,DO,1,1,1
+devarakere,2011,metals,6,1,1
+devarakere,2011,nutrients,4,1,1
+devarakere,2016,BOD,2,1,1
+devarakere,2016,DO,2,1,1
+devarakere,2016,coliform,4,1,1
+devarakere,2016,nutrients,2,1,1
+devarakere,2017,BOD,2,1,1
+devarakere,2017,DO,2,1,1
+devarakere,2017,coliform,4,1,1
+devarakere,2017,nutrients,2,1,1
+devarakere,2018,BOD,2,1,1
+devarakere,2018,DO,2,1,1
+devarakere,2018,coliform,4,1,1
+devarakere,2018,nutrients,2,1,1
+devarakere,2019,BOD,2,1,1
+devarakere,2019,DO,2,1,1
+devarakere,2019,coliform,4,1,1
+devarakere,2019,nutrients,2,1,1
+devarakere,2020,BOD,2,1,1
+devarakere,2020,DO,2,1,1
+devarakere,2020,coliform,4,1,1
+devarakere,2020,nutrients,2,1,1
+devarakere,2021,BOD,2,1,1
+devarakere,2021,DO,2,1,1
+devarakere,2021,coliform,4,1,1
+devarakere,2021,nutrients,2,1,1
+devarakere,2022,BOD,2,1,1
+devarakere,2022,DO,2,1,1
+devarakere,2022,coliform,4,1,1
+devarakere,2022,nutrients,2,1,1
+devarakere,2023,BOD,5,2,4
+devarakere,2023,COD,1,1,1
+devarakere,2023,DO,5,2,4
+devarakere,2023,coliform,8,2,3
+devarakere,2023,nutrients,7,2,4
+devarakere,2024,BOD,13,2,12
+devarakere,2024,COD,8,1,8
+devarakere,2024,DO,13,2,12
+devarakere,2024,coliform,26,2,12
+devarakere,2024,metals,8,1,1
+devarakere,2024,nutrients,52,2,12
+devarakere,2025,BOD,11,1,11
+devarakere,2025,COD,11,1,11
+devarakere,2025,DO,11,1,11
+devarakere,2025,coliform,22,1,11
+devarakere,2025,metals,16,1,2
+devarakere,2025,nutrients,66,1,11
+devasandra,2020,BOD,2,1,1
+devasandra,2020,DO,2,1,1
+devasandra,2020,coliform,4,1,1
+devasandra,2020,nutrients,2,1,1
+devasandra,2021,BOD,2,1,1
+devasandra,2021,DO,2,1,1
+devasandra,2021,coliform,4,1,1
+devasandra,2021,nutrients,2,1,1
+devasandra,2022,BOD,2,1,1
+devasandra,2022,DO,2,1,1
+devasandra,2022,coliform,4,1,1
+devasandra,2022,nutrients,2,1,1
+devasandra,2023,BOD,6,2,5
+devasandra,2023,COD,2,1,2
+devasandra,2023,DO,6,2,5
+devasandra,2023,coliform,12,2,5
+devasandra,2023,nutrients,10,2,5
+devasandra,2024,BOD,14,2,12
+devasandra,2024,COD,8,1,8
+devasandra,2024,DO,14,2,12
+devasandra,2024,coliform,28,2,12
+devasandra,2024,metals,8,1,1
+devasandra,2024,nutrients,52,2,12
+devasandra,2025,BOD,11,1,11
+devasandra,2025,COD,11,1,11
+devasandra,2025,DO,11,1,11
+devasandra,2025,coliform,22,1,11
+devasandra,2025,metals,16,1,2
+devasandra,2025,nutrients,66,1,11
+doddabidarakallu,2019,BOD,2,1,1
+doddabidarakallu,2019,DO,2,1,1
+doddabidarakallu,2019,coliform,4,1,1
+doddabidarakallu,2019,nutrients,2,1,1
+doddabidarakallu,2020,BOD,2,1,1
+doddabidarakallu,2020,DO,2,1,1
+doddabidarakallu,2020,coliform,4,1,1
+doddabidarakallu,2020,nutrients,2,1,1
+doddabidarakallu,2021,BOD,2,1,1
+doddabidarakallu,2021,DO,2,1,1
+doddabidarakallu,2021,coliform,4,1,1
+doddabidarakallu,2021,nutrients,2,1,1
+doddabidarakallu,2022,BOD,2,1,1
+doddabidarakallu,2022,DO,2,1,1
+doddabidarakallu,2022,coliform,4,1,1
+doddabidarakallu,2022,nutrients,2,1,1
+doddabidarakallu,2023,BOD,5,2,4
+doddabidarakallu,2023,COD,1,1,1
+doddabidarakallu,2023,DO,5,2,4
+doddabidarakallu,2023,coliform,10,2,4
+doddabidarakallu,2023,nutrients,7,2,4
+doddabidarakallu,2024,BOD,9,2,7
+doddabidarakallu,2024,COD,3,1,3
+doddabidarakallu,2024,DO,9,2,7
+doddabidarakallu,2024,coliform,18,2,7
+doddabidarakallu,2024,nutrients,23,2,7
+doddabidarakallu,2025,BOD,8,1,8
+doddabidarakallu,2025,COD,8,1,8
+doddabidarakallu,2025,DO,8,1,8
+doddabidarakallu,2025,coliform,16,1,8
+doddabidarakallu,2025,metals,8,1,1
+doddabidarakallu,2025,nutrients,48,1,8
+doddagubbi,2025,BOD,8,1,8
+doddagubbi,2025,COD,8,1,8
+doddagubbi,2025,DO,8,1,8
+doddagubbi,2025,coliform,16,1,8
+doddagubbi,2025,metals,16,1,2
+doddagubbi,2025,nutrients,47,1,8
+doddakallasandra,2011,COD,1,1,1
+doddakallasandra,2011,DO,1,1,1
+doddakallasandra,2011,metals,8,1,1
+doddakallasandra,2011,nutrients,4,1,1
+doddakallasandra,2023,BOD,4,2,3
+doddakallasandra,2023,COD,1,1,1
+doddakallasandra,2023,DO,4,2,3
+doddakallasandra,2023,coliform,8,2,3
+doddakallasandra,2023,nutrients,6,2,3
+doddakallasandra,2024,BOD,7,2,5
+doddakallasandra,2024,COD,2,1,2
+doddakallasandra,2024,DO,7,2,5
+doddakallasandra,2024,coliform,14,2,5
+doddakallasandra,2024,nutrients,17,2,5
+doddakallasandra,2025,BOD,8,1,8
+doddakallasandra,2025,COD,8,1,8
+doddakallasandra,2025,DO,8,1,8
+doddakallasandra,2025,coliform,16,1,8
+doddakallasandra,2025,metals,8,1,1
+doddakallasandra,2025,nutrients,48,1,8
+doddakammanahalli doddakammanahalli,2025,BOD,8,1,8
+doddakammanahalli doddakammanahalli,2025,COD,8,1,8
+doddakammanahalli doddakammanahalli,2025,DO,8,1,8
+doddakammanahalli doddakammanahalli,2025,coliform,16,1,8
+doddakammanahalli doddakammanahalli,2025,metals,16,1,2
+doddakammanahalli doddakammanahalli,2025,nutrients,48,1,8
+doddakannehalli,2022,BOD,2,1,1
+doddakannehalli,2022,DO,2,1,1
+doddakannehalli,2022,coliform,4,1,1
+doddakannehalli,2022,nutrients,2,1,1
+doddakannehalli,2023,BOD,6,2,5
+doddakannehalli,2023,COD,2,1,2
+doddakannehalli,2023,DO,6,2,5
+doddakannehalli,2023,coliform,12,2,5
+doddakannehalli,2023,nutrients,10,2,5
+doddakannehalli,2024,BOD,14,2,12
+doddakannehalli,2024,COD,8,1,8
+doddakannehalli,2024,DO,14,2,12
+doddakannehalli,2024,coliform,28,2,12
+doddakannehalli,2024,metals,8,1,1
+doddakannehalli,2024,nutrients,53,2,12
+doddakannehalli,2025,BOD,11,1,11
+doddakannehalli,2025,COD,11,1,11
+doddakannehalli,2025,DO,11,1,11
+doddakannehalli,2025,coliform,22,1,11
+doddakannehalli,2025,metals,16,1,2
+doddakannehalli,2025,nutrients,66,1,11
+doddanekundi,2011,COD,2,1,1
+doddanekundi,2011,DO,1,1,1
+doddanekundi,2011,metals,8,1,1
+doddanekundi,2011,nutrients,4,1,1
+doddanekundi,2016,BOD,2,1,1
+doddanekundi,2016,DO,2,1,1
+doddanekundi,2016,coliform,4,1,1
+doddanekundi,2016,nutrients,2,1,1
+doddanekundi,2017,BOD,2,1,1
+doddanekundi,2017,DO,2,1,1
+doddanekundi,2017,coliform,4,1,1
+doddanekundi,2017,nutrients,2,1,1
+doddanekundi,2018,BOD,2,1,1
+doddanekundi,2018,DO,2,1,1
+doddanekundi,2018,coliform,4,1,1
+doddanekundi,2018,nutrients,2,1,1
+doddanekundi,2019,BOD,2,1,1
+doddanekundi,2019,DO,2,1,1
+doddanekundi,2019,coliform,4,1,1
+doddanekundi,2019,nutrients,2,1,1
+doddanekundi,2020,BOD,2,1,1
+doddanekundi,2020,DO,2,1,1
+doddanekundi,2020,coliform,4,1,1
+doddanekundi,2020,nutrients,2,1,1
+doddanekundi,2021,BOD,2,1,1
+doddanekundi,2021,DO,2,1,1
+doddanekundi,2021,coliform,4,1,1
+doddanekundi,2021,nutrients,2,1,1
+doddanekundi,2022,BOD,2,1,1
+doddanekundi,2022,DO,2,1,1
+doddanekundi,2022,coliform,4,1,1
+doddanekundi,2022,nutrients,2,1,1
+doddanekundi,2023,BOD,4,2,3
+doddanekundi,2023,DO,4,2,3
+doddanekundi,2023,coliform,8,2,3
+doddanekundi,2023,nutrients,4,2,3
+doddanekundi,2024,BOD,12,2,11
+doddanekundi,2024,COD,7,1,7
+doddanekundi,2024,DO,12,2,11
+doddanekundi,2024,coliform,24,2,11
+doddanekundi,2024,metals,8,1,1
+doddanekundi,2024,nutrients,46,2,11
+doddanekundi,2025,BOD,11,1,11
+doddanekundi,2025,COD,11,1,11
+doddanekundi,2025,DO,11,1,11
+doddanekundi,2025,coliform,22,1,11
+doddanekundi,2025,metals,16,1,2
+doddanekundi,2025,nutrients,66,1,11
+doddathogur doddathoguru,2025,BOD,10,1,10
+doddathogur doddathoguru,2025,COD,10,1,10
+doddathogur doddathoguru,2025,DO,10,1,10
+doddathogur doddathoguru,2025,coliform,20,1,10
+doddathogur doddathoguru,2025,metals,16,1,2
+doddathogur doddathoguru,2025,nutrients,60,1,10
+doraikere,2011,COD,2,1,1
+doraikere,2011,DO,1,1,1
+doraikere,2011,metals,6,1,1
+doraikere,2011,nutrients,4,1,1
+dorekere,2016,BOD,2,1,1
+dorekere,2016,DO,2,1,1
+dorekere,2016,coliform,4,1,1
+dorekere,2016,nutrients,2,1,1
+dorekere,2017,BOD,2,1,1
+dorekere,2017,DO,2,1,1
+dorekere,2017,coliform,4,1,1
+dorekere,2017,nutrients,2,1,1
+dorekere,2018,BOD,2,1,1
+dorekere,2018,DO,2,1,1
+dorekere,2018,coliform,4,1,1
+dorekere,2018,nutrients,2,1,1
+dorekere,2019,BOD,2,1,1
+dorekere,2019,DO,2,1,1
+dorekere,2019,coliform,4,1,1
+dorekere,2019,nutrients,2,1,1
+dorekere,2020,BOD,2,1,1
+dorekere,2020,DO,2,1,1
+dorekere,2020,coliform,4,1,1
+dorekere,2020,nutrients,2,1,1
+dorekere,2021,BOD,2,1,1
+dorekere,2021,DO,2,1,1
+dorekere,2021,coliform,4,1,1
+dorekere,2021,nutrients,2,1,1
+dorekere,2022,BOD,2,1,1
+dorekere,2022,DO,2,1,1
+dorekere,2022,coliform,4,1,1
+dorekere,2022,nutrients,2,1,1
+dorekere,2023,BOD,6,2,5
+dorekere,2023,COD,2,1,2
+dorekere,2023,DO,6,2,5
+dorekere,2023,coliform,10,2,4
+dorekere,2023,nutrients,10,2,5
+dorekere,2024,BOD,13,2,12
+dorekere,2024,COD,8,1,8
+dorekere,2024,DO,13,2,12
+dorekere,2024,coliform,26,2,12
+dorekere,2024,metals,8,1,1
+dorekere,2024,nutrients,52,2,12
+dorekere,2025,BOD,11,1,11
+dorekere,2025,COD,11,1,11
+dorekere,2025,DO,11,1,11
+dorekere,2025,coliform,22,1,11
+dorekere,2025,metals,16,1,2
+dorekere,2025,nutrients,66,1,11
+dubasipalya,2011,COD,2,1,1
+dubasipalya,2011,DO,1,1,1
+dubasipalya,2011,metals,8,1,1
+dubasipalya,2011,nutrients,4,1,1
+gangashetty,2025,BOD,7,1,7
+gangashetty,2025,COD,7,1,7
+gangashetty,2025,DO,7,1,7
+gangashetty,2025,coliform,14,1,7
+gangashetty,2025,metals,16,1,2
+gangashetty,2025,nutrients,42,1,7
+gangondanahalli,2018,BOD,2,1,1
+gangondanahalli,2018,DO,2,1,1
+gangondanahalli,2018,coliform,4,1,1
+gangondanahalli,2018,nutrients,2,1,1
+gangondanahalli,2019,BOD,2,1,1
+gangondanahalli,2019,DO,2,1,1
+gangondanahalli,2019,coliform,4,1,1
+gangondanahalli,2019,nutrients,2,1,1
+gangondanahalli,2020,BOD,2,1,1
+gangondanahalli,2020,DO,2,1,1
+gangondanahalli,2020,coliform,4,1,1
+gangondanahalli,2020,nutrients,2,1,1
+gangondanahalli,2021,BOD,2,1,1
+gangondanahalli,2021,DO,2,1,1
+gangondanahalli,2021,coliform,4,1,1
+gangondanahalli,2021,nutrients,2,1,1
+gangondanahalli,2022,BOD,2,1,1
+gangondanahalli,2022,DO,2,1,1
+gangondanahalli,2022,coliform,4,1,1
+gangondanahalli,2022,nutrients,2,1,1
+gangondanahalli,2023,BOD,3,2,3
+gangondanahalli,2023,DO,4,2,3
+gangondanahalli,2023,coliform,8,2,3
+gangondanahalli,2023,nutrients,4,2,3
+gangondanahalli,2024,BOD,13,2,12
+gangondanahalli,2024,COD,8,1,8
+gangondanahalli,2024,DO,13,2,12
+gangondanahalli,2024,coliform,26,2,12
+gangondanahalli,2024,metals,8,1,1
+gangondanahalli,2024,nutrients,52,2,12
+gangondanahalli,2025,BOD,11,1,11
+gangondanahalli,2025,COD,11,1,11
+gangondanahalli,2025,DO,11,1,11
+gangondanahalli,2025,coliform,22,1,11
+gangondanahalli,2025,metals,16,1,2
+gangondanahalli,2025,nutrients,66,1,11
+garepalyakere,2011,COD,1,1,1
+garepalyakere,2011,DO,1,1,1
+garepalyakere,2011,metals,4,1,1
+garepalyakere,2011,nutrients,2,1,1
+garudacharpalya,2020,BOD,2,1,1
+garudacharpalya,2020,DO,2,1,1
+garudacharpalya,2020,coliform,4,1,1
+garudacharpalya,2020,nutrients,2,1,1
+garudacharpalya,2021,BOD,2,1,1
+garudacharpalya,2021,DO,2,1,1
+garudacharpalya,2021,coliform,4,1,1
+garudacharpalya,2021,nutrients,2,1,1
+garudacharpalya,2022,BOD,2,1,1
+garudacharpalya,2022,DO,2,1,1
+garudacharpalya,2022,coliform,4,1,1
+garudacharpalya,2022,nutrients,2,1,1
+garudacharpalya,2023,BOD,4,2,3
+garudacharpalya,2023,COD,1,1,1
+garudacharpalya,2023,DO,4,2,3
+garudacharpalya,2023,coliform,8,2,3
+garudacharpalya,2023,nutrients,6,2,3
+garudacharpalya,2024,BOD,14,2,12
+garudacharpalya,2024,COD,8,1,8
+garudacharpalya,2024,DO,14,2,12
+garudacharpalya,2024,coliform,28,2,12
+garudacharpalya,2024,metals,8,1,1
+garudacharpalya,2024,nutrients,53,2,12
+garudacharpalya,2025,BOD,19,1,11
+garudacharpalya,2025,COD,19,1,11
+garudacharpalya,2025,DO,19,1,11
+garudacharpalya,2025,coliform,38,1,11
+garudacharpalya,2025,metals,32,1,2
+garudacharpalya,2025,nutrients,114,1,11
+gidadakonenahalli,2010,BOD,12,1,12
+gidadakonenahalli,2010,COD,12,1,12
+gidadakonenahalli,2010,DO,12,1,12
+gidadakonenahalli,2010,coliform,12,1,12
+gidadakonenahalli,2010,nutrients,24,1,12
+gottigere,2008,BOD,4,1,1
+gottigere,2008,DO,4,1,1
+gottigere,2008,metals,12,1,1
+gottigere,2009,BOD,4,1,1
+gottigere,2009,DO,4,1,1
+gottigere,2009,metals,16,1,1
+gottigere,2010,BOD,4,1,1
+gottigere,2010,DO,4,1,1
+gottigere,2010,metals,16,1,1
+gottigere,2011,DO,1,1,1
+gottigere,2011,metals,4,1,1
+gottigere,2011,nutrients,2,1,1
+gottigere,2017,BOD,2,1,1
+gottigere,2017,DO,2,1,1
+gottigere,2017,coliform,2,1,1
+gottigere,2017,nutrients,2,1,1
+gottigere,2018,BOD,2,1,1
+gottigere,2018,DO,2,1,1
+gottigere,2018,coliform,4,1,1
+gottigere,2018,nutrients,2,1,1
+gottigere,2020,BOD,2,1,1
+gottigere,2020,DO,2,1,1
+gottigere,2020,coliform,4,1,1
+gottigere,2020,nutrients,2,1,1
+gottigere,2021,BOD,2,1,1
+gottigere,2021,DO,2,1,1
+gottigere,2021,coliform,4,1,1
+gottigere,2021,nutrients,2,1,1
+gottigere,2022,BOD,2,1,1
+gottigere,2022,DO,2,1,1
+gottigere,2022,coliform,4,1,1
+gottigere,2022,nutrients,2,1,1
+gottigere,2023,BOD,6,2,5
+gottigere,2023,COD,2,1,2
+gottigere,2023,DO,6,2,5
+gottigere,2023,coliform,12,2,5
+gottigere,2023,nutrients,10,2,5
+gottigere,2024,BOD,13,2,12
+gottigere,2024,COD,8,1,8
+gottigere,2024,DO,13,2,12
+gottigere,2024,coliform,26,2,12
+gottigere,2024,metals,8,1,1
+gottigere,2024,nutrients,52,2,12
+gottigere,2025,BOD,11,1,11
+gottigere,2025,COD,11,1,11
+gottigere,2025,DO,11,1,11
+gottigere,2025,coliform,22,1,11
+gottigere,2025,metals,15,1,2
+gottigere,2025,nutrients,66,1,11
+gubbalal,2019,BOD,2,1,1
+gubbalal,2019,DO,2,1,1
+gubbalal,2019,coliform,4,1,1
+gubbalal,2019,nutrients,2,1,1
+gubbalal,2020,BOD,2,1,1
+gubbalal,2020,DO,2,1,1
+gubbalal,2020,coliform,4,1,1
+gubbalal,2020,nutrients,2,1,1
+gubbalal,2021,BOD,2,1,1
+gubbalal,2021,DO,2,1,1
+gubbalal,2021,coliform,4,1,1
+gubbalal,2021,nutrients,2,1,1
+gubbalal,2022,BOD,2,1,1
+gubbalal,2022,DO,2,1,1
+gubbalal,2022,coliform,4,1,1
+gubbalal,2022,nutrients,2,1,1
+gubbalal,2023,BOD,5,2,5
+gubbalal,2023,COD,2,1,2
+gubbalal,2023,DO,6,2,5
+gubbalal,2023,coliform,10,2,4
+gubbalal,2023,nutrients,10,2,5
+gubbalal,2024,BOD,10,2,8
+gubbalal,2024,COD,7,1,7
+gubbalal,2024,DO,10,2,8
+gubbalal,2024,coliform,20,2,8
+gubbalal,2024,metals,8,1,1
+gubbalal,2024,nutrients,45,2,8
+gubbalal,2025,BOD,8,1,8
+gubbalal,2025,COD,8,1,8
+gubbalal,2025,DO,8,1,8
+gubbalal,2025,coliform,16,1,8
+gubbalal,2025,metals,8,1,1
+gubbalal,2025,nutrients,48,1,8
+halagevaderahalli,2011,COD,1,1,1
+halagevaderahalli,2011,DO,1,1,1
+halagevaderahalli,2011,metals,4,1,1
+halagevaderahalli,2011,nutrients,2,1,1
+halnayakanahalli,2025,BOD,7,1,7
+halnayakanahalli,2025,COD,7,1,7
+halnayakanahalli,2025,DO,7,1,7
+halnayakanahalli,2025,coliform,14,1,7
+halnayakanahalli,2025,metals,8,1,1
+halnayakanahalli,2025,nutrients,41,1,7
+haralakunte,2008,BOD,4,1,1
+haralakunte,2008,DO,4,1,1
+haralakunte,2008,metals,16,1,1
+haralakunte,2009,BOD,4,1,1
+haralakunte,2009,DO,4,1,1
+haralakunte,2009,metals,16,1,1
+haralakunte,2010,BOD,4,1,1
+haralakunte,2010,DO,4,1,1
+haralakunte,2010,metals,16,1,1
+haralakunte somasandrakere,2011,COD,1,1,1
+haralakunte somasandrakere,2011,DO,1,1,1
+haralakunte somasandrakere,2011,metals,4,1,1
+haralakunte somasandrakere,2011,nutrients,2,1,1
+haralur,2011,COD,1,1,1
+haralur,2011,DO,1,1,1
+haralur,2011,metals,4,1,1
+haralur,2011,nutrients,2,1,1
+haralur,2016,BOD,2,1,1
+haralur,2016,DO,2,1,1
+haralur,2016,coliform,4,1,1
+haralur,2016,nutrients,2,1,1
+haralur,2017,BOD,2,1,1
+haralur,2017,DO,2,1,1
+haralur,2017,coliform,4,1,1
+haralur,2017,nutrients,2,1,1
+haralur,2018,BOD,2,1,1
+haralur,2018,DO,2,1,1
+haralur,2018,coliform,4,1,1
+haralur,2018,nutrients,2,1,1
+haralur,2019,BOD,2,1,1
+haralur,2019,DO,2,1,1
+haralur,2019,coliform,4,1,1
+haralur,2019,nutrients,2,1,1
+haralur,2020,BOD,2,1,1
+haralur,2020,DO,2,1,1
+haralur,2020,coliform,4,1,1
+haralur,2020,nutrients,2,1,1
+haralur,2021,BOD,2,1,1
+haralur,2021,DO,2,1,1
+haralur,2021,coliform,4,1,1
+haralur,2021,nutrients,2,1,1
+haralur,2022,BOD,2,1,1
+haralur,2022,DO,2,1,1
+haralur,2022,coliform,4,1,1
+haralur,2022,nutrients,2,1,1
+haralur,2023,BOD,6,2,5
+haralur,2023,COD,2,1,2
+haralur,2023,DO,6,2,5
+haralur,2023,coliform,12,2,5
+haralur,2023,nutrients,9,2,4
+haralur,2024,BOD,13,2,12
+haralur,2024,COD,8,1,8
+haralur,2024,DO,13,2,12
+haralur,2024,coliform,26,2,12
+haralur,2024,metals,8,1,1
+haralur,2024,nutrients,52,2,12
+haralur,2025,BOD,11,1,11
+haralur,2025,COD,11,1,11
+haralur,2025,DO,11,1,11
+haralur,2025,coliform,22,1,11
+haralur,2025,metals,16,1,2
+haralur,2025,nutrients,66,1,11
+hebbal,2011,COD,2,1,1
+hebbal,2011,DO,1,1,1
+hebbal,2011,coliform,2,1,1
+hebbal,2011,metals,8,1,1
+hebbal,2011,nutrients,4,1,1
+hebbal,2013,BOD,108,1,12
+hebbal,2013,DO,108,1,12
+hebbal,2013,metals,540,1,12
+hebbal,2013,nutrients,324,1,12
+hebbal,2016,BOD,2,1,1
+hebbal,2016,DO,2,1,1
+hebbal,2016,coliform,4,1,1
+hebbal,2016,nutrients,2,1,1
+hebbal,2017,BOD,2,1,1
+hebbal,2017,DO,2,1,1
+hebbal,2017,coliform,4,1,1
+hebbal,2017,nutrients,2,1,1
+hebbal,2018,BOD,2,1,1
+hebbal,2018,DO,2,1,1
+hebbal,2018,coliform,4,1,1
+hebbal,2018,nutrients,2,1,1
+hebbal,2019,BOD,2,1,1
+hebbal,2019,DO,2,1,1
+hebbal,2019,coliform,4,1,1
+hebbal,2019,nutrients,2,1,1
+hebbal,2020,BOD,2,1,1
+hebbal,2020,DO,2,1,1
+hebbal,2020,coliform,4,1,1
+hebbal,2020,nutrients,2,1,1
+hebbal,2021,BOD,2,1,1
+hebbal,2021,DO,2,1,1
+hebbal,2021,coliform,4,1,1
+hebbal,2021,nutrients,2,1,1
+hebbal,2022,BOD,2,1,1
+hebbal,2022,DO,2,1,1
+hebbal,2022,coliform,4,1,1
+hebbal,2022,nutrients,2,1,1
+hebbal,2023,BOD,6,2,5
+hebbal,2023,COD,2,1,2
+hebbal,2023,DO,6,2,5
+hebbal,2023,coliform,12,2,5
+hebbal,2023,nutrients,10,2,5
+hebbal,2024,BOD,12,2,11
+hebbal,2024,COD,8,1,8
+hebbal,2024,DO,12,2,11
+hebbal,2024,coliform,24,2,11
+hebbal,2024,metals,8,1,1
+hebbal,2024,nutrients,51,2,11
+hebbal,2025,BOD,11,1,11
+hebbal,2025,COD,11,1,11
+hebbal,2025,DO,11,1,11
+hebbal,2025,coliform,22,1,11
+hebbal,2025,metals,16,1,2
+hebbal,2025,nutrients,66,1,11
+hemnilgepura,2011,COD,2,1,1
+hemnilgepura,2011,DO,1,1,1
+hemnilgepura,2011,metals,8,1,1
+hemnilgepura,2011,nutrients,4,1,1
+herohalli,2011,COD,1,1,1
+herohalli,2011,DO,1,1,1
+herohalli,2011,coliform,2,1,1
+herohalli,2011,metals,4,1,1
+herohalli,2011,nutrients,2,1,1
+herohalli,2016,BOD,2,1,1
+herohalli,2016,DO,2,1,1
+herohalli,2016,coliform,4,1,1
+herohalli,2016,nutrients,2,1,1
+herohalli,2017,BOD,2,1,1
+herohalli,2017,DO,2,1,1
+herohalli,2017,coliform,4,1,1
+herohalli,2017,nutrients,2,1,1
+herohalli,2018,BOD,2,1,1
+herohalli,2018,DO,2,1,1
+herohalli,2018,coliform,4,1,1
+herohalli,2018,nutrients,2,1,1
+herohalli,2019,BOD,2,1,1
+herohalli,2019,DO,2,1,1
+herohalli,2019,coliform,4,1,1
+herohalli,2019,nutrients,2,1,1
+herohalli,2020,BOD,2,1,1
+herohalli,2020,DO,2,1,1
+herohalli,2020,coliform,4,1,1
+herohalli,2020,nutrients,2,1,1
+herohalli,2021,BOD,2,1,1
+herohalli,2021,DO,2,1,1
+herohalli,2021,coliform,4,1,1
+herohalli,2021,nutrients,2,1,1
+herohalli,2022,BOD,2,1,1
+herohalli,2022,DO,2,1,1
+herohalli,2022,coliform,4,1,1
+herohalli,2022,nutrients,2,1,1
+herohalli,2023,BOD,4,2,3
+herohalli,2023,DO,4,2,3
+herohalli,2023,coliform,8,2,3
+herohalli,2023,nutrients,4,2,3
+herohalli,2024,BOD,14,2,12
+herohalli,2024,COD,8,1,8
+herohalli,2024,DO,14,2,12
+herohalli,2024,coliform,28,2,12
+herohalli,2024,metals,8,1,1
+herohalli,2024,nutrients,52,2,12
+herohalli,2025,BOD,11,1,11
+herohalli,2025,COD,11,1,11
+herohalli,2025,DO,11,1,11
+herohalli,2025,coliform,22,1,11
+herohalli,2025,metals,16,1,2
+herohalli,2025,nutrients,66,1,11
+hesaraghatta,2016,BOD,2,1,1
+hesaraghatta,2016,DO,2,1,1
+hesaraghatta,2016,coliform,4,1,1
+hesaraghatta,2016,nutrients,2,1,1
+hesaraghatta,2017,BOD,2,1,1
+hesaraghatta,2017,DO,2,1,1
+hesaraghatta,2017,coliform,4,1,1
+hesaraghatta,2017,nutrients,2,1,1
+hesaraghatta,2018,BOD,2,1,1
+hesaraghatta,2018,DO,2,1,1
+hesaraghatta,2018,coliform,4,1,1
+hesaraghatta,2018,nutrients,2,1,1
+hesaraghatta,2019,BOD,2,1,1
+hesaraghatta,2019,DO,2,1,1
+hesaraghatta,2019,coliform,4,1,1
+hesaraghatta,2019,nutrients,2,1,1
+hesaraghatta,2020,BOD,2,1,1
+hesaraghatta,2020,DO,2,1,1
+hesaraghatta,2020,coliform,4,1,1
+hesaraghatta,2020,nutrients,2,1,1
+hesaraghatta,2021,BOD,2,1,1
+hesaraghatta,2021,DO,2,1,1
+hesaraghatta,2021,coliform,4,1,1
+hesaraghatta,2021,nutrients,2,1,1
+hesaraghatta,2022,BOD,2,1,1
+hesaraghatta,2022,DO,2,1,1
+hesaraghatta,2022,coliform,4,1,1
+hesaraghatta,2022,nutrients,2,1,1
+hesaraghatta,2023,BOD,5,2,4
+hesaraghatta,2023,COD,1,1,1
+hesaraghatta,2023,DO,5,2,4
+hesaraghatta,2023,coliform,10,2,4
+hesaraghatta,2023,nutrients,7,2,4
+hesaraghatta,2024,BOD,14,2,12
+hesaraghatta,2024,COD,8,1,8
+hesaraghatta,2024,DO,14,2,12
+hesaraghatta,2024,coliform,28,2,12
+hesaraghatta,2024,metals,8,1,1
+hesaraghatta,2024,nutrients,53,2,12
+hesaraghatta,2025,BOD,11,1,11
+hesaraghatta,2025,COD,11,1,11
+hesaraghatta,2025,DO,11,1,11
+hesaraghatta,2025,coliform,22,1,11
+hesaraghatta,2025,metals,16,1,2
+hesaraghatta,2025,nutrients,66,1,11
+hoodi rajapalya,2023,BOD,5,2,4
+hoodi rajapalya,2023,COD,1,1,1
+hoodi rajapalya,2023,DO,5,2,4
+hoodi rajapalya,2023,coliform,10,2,4
+hoodi rajapalya,2023,nutrients,7,2,4
+hoodi rajapalya,2024,BOD,14,2,12
+hoodi rajapalya,2024,COD,8,1,8
+hoodi rajapalya,2024,DO,14,2,12
+hoodi rajapalya,2024,coliform,28,2,12
+hoodi rajapalya,2024,metals,8,1,1
+hoodi rajapalya,2024,nutrients,53,2,12
+hoodi rajapalya,2025,BOD,11,1,11
+hoodi rajapalya,2025,COD,11,1,11
+hoodi rajapalya,2025,DO,11,1,11
+hoodi rajapalya,2025,coliform,22,1,11
+hoodi rajapalya,2025,metals,16,1,2
+hoodi rajapalya,2025,nutrients,65,1,11
+horamavu agara,2011,COD,2,1,1
+horamavu agara,2011,DO,1,1,1
+horamavu agara,2011,coliform,2,1,1
+horamavu agara,2011,metals,4,1,1
+horamavu agara,2011,nutrients,4,1,1
+hosakerehalli,2019,BOD,2,1,1
+hosakerehalli,2019,DO,2,1,1
+hosakerehalli,2019,coliform,4,1,1
+hosakerehalli,2019,nutrients,2,1,1
+hosakerehalli,2020,BOD,2,1,1
+hosakerehalli,2020,DO,2,1,1
+hosakerehalli,2020,coliform,4,1,1
+hosakerehalli,2020,nutrients,2,1,1
+hosakerehalli,2021,BOD,2,1,1
+hosakerehalli,2021,DO,2,1,1
+hosakerehalli,2021,coliform,4,1,1
+hosakerehalli,2021,nutrients,2,1,1
+hosakerehalli,2022,BOD,2,1,1
+hosakerehalli,2022,DO,2,1,1
+hosakerehalli,2022,coliform,4,1,1
+hosakerehalli,2022,nutrients,2,1,1
+hosakerehalli,2023,BOD,6,2,5
+hosakerehalli,2023,COD,2,1,2
+hosakerehalli,2023,DO,6,2,5
+hosakerehalli,2023,coliform,10,2,4
+hosakerehalli,2023,nutrients,10,2,5
+hosakerehalli,2024,BOD,14,2,12
+hosakerehalli,2024,COD,8,1,8
+hosakerehalli,2024,DO,14,2,12
+hosakerehalli,2024,coliform,28,2,12
+hosakerehalli,2024,metals,8,1,1
+hosakerehalli,2024,nutrients,53,2,12
+hosakerehalli,2025,BOD,11,1,11
+hosakerehalli,2025,COD,11,1,11
+hosakerehalli,2025,DO,11,1,11
+hosakerehalli,2025,coliform,22,1,11
+hosakerehalli,2025,metals,16,1,2
+hosakerehalli,2025,nutrients,66,1,11
+hoskere,2011,COD,1,1,1
+hoskere,2011,DO,1,1,1
+hoskere,2011,coliform,2,1,1
+hoskere,2011,metals,4,1,1
+hoskere,2011,nutrients,2,1,1
+hoskere,2020,BOD,2,1,1
+hoskere,2020,DO,2,1,1
+hoskere,2020,coliform,4,1,1
+hoskere,2020,nutrients,2,1,1
+hoskere,2022,BOD,2,1,1
+hoskere,2022,DO,2,1,1
+hoskere,2022,coliform,4,1,1
+hoskere,2022,nutrients,2,1,1
+hoskere,2023,BOD,6,2,5
+hoskere,2023,COD,2,1,2
+hoskere,2023,DO,6,2,5
+hoskere,2023,coliform,10,2,4
+hoskere,2023,nutrients,10,2,5
+hoskere,2024,BOD,13,2,12
+hoskere,2024,COD,8,1,8
+hoskere,2024,DO,13,2,12
+hoskere,2024,coliform,26,2,12
+hoskere,2024,metals,8,1,1
+hoskere,2024,nutrients,52,2,12
+hoskere,2025,BOD,11,1,11
+hoskere,2025,COD,11,1,11
+hoskere,2025,DO,11,1,11
+hoskere,2025,coliform,22,1,11
+hoskere,2025,metals,16,1,2
+hoskere,2025,nutrients,66,1,11
+huchappana palya,2011,COD,2,1,1
+huchappana palya,2011,DO,1,1,1
+huchappana palya,2011,nutrients,4,1,1
+hulimavu,2011,COD,1,1,1
+hulimavu,2011,DO,1,1,1
+hulimavu,2011,metals,4,1,1
+hulimavu,2011,nutrients,2,1,1
+hulimavu,2016,BOD,2,1,1
+hulimavu,2016,DO,2,1,1
+hulimavu,2016,coliform,4,1,1
+hulimavu,2016,nutrients,2,1,1
+hulimavu,2017,BOD,2,1,1
+hulimavu,2017,DO,2,1,1
+hulimavu,2017,coliform,4,1,1
+hulimavu,2017,nutrients,2,1,1
+hulimavu,2018,BOD,2,1,1
+hulimavu,2018,DO,2,1,1
+hulimavu,2018,coliform,4,1,1
+hulimavu,2018,nutrients,2,1,1
+hulimavu,2019,BOD,2,1,1
+hulimavu,2019,DO,2,1,1
+hulimavu,2019,coliform,4,1,1
+hulimavu,2019,nutrients,2,1,1
+hulimavu,2020,BOD,2,1,1
+hulimavu,2020,DO,2,1,1
+hulimavu,2020,coliform,4,1,1
+hulimavu,2020,nutrients,2,1,1
+hulimavu,2021,BOD,2,1,1
+hulimavu,2021,DO,2,1,1
+hulimavu,2021,coliform,4,1,1
+hulimavu,2021,nutrients,2,1,1
+hulimavu,2022,BOD,2,1,1
+hulimavu,2022,DO,2,1,1
+hulimavu,2022,coliform,4,1,1
+hulimavu,2022,nutrients,2,1,1
+hulimavu,2023,BOD,3,2,2
+hulimavu,2023,DO,3,2,2
+hulimavu,2023,coliform,6,2,2
+hulimavu,2023,nutrients,3,2,2
+hulimavu,2024,BOD,3,2,2
+hulimavu,2024,COD,1,1,1
+hulimavu,2024,DO,3,2,2
+hulimavu,2024,coliform,6,2,2
+hulimavu,2024,nutrients,8,2,2
+hulimavu,2025,BOD,5,1,5
+hulimavu,2025,COD,5,1,5
+hulimavu,2025,DO,5,1,5
+hulimavu,2025,coliform,10,1,5
+hulimavu,2025,metals,8,1,1
+hulimavu,2025,nutrients,30,1,5
+huliniavu,2011,COD,1,1,1
+huliniavu,2011,metals,4,1,1
+huliniavu,2011,nutrients,2,1,1
+ibbalur,2011,DO,1,1,1
+ibbalur,2011,coliform,2,1,1
+ibbalur,2011,metals,8,1,1
+ibbalur,2011,nutrients,4,1,1
+ibbalur,2020,BOD,2,1,1
+ibbalur,2020,DO,2,1,1
+ibbalur,2020,coliform,4,1,1
+ibbalur,2020,nutrients,2,1,1
+ibbalur,2021,BOD,2,1,1
+ibbalur,2021,DO,2,1,1
+ibbalur,2021,coliform,4,1,1
+ibbalur,2021,nutrients,2,1,1
+ibbalur,2022,BOD,2,1,1
+ibbalur,2022,DO,2,1,1
+ibbalur,2022,coliform,4,1,1
+ibbalur,2022,nutrients,2,1,1
+ibbalur,2023,BOD,6,2,5
+ibbalur,2023,COD,2,1,2
+ibbalur,2023,DO,6,2,5
+ibbalur,2023,coliform,12,2,5
+ibbalur,2023,nutrients,9,2,4
+ibbalur,2024,BOD,13,2,12
+ibbalur,2024,COD,8,1,8
+ibbalur,2024,DO,13,2,12
+ibbalur,2024,coliform,26,2,12
+ibbalur,2024,metals,8,1,1
+ibbalur,2024,nutrients,52,2,12
+ibbalur,2025,BOD,11,1,11
+ibbalur,2025,COD,11,1,11
+ibbalur,2025,DO,11,1,11
+ibbalur,2025,coliform,22,1,11
+ibbalur,2025,metals,16,1,2
+ibbalur,2025,nutrients,66,1,11
+ittamadu,2011,COD,2,1,1
+ittamadu,2011,DO,1,1,1
+ittamadu,2011,metals,8,1,1
+ittamadu,2011,nutrients,4,1,1
+jakksandra kasavanahalli,2019,BOD,2,1,1
+jakksandra kasavanahalli,2019,DO,2,1,1
+jakksandra kasavanahalli,2019,coliform,4,1,1
+jakksandra kasavanahalli,2019,nutrients,2,1,1
+jakksandra kasavanahalli,2020,BOD,2,1,1
+jakksandra kasavanahalli,2020,DO,2,1,1
+jakksandra kasavanahalli,2020,coliform,4,1,1
+jakksandra kasavanahalli,2020,nutrients,2,1,1
+jakksandra kasavanahalli,2021,BOD,2,1,1
+jakksandra kasavanahalli,2021,DO,2,1,1
+jakksandra kasavanahalli,2021,coliform,4,1,1
+jakksandra kasavanahalli,2021,nutrients,2,1,1
+jakksandra kasavanahalli,2022,BOD,2,1,1
+jakksandra kasavanahalli,2022,DO,2,1,1
+jakksandra kasavanahalli,2022,coliform,2,1,1
+jakksandra kasavanahalli,2022,nutrients,2,1,1
+jakksandra kasavanahalli,2023,BOD,2,1,1
+jakksandra kasavanahalli,2023,DO,2,1,1
+jakksandra kasavanahalli,2023,coliform,4,1,1
+jakksandra kasavanahalli,2023,nutrients,2,1,1
+jakksandra kasavanahalli,2024,BOD,6,2,5
+jakksandra kasavanahalli,2024,COD,2,1,2
+jakksandra kasavanahalli,2024,DO,6,2,5
+jakksandra kasavanahalli,2024,coliform,12,2,5
+jakksandra kasavanahalli,2024,nutrients,15,2,5
+jakksandra kasavanahalli,2025,BOD,1,1,1
+jakksandra kasavanahalli,2025,COD,1,1,1
+jakksandra kasavanahalli,2025,DO,1,1,1
+jakksandra kasavanahalli,2025,coliform,2,1,1
+jakksandra kasavanahalli,2025,nutrients,6,1,1
+jakkur,2008,BOD,4,1,1
+jakkur,2008,DO,4,1,1
+jakkur,2008,metals,16,1,1
+jakkur,2009,BOD,4,1,1
+jakkur,2009,DO,4,1,1
+jakkur,2009,metals,16,1,1
+jakkur,2010,BOD,4,1,1
+jakkur,2010,DO,4,1,1
+jakkur,2010,metals,16,1,1
+jakkur,2011,DO,1,1,1
+jakkur,2011,metals,8,1,1
+jakkur,2011,nutrients,4,1,1
+jakkur,2016,BOD,2,1,1
+jakkur,2016,DO,2,1,1
+jakkur,2016,coliform,4,1,1
+jakkur,2016,nutrients,2,1,1
+jakkur,2017,BOD,2,1,1
+jakkur,2017,DO,2,1,1
+jakkur,2017,coliform,4,1,1
+jakkur,2017,nutrients,2,1,1
+jakkur,2018,BOD,2,1,1
+jakkur,2018,DO,2,1,1
+jakkur,2018,coliform,4,1,1
+jakkur,2018,nutrients,2,1,1
+jakkur,2019,BOD,2,1,1
+jakkur,2019,DO,2,1,1
+jakkur,2019,coliform,4,1,1
+jakkur,2019,nutrients,2,1,1
+jakkur,2020,BOD,2,1,1
+jakkur,2020,DO,2,1,1
+jakkur,2020,coliform,4,1,1
+jakkur,2020,nutrients,2,1,1
+jakkur,2021,BOD,2,1,1
+jakkur,2021,DO,2,1,1
+jakkur,2021,coliform,4,1,1
+jakkur,2021,nutrients,2,1,1
+jakkur,2022,BOD,2,1,1
+jakkur,2022,DO,2,1,1
+jakkur,2022,coliform,4,1,1
+jakkur,2022,nutrients,2,1,1
+jakkur,2023,BOD,6,2,5
+jakkur,2023,COD,2,1,2
+jakkur,2023,DO,6,2,5
+jakkur,2023,coliform,12,2,5
+jakkur,2023,nutrients,10,2,5
+jakkur,2024,BOD,12,2,11
+jakkur,2024,COD,8,1,8
+jakkur,2024,DO,12,2,11
+jakkur,2024,coliform,24,2,11
+jakkur,2024,metals,8,1,1
+jakkur,2024,nutrients,51,2,11
+jakkur,2025,BOD,10,1,10
+jakkur,2025,COD,10,1,10
+jakkur,2025,DO,10,1,10
+jakkur,2025,coliform,20,1,10
+jakkur,2025,metals,16,1,2
+jakkur,2025,nutrients,60,1,10
+janardhankere,2011,COD,1,1,1
+janardhankere,2011,DO,1,1,1
+janardhankere,2011,metals,3,1,1
+janardhankere,2011,nutrients,2,1,1
+jatiigarahalli,2011,COD,1,1,1
+jatiigarahalli,2011,metals,4,1,1
+jatiigarahalli,2011,nutrients,2,1,1
+jattigarahalli,2011,COD,1,1,1
+jattigarahalli,2011,DO,1,1,1
+jattigarahalli,2011,metals,4,1,1
+jattigarahalli,2011,nutrients,1,1,1
+jigani,2019,BOD,2,1,1
+jigani,2019,DO,2,1,1
+jigani,2019,coliform,4,1,1
+jigani,2019,nutrients,2,1,1
+jigani,2020,BOD,2,1,1
+jigani,2020,DO,2,1,1
+jigani,2020,coliform,4,1,1
+jigani,2020,nutrients,2,1,1
+jigani,2021,BOD,2,1,1
+jigani,2021,DO,2,1,1
+jigani,2021,coliform,4,1,1
+jigani,2021,nutrients,2,1,1
+jigani,2022,BOD,2,1,1
+jigani,2022,DO,2,1,1
+jigani,2022,coliform,4,1,1
+jigani,2022,nutrients,2,1,1
+jigani,2023,BOD,6,2,5
+jigani,2023,COD,2,1,2
+jigani,2023,DO,6,2,5
+jigani,2023,coliform,12,2,5
+jigani,2023,nutrients,10,2,5
+jigani,2024,BOD,13,2,12
+jigani,2024,COD,8,1,8
+jigani,2024,DO,13,2,12
+jigani,2024,coliform,26,2,12
+jigani,2024,metals,8,1,1
+jigani,2024,nutrients,52,2,12
+jigani,2025,BOD,11,1,11
+jigani,2025,COD,11,1,11
+jigani,2025,DO,11,1,11
+jigani,2025,coliform,22,1,11
+jigani,2025,metals,16,1,2
+jigani,2025,nutrients,66,1,11
+jimkenahalli,2011,COD,1,1,1
+jimkenahalli,2011,metals,4,1,1
+jimkenahalli,2011,nutrients,2,1,1
+jp park,2011,COD,2,1,1
+jp park,2011,DO,1,1,1
+jp park,2011,coliform,2,1,1
+jp park,2011,metals,8,1,1
+jp park,2011,nutrients,4,1,1
+jungu devarabeesanahalli,2019,BOD,2,1,1
+jungu devarabeesanahalli,2019,DO,2,1,1
+jungu devarabeesanahalli,2019,coliform,4,1,1
+jungu devarabeesanahalli,2019,nutrients,2,1,1
+jungu devarabeesanahalli,2020,BOD,2,1,1
+jungu devarabeesanahalli,2020,DO,2,1,1
+jungu devarabeesanahalli,2020,coliform,4,1,1
+jungu devarabeesanahalli,2020,nutrients,2,1,1
+jungu devarabeesanahalli,2022,BOD,2,1,1
+jungu devarabeesanahalli,2022,DO,2,1,1
+jungu devarabeesanahalli,2022,coliform,4,1,1
+jungu devarabeesanahalli,2022,nutrients,2,1,1
+jungu devarabeesanahalli,2023,BOD,2,1,1
+jungu devarabeesanahalli,2023,DO,2,1,1
+jungu devarabeesanahalli,2023,coliform,4,1,1
+jungu devarabeesanahalli,2023,nutrients,2,1,1
+jungu devarabeesanahalli,2024,BOD,5,2,4
+jungu devarabeesanahalli,2024,COD,1,1,1
+jungu devarabeesanahalli,2024,DO,5,2,4
+jungu devarabeesanahalli,2024,coliform,10,2,4
+jungu devarabeesanahalli,2024,nutrients,10,2,4
+jungu devarabeesanahalli,2025,BOD,1,1,1
+jungu devarabeesanahalli,2025,COD,1,1,1
+jungu devarabeesanahalli,2025,DO,1,1,1
+jungu devarabeesanahalli,2025,coliform,2,1,1
+jungu devarabeesanahalli,2025,nutrients,6,1,1
+kachohalli,2018,BOD,2,1,1
+kachohalli,2018,DO,2,1,1
+kachohalli,2018,coliform,4,1,1
+kachohalli,2018,nutrients,2,1,1
+kachohalli,2019,BOD,2,1,1
+kachohalli,2019,DO,2,1,1
+kachohalli,2019,coliform,4,1,1
+kachohalli,2019,nutrients,2,1,1
+kachohalli,2020,BOD,2,1,1
+kachohalli,2020,DO,2,1,1
+kachohalli,2020,coliform,4,1,1
+kachohalli,2020,nutrients,2,1,1
+kachohalli,2021,BOD,2,1,1
+kachohalli,2021,DO,2,1,1
+kachohalli,2021,coliform,4,1,1
+kachohalli,2021,nutrients,2,1,1
+kachohalli,2022,BOD,2,1,1
+kachohalli,2022,DO,2,1,1
+kachohalli,2022,coliform,4,1,1
+kachohalli,2022,nutrients,2,1,1
+kachohalli,2023,BOD,3,2,3
+kachohalli,2023,DO,4,2,3
+kachohalli,2023,coliform,8,2,3
+kachohalli,2023,nutrients,4,2,3
+kachohalli,2024,BOD,14,2,12
+kachohalli,2024,COD,8,1,8
+kachohalli,2024,DO,14,2,12
+kachohalli,2024,coliform,28,2,12
+kachohalli,2024,metals,8,1,1
+kachohalli,2024,nutrients,52,2,12
+kachohalli,2025,BOD,11,1,11
+kachohalli,2025,COD,11,1,11
+kachohalli,2025,DO,11,1,11
+kachohalli,2025,coliform,22,1,11
+kachohalli,2025,metals,16,1,2
+kachohalli,2025,nutrients,66,1,11
+kaikondrahalli,2016,BOD,2,1,1
+kaikondrahalli,2016,DO,2,1,1
+kaikondrahalli,2016,coliform,4,1,1
+kaikondrahalli,2016,nutrients,2,1,1
+kaikondrahalli,2017,BOD,2,1,1
+kaikondrahalli,2017,DO,2,1,1
+kaikondrahalli,2017,coliform,4,1,1
+kaikondrahalli,2017,nutrients,2,1,1
+kaikondrahalli,2018,BOD,2,1,1
+kaikondrahalli,2018,DO,2,1,1
+kaikondrahalli,2018,coliform,4,1,1
+kaikondrahalli,2018,nutrients,2,1,1
+kaikondrahalli,2019,BOD,2,1,1
+kaikondrahalli,2019,DO,2,1,1
+kaikondrahalli,2019,coliform,4,1,1
+kaikondrahalli,2019,nutrients,2,1,1
+kaikondrahalli,2020,BOD,2,1,1
+kaikondrahalli,2020,DO,2,1,1
+kaikondrahalli,2020,coliform,4,1,1
+kaikondrahalli,2020,nutrients,2,1,1
+kaikondrahalli,2021,BOD,2,1,1
+kaikondrahalli,2021,DO,2,1,1
+kaikondrahalli,2021,coliform,4,1,1
+kaikondrahalli,2021,nutrients,2,1,1
+kaikondrahalli,2022,BOD,2,1,1
+kaikondrahalli,2022,DO,2,1,1
+kaikondrahalli,2022,coliform,4,1,1
+kaikondrahalli,2022,nutrients,2,1,1
+kaikondrahalli,2023,BOD,6,2,5
+kaikondrahalli,2023,COD,2,1,2
+kaikondrahalli,2023,DO,6,2,5
+kaikondrahalli,2023,coliform,12,2,5
+kaikondrahalli,2023,nutrients,10,2,5
+kaikondrahalli,2024,BOD,13,2,12
+kaikondrahalli,2024,COD,8,1,8
+kaikondrahalli,2024,DO,13,2,12
+kaikondrahalli,2024,coliform,26,2,12
+kaikondrahalli,2024,metals,8,1,1
+kaikondrahalli,2024,nutrients,52,2,12
+kaikondrahalli,2025,BOD,11,1,11
+kaikondrahalli,2025,COD,11,1,11
+kaikondrahalli,2025,DO,11,1,11
+kaikondrahalli,2025,coliform,22,1,11
+kaikondrahalli,2025,metals,16,1,2
+kaikondrahalli,2025,nutrients,66,1,11
+kakere,2008,BOD,4,1,1
+kakere,2008,DO,4,1,1
+kakere,2008,metals,16,1,1
+kakere,2009,BOD,4,1,1
+kakere,2009,DO,4,1,1
+kakere,2009,metals,16,1,1
+kakere,2010,BOD,4,1,1
+kakere,2010,DO,4,1,1
+kakere,2010,metals,16,1,1
+kalena agrahara,2011,COD,1,1,1
+kalena agrahara,2011,DO,1,1,1
+kalena agrahara,2011,metals,4,1,1
+kalena agrahara,2011,nutrients,2,1,1
+kalena agrahara,2016,BOD,2,1,1
+kalena agrahara,2016,DO,2,1,1
+kalena agrahara,2016,coliform,4,1,1
+kalena agrahara,2016,nutrients,2,1,1
+kalena agrahara,2017,BOD,2,1,1
+kalena agrahara,2017,DO,2,1,1
+kalena agrahara,2017,coliform,4,1,1
+kalena agrahara,2017,nutrients,2,1,1
+kalena agrahara,2018,BOD,2,1,1
+kalena agrahara,2018,DO,2,1,1
+kalena agrahara,2018,coliform,4,1,1
+kalena agrahara,2018,nutrients,2,1,1
+kalena agrahara,2019,BOD,2,1,1
+kalena agrahara,2019,DO,2,1,1
+kalena agrahara,2019,coliform,4,1,1
+kalena agrahara,2019,nutrients,2,1,1
+kalena agrahara,2020,BOD,2,1,1
+kalena agrahara,2020,DO,2,1,1
+kalena agrahara,2020,coliform,4,1,1
+kalena agrahara,2020,nutrients,2,1,1
+kalena agrahara,2021,BOD,2,1,1
+kalena agrahara,2021,DO,2,1,1
+kalena agrahara,2021,coliform,4,1,1
+kalena agrahara,2021,nutrients,2,1,1
+kalena agrahara,2022,BOD,2,1,1
+kalena agrahara,2022,DO,2,1,1
+kalena agrahara,2022,coliform,4,1,1
+kalena agrahara,2022,nutrients,2,1,1
+kalena agrahara,2023,BOD,6,2,5
+kalena agrahara,2023,COD,2,1,2
+kalena agrahara,2023,DO,6,2,5
+kalena agrahara,2023,coliform,12,2,5
+kalena agrahara,2023,nutrients,10,2,5
+kalena agrahara,2024,BOD,12,2,11
+kalena agrahara,2024,COD,8,1,8
+kalena agrahara,2024,DO,13,2,12
+kalena agrahara,2024,coliform,26,2,12
+kalena agrahara,2024,metals,8,1,1
+kalena agrahara,2024,nutrients,52,2,12
+kalena agrahara,2025,BOD,11,1,11
+kalena agrahara,2025,COD,11,1,11
+kalena agrahara,2025,DO,11,1,11
+kalena agrahara,2025,coliform,22,1,11
+kalena agrahara,2025,metals,16,1,2
+kalena agrahara,2025,nutrients,66,1,11
+kalkere,2016,BOD,2,1,1
+kalkere,2016,coliform,4,1,1
+kalkere,2016,nutrients,2,1,1
+kalkere,2019,BOD,2,1,1
+kalkere,2019,DO,2,1,1
+kalkere,2019,coliform,4,1,1
+kalkere,2019,nutrients,2,1,1
+kalkere,2020,BOD,2,1,1
+kalkere,2020,DO,2,1,1
+kalkere,2020,coliform,4,1,1
+kalkere,2020,nutrients,2,1,1
+kalkere,2021,BOD,2,1,1
+kalkere,2021,DO,2,1,1
+kalkere,2021,coliform,4,1,1
+kalkere,2021,nutrients,2,1,1
+kalkere,2022,BOD,2,1,1
+kalkere,2022,DO,2,1,1
+kalkere,2022,coliform,4,1,1
+kalkere,2022,nutrients,2,1,1
+kalkere,2023,BOD,6,2,5
+kalkere,2023,COD,2,1,2
+kalkere,2023,DO,6,2,5
+kalkere,2023,coliform,12,2,5
+kalkere,2023,nutrients,10,2,5
+kalkere,2024,BOD,12,2,11
+kalkere,2024,COD,7,1,7
+kalkere,2024,DO,12,2,11
+kalkere,2024,coliform,24,2,11
+kalkere,2024,metals,8,1,1
+kalkere,2024,nutrients,46,2,11
+kalkere,2025,BOD,10,1,10
+kalkere,2025,COD,10,1,10
+kalkere,2025,DO,10,1,10
+kalkere,2025,coliform,20,1,10
+kalkere,2025,metals,8,1,1
+kalkere,2025,nutrients,60,1,10
+kalkere agara,2011,COD,1,1,1
+kalkere agara,2011,DO,1,1,1
+kalkere agara,2011,coliform,2,1,1
+kalkere agara,2011,metals,4,1,1
+kalkere agara,2011,nutrients,2,1,1
+kammagondanahalli,2011,COD,1,1,1
+kammagondanahalli,2011,DO,1,1,1
+kammagondanahalli,2011,metals,4,1,1
+kammagondanahalli,2011,nutrients,2,1,1
+kammagondanahalli,2019,BOD,2,1,1
+kammagondanahalli,2019,DO,2,1,1
+kammagondanahalli,2019,coliform,4,1,1
+kammagondanahalli,2019,nutrients,2,1,1
+kammagondanahalli,2020,BOD,2,1,1
+kammagondanahalli,2020,DO,2,1,1
+kammagondanahalli,2020,coliform,4,1,1
+kammagondanahalli,2020,nutrients,2,1,1
+kammagondanahalli,2021,BOD,2,1,1
+kammagondanahalli,2021,DO,2,1,1
+kammagondanahalli,2021,coliform,4,1,1
+kammagondanahalli,2021,nutrients,2,1,1
+kammagondanahalli,2022,BOD,2,1,1
+kammagondanahalli,2022,DO,2,1,1
+kammagondanahalli,2022,coliform,4,1,1
+kammagondanahalli,2022,nutrients,2,1,1
+kammagondanahalli,2023,BOD,5,2,4
+kammagondanahalli,2023,COD,1,1,1
+kammagondanahalli,2023,DO,5,2,4
+kammagondanahalli,2023,coliform,10,2,4
+kammagondanahalli,2023,nutrients,7,2,4
+kammagondanahalli,2024,BOD,14,2,12
+kammagondanahalli,2024,COD,8,1,8
+kammagondanahalli,2024,DO,14,2,12
+kammagondanahalli,2024,coliform,28,2,12
+kammagondanahalli,2024,metals,8,1,1
+kammagondanahalli,2024,nutrients,53,2,12
+kammagondanahalli,2025,BOD,9,1,9
+kammagondanahalli,2025,COD,9,1,9
+kammagondanahalli,2025,DO,9,1,9
+kammagondanahalli,2025,coliform,18,1,9
+kammagondanahalli,2025,metals,8,1,1
+kammagondanahalli,2025,nutrients,54,1,9
+kammasandra,2019,BOD,2,1,1
+kammasandra,2019,DO,2,1,1
+kammasandra,2019,coliform,4,1,1
+kammasandra,2019,nutrients,2,1,1
+kammasandra,2020,BOD,2,1,1
+kammasandra,2020,DO,2,1,1
+kammasandra,2020,coliform,4,1,1
+kammasandra,2020,nutrients,2,1,1
+kammasandra,2021,BOD,2,1,1
+kammasandra,2021,DO,2,1,1
+kammasandra,2021,coliform,4,1,1
+kammasandra,2021,nutrients,2,1,1
+kammasandra,2022,BOD,2,1,1
+kammasandra,2022,DO,2,1,1
+kammasandra,2022,coliform,4,1,1
+kammasandra,2022,nutrients,2,1,1
+kammasandra,2023,BOD,4,2,4
+kammasandra,2023,COD,1,1,1
+kammasandra,2023,DO,5,2,4
+kammasandra,2023,coliform,10,2,4
+kammasandra,2023,nutrients,7,2,4
+kammasandra,2024,BOD,6,2,4
+kammasandra,2024,COD,1,1,1
+kammasandra,2024,DO,6,2,4
+kammasandra,2024,coliform,12,2,4
+kammasandra,2024,nutrients,11,2,4
+kammasandra,2025,BOD,8,1,8
+kammasandra,2025,COD,8,1,8
+kammasandra,2025,DO,8,1,8
+kammasandra,2025,coliform,16,1,8
+kammasandra,2025,metals,8,1,1
+kammasandra,2025,nutrients,47,1,8
+kannahalli kannahalli,2023,BOD,4,2,3
+kannahalli kannahalli,2023,DO,4,2,3
+kannahalli kannahalli,2023,coliform,8,2,3
+kannahalli kannahalli,2023,nutrients,4,2,3
+kannahalli kannahalli,2024,BOD,14,2,12
+kannahalli kannahalli,2024,COD,8,1,8
+kannahalli kannahalli,2024,DO,14,2,12
+kannahalli kannahalli,2024,coliform,28,2,12
+kannahalli kannahalli,2024,metals,8,1,1
+kannahalli kannahalli,2024,nutrients,53,2,12
+kannahalli kannahalli,2025,BOD,11,1,11
+kannahalli kannahalli,2025,COD,11,1,11
+kannahalli kannahalli,2025,DO,11,1,11
+kannahalli kannahalli,2025,coliform,22,1,11
+kannahalli kannahalli,2025,metals,16,1,2
+kannahalli kannahalli,2025,nutrients,66,1,11
+kannamangala hoskote,2023,BOD,6,2,5
+kannamangala hoskote,2023,COD,2,1,2
+kannamangala hoskote,2023,DO,6,2,5
+kannamangala hoskote,2023,coliform,12,2,5
+kannamangala hoskote,2023,nutrients,10,2,5
+kannamangala hoskote,2024,BOD,14,2,12
+kannamangala hoskote,2024,COD,8,1,8
+kannamangala hoskote,2024,DO,14,2,12
+kannamangala hoskote,2024,coliform,26,2,11
+kannamangala hoskote,2024,metals,8,1,1
+kannamangala hoskote,2024,nutrients,52,2,12
+kannamangala hoskote,2025,BOD,11,1,11
+kannamangala hoskote,2025,COD,11,1,11
+kannamangala hoskote,2025,DO,11,1,11
+kannamangala hoskote,2025,coliform,22,1,11
+kannamangala hoskote,2025,metals,16,1,2
+kannamangala hoskote,2025,nutrients,66,1,11
+kannur,2023,BOD,5,2,4
+kannur,2023,COD,1,1,1
+kannur,2023,DO,5,2,4
+kannur,2023,coliform,10,2,4
+kannur,2023,nutrients,7,2,4
+kannur,2024,BOD,13,2,11
+kannur,2024,COD,7,1,7
+kannur,2024,DO,13,2,11
+kannur,2024,coliform,26,2,11
+kannur,2024,metals,8,1,1
+kannur,2024,nutrients,47,2,11
+kannur,2025,BOD,11,1,11
+kannur,2025,COD,11,1,11
+kannur,2025,DO,11,1,11
+kannur,2025,coliform,22,1,11
+kannur,2025,metals,16,1,2
+kannur,2025,nutrients,66,1,11
+karihobanahalli,2008,BOD,4,1,1
+karihobanahalli,2008,DO,4,1,1
+karihobanahalli,2008,metals,16,1,1
+karihobanahalli,2009,BOD,4,1,1
+karihobanahalli,2009,DO,4,1,1
+karihobanahalli,2009,metals,16,1,1
+karihobanahalli,2010,BOD,4,1,1
+karihobanahalli,2010,DO,4,1,1
+karihobanahalli,2010,metals,16,1,1
+karihobanahalli,2016,BOD,2,1,1
+karihobanahalli,2016,DO,2,1,1
+karihobanahalli,2016,coliform,4,1,1
+karihobanahalli,2016,nutrients,2,1,1
+karihobanahalli,2017,BOD,2,1,1
+karihobanahalli,2017,DO,2,1,1
+karihobanahalli,2017,coliform,4,1,1
+karihobanahalli,2017,nutrients,2,1,1
+karihobanahalli,2018,BOD,2,1,1
+karihobanahalli,2018,DO,2,1,1
+karihobanahalli,2018,coliform,4,1,1
+karihobanahalli,2018,nutrients,2,1,1
+karihobanahalli,2019,BOD,2,1,1
+karihobanahalli,2019,DO,2,1,1
+karihobanahalli,2019,coliform,4,1,1
+karihobanahalli,2019,nutrients,2,1,1
+karihobanahalli,2020,BOD,2,1,1
+karihobanahalli,2020,DO,2,1,1
+karihobanahalli,2020,coliform,4,1,1
+karihobanahalli,2020,nutrients,2,1,1
+karihobanahalli,2021,BOD,2,1,1
+karihobanahalli,2021,DO,2,1,1
+karihobanahalli,2021,coliform,4,1,1
+karihobanahalli,2021,nutrients,2,1,1
+karihobanahalli,2022,BOD,2,1,1
+karihobanahalli,2022,DO,2,1,1
+karihobanahalli,2022,coliform,4,1,1
+karihobanahalli,2022,nutrients,2,1,1
+karihobanahalli,2023,BOD,6,2,5
+karihobanahalli,2023,COD,2,1,2
+karihobanahalli,2023,DO,6,2,5
+karihobanahalli,2023,coliform,12,2,5
+karihobanahalli,2023,nutrients,10,2,5
+karihobanahalli,2024,BOD,13,2,11
+karihobanahalli,2024,COD,7,1,7
+karihobanahalli,2024,DO,13,2,11
+karihobanahalli,2024,coliform,26,2,11
+karihobanahalli,2024,metals,8,1,1
+karihobanahalli,2024,nutrients,46,2,11
+karihobanahalli,2025,BOD,6,1,6
+karihobanahalli,2025,COD,6,1,6
+karihobanahalli,2025,DO,6,1,6
+karihobanahalli,2025,coliform,12,1,6
+karihobanahalli,2025,metals,8,1,1
+karihobanahalli,2025,nutrients,36,1,6
+kasavanahalli,2011,COD,1,1,1
+kasavanahalli,2011,DO,1,1,1
+kasavanahalli,2011,metals,4,1,1
+kasavanahalli,2011,nutrients,2,1,1
+kasavanahalli,2020,BOD,2,1,1
+kasavanahalli,2020,DO,2,1,1
+kasavanahalli,2020,coliform,4,1,1
+kasavanahalli,2020,nutrients,2,1,1
+kasavanahalli,2021,BOD,2,1,1
+kasavanahalli,2021,DO,2,1,1
+kasavanahalli,2021,coliform,4,1,1
+kasavanahalli,2021,nutrients,2,1,1
+kasavanahalli,2022,BOD,2,1,1
+kasavanahalli,2022,DO,2,1,1
+kasavanahalli,2022,coliform,4,1,1
+kasavanahalli,2022,nutrients,2,1,1
+kasavanahalli,2023,BOD,5,2,4
+kasavanahalli,2023,COD,2,1,2
+kasavanahalli,2023,DO,5,2,4
+kasavanahalli,2023,coliform,10,2,4
+kasavanahalli,2023,nutrients,9,2,4
+kasavanahalli,2024,BOD,9,2,7
+kasavanahalli,2024,COD,5,1,5
+kasavanahalli,2024,DO,9,2,7
+kasavanahalli,2024,coliform,18,2,7
+kasavanahalli,2024,nutrients,34,2,7
+kasavanahalli,2025,BOD,10,1,10
+kasavanahalli,2025,COD,10,1,10
+kasavanahalli,2025,DO,10,1,10
+kasavanahalli,2025,coliform,20,1,10
+kasavanahalli,2025,metals,16,1,2
+kasavanahalli,2025,nutrients,60,1,10
+kattiganahalli,2011,COD,1,1,1
+kattiganahalli,2011,DO,1,1,1
+kattiganahalli,2011,metals,4,1,1
+kattiganahalli,2011,nutrients,2,1,1
+kb purara,2011,DO,1,1,1
+kb purara,2011,metals,4,1,1
+kb purara,2011,nutrients,2,1,1
+kembathanahalli,2011,COD,1,1,1
+kembathanahalli,2011,nutrients,2,1,1
+kembathnalli iii,2011,COD,1,1,1
+kembathnalli iii,2011,nutrients,2,1,1
+kembhatahali kothannur,2025,BOD,3,1,3
+kembhatahali kothannur,2025,COD,3,1,3
+kembhatahali kothannur,2025,DO,3,1,3
+kembhatahali kothannur,2025,coliform,6,1,3
+kembhatahali kothannur,2025,metals,8,1,1
+kembhatahali kothannur,2025,nutrients,18,1,3
+kempambudhi,2017,BOD,2,1,1
+kempambudhi,2017,DO,2,1,1
+kempambudhi,2017,coliform,4,1,1
+kempambudhi,2017,nutrients,2,1,1
+kempambudhi,2018,BOD,2,1,1
+kempambudhi,2018,DO,2,1,1
+kempambudhi,2018,coliform,4,1,1
+kempambudhi,2018,nutrients,2,1,1
+kempambudhi,2019,BOD,2,1,1
+kempambudhi,2019,DO,2,1,1
+kempambudhi,2019,coliform,4,1,1
+kempambudhi,2019,nutrients,2,1,1
+kempambudhi,2020,BOD,2,1,1
+kempambudhi,2020,DO,2,1,1
+kempambudhi,2020,coliform,4,1,1
+kempambudhi,2020,nutrients,2,1,1
+kempambudhi,2021,BOD,2,1,1
+kempambudhi,2021,DO,2,1,1
+kempambudhi,2021,coliform,4,1,1
+kempambudhi,2021,nutrients,2,1,1
+kempambudhi,2022,BOD,2,1,1
+kempambudhi,2022,DO,2,1,1
+kempambudhi,2022,coliform,4,1,1
+kempambudhi,2022,nutrients,2,1,1
+kempambudhi,2023,BOD,6,2,5
+kempambudhi,2023,COD,2,1,2
+kempambudhi,2023,DO,6,2,5
+kempambudhi,2023,coliform,12,2,5
+kempambudhi,2023,nutrients,10,2,5
+kempambudhi,2024,BOD,14,2,12
+kempambudhi,2024,COD,8,1,8
+kempambudhi,2024,DO,14,2,12
+kempambudhi,2024,coliform,28,2,12
+kempambudhi,2024,metals,8,1,1
+kempambudhi,2024,nutrients,53,2,12
+kempambudhi,2025,BOD,11,1,11
+kempambudhi,2025,COD,11,1,11
+kempambudhi,2025,DO,11,1,11
+kempambudhi,2025,coliform,22,1,11
+kempambudhi,2025,metals,16,1,2
+kempambudhi,2025,nutrients,66,1,11
+kengeri,2011,COD,1,1,1
+kengeri,2011,DO,1,1,1
+kengeri,2011,coliform,2,1,1
+kengeri,2011,metals,4,1,1
+kengeri,2011,nutrients,2,1,1
+kengeri,2017,BOD,2,1,1
+kengeri,2017,DO,2,1,1
+kengeri,2017,coliform,4,1,1
+kengeri,2017,nutrients,2,1,1
+kengeri,2020,BOD,2,1,1
+kengeri,2020,DO,2,1,1
+kengeri,2020,coliform,4,1,1
+kengeri,2020,nutrients,2,1,1
+kengeri,2021,BOD,2,1,1
+kengeri,2021,DO,2,1,1
+kengeri,2021,coliform,4,1,1
+kengeri,2021,nutrients,2,1,1
+kengeri,2022,BOD,2,1,1
+kengeri,2022,DO,2,1,1
+kengeri,2022,coliform,4,1,1
+kengeri,2022,nutrients,2,1,1
+kengeri,2023,BOD,2,1,1
+kengeri,2023,DO,2,1,1
+kengeri,2023,coliform,4,1,1
+kengeri,2023,nutrients,2,1,1
+kengeri,2024,BOD,11,2,10
+kengeri,2024,COD,8,1,8
+kengeri,2024,DO,11,2,10
+kengeri,2024,coliform,22,2,10
+kengeri,2024,metals,8,1,1
+kengeri,2024,nutrients,50,2,10
+kengeri,2025,BOD,11,1,11
+kengeri,2025,COD,11,1,11
+kengeri,2025,DO,11,1,11
+kengeri,2025,coliform,22,1,11
+kengeri,2025,metals,16,1,2
+kengeri,2025,nutrients,65,1,11
+kodi singasandra,2011,COD,1,1,1
+kodi singasandra,2011,DO,1,1,1
+kodi singasandra,2011,metals,4,1,1
+kodi singasandra,2011,nutrients,2,1,1
+kodi singasandra,2019,BOD,2,1,1
+kodi singasandra,2019,DO,2,1,1
+kodi singasandra,2019,coliform,4,1,1
+kodi singasandra,2019,nutrients,2,1,1
+kodi singasandra,2020,BOD,2,1,1
+kodi singasandra,2020,DO,2,1,1
+kodi singasandra,2020,coliform,4,1,1
+kodi singasandra,2020,nutrients,2,1,1
+kodi singasandra,2021,BOD,2,1,1
+kodi singasandra,2021,DO,2,1,1
+kodi singasandra,2021,coliform,4,1,1
+kodi singasandra,2021,nutrients,2,1,1
+kodi singasandra,2022,BOD,2,1,1
+kodi singasandra,2022,DO,2,1,1
+kodi singasandra,2022,coliform,4,1,1
+kodi singasandra,2022,nutrients,2,1,1
+kodi singasandra,2023,BOD,6,2,5
+kodi singasandra,2023,COD,2,1,2
+kodi singasandra,2023,DO,6,2,5
+kodi singasandra,2023,coliform,12,2,5
+kodi singasandra,2023,nutrients,10,2,5
+kodi singasandra,2024,BOD,11,2,9
+kodi singasandra,2024,COD,6,1,6
+kodi singasandra,2024,DO,11,2,9
+kodi singasandra,2024,coliform,22,2,9
+kodi singasandra,2024,metals,8,1,1
+kodi singasandra,2024,nutrients,41,2,9
+kodi singasandra,2025,BOD,11,1,11
+kodi singasandra,2025,COD,11,1,11
+kodi singasandra,2025,DO,11,1,11
+kodi singasandra,2025,coliform,22,1,11
+kodi singasandra,2025,metals,16,1,2
+kodi singasandra,2025,nutrients,66,1,11
+kogilu,2021,BOD,2,1,1
+kogilu,2021,DO,2,1,1
+kogilu,2021,coliform,4,1,1
+kogilu,2021,nutrients,2,1,1
+kogilu,2022,BOD,2,1,1
+kogilu,2022,DO,2,1,1
+kogilu,2022,coliform,4,1,1
+kogilu,2022,nutrients,2,1,1
+kogilu,2023,BOD,4,2,3
+kogilu,2023,COD,1,1,1
+kogilu,2023,DO,4,2,3
+kogilu,2023,coliform,8,2,3
+kogilu,2023,nutrients,6,2,3
+kogilu,2024,BOD,13,2,11
+kogilu,2024,COD,8,1,8
+kogilu,2024,DO,13,2,11
+kogilu,2024,coliform,26,2,11
+kogilu,2024,metals,8,1,1
+kogilu,2024,nutrients,52,2,11
+kogilu,2025,BOD,10,1,10
+kogilu,2025,COD,10,1,10
+kogilu,2025,DO,10,1,10
+kogilu,2025,coliform,20,1,10
+kogilu,2025,metals,16,1,2
+kogilu,2025,nutrients,60,1,10
+konnapana agrahara,2011,COD,1,1,1
+konnapana agrahara,2011,DO,1,1,1
+konnapana agrahara,2011,metals,4,1,1
+konnapana agrahara,2011,nutrients,2,1,1
+kothanuru,2020,BOD,2,1,1
+kothanuru,2020,DO,2,1,1
+kothanuru,2020,coliform,4,1,1
+kothanuru,2020,nutrients,2,1,1
+kothanuru,2021,BOD,2,1,1
+kothanuru,2021,DO,2,1,1
+kothanuru,2021,coliform,4,1,1
+kothanuru,2021,nutrients,2,1,1
+kothanuru,2022,BOD,2,1,1
+kothanuru,2022,DO,2,1,1
+kothanuru,2022,coliform,4,1,1
+kothanuru,2022,nutrients,2,1,1
+kothanuru,2023,BOD,6,2,5
+kothanuru,2023,COD,2,1,2
+kothanuru,2023,DO,6,2,5
+kothanuru,2023,coliform,12,2,5
+kothanuru,2023,nutrients,10,2,5
+kothanuru,2024,BOD,14,2,12
+kothanuru,2024,COD,8,1,8
+kothanuru,2024,DO,14,2,12
+kothanuru,2024,coliform,28,2,12
+kothanuru,2024,metals,8,1,1
+kothanuru,2024,nutrients,52,2,11
+kothanuru,2025,BOD,11,1,11
+kothanuru,2025,COD,11,1,11
+kothanuru,2025,DO,11,1,11
+kothanuru,2025,coliform,22,1,11
+kothanuru,2025,metals,16,1,2
+kothanuru,2025,nutrients,65,1,11
+kottanur,2011,COD,1,1,1
+kottanur,2011,DO,1,1,1
+kottanur,2011,metals,4,1,1
+kottanur,2011,nutrients,2,1,1
+kowdhenahalli,2020,BOD,2,1,1
+kowdhenahalli,2020,DO,2,1,1
+kowdhenahalli,2020,coliform,4,1,1
+kowdhenahalli,2020,nutrients,2,1,1
+kowdhenahalli,2021,BOD,2,1,1
+kowdhenahalli,2021,DO,2,1,1
+kowdhenahalli,2021,coliform,4,1,1
+kowdhenahalli,2021,nutrients,2,1,1
+kowdhenahalli,2022,BOD,2,1,1
+kowdhenahalli,2022,DO,2,1,1
+kowdhenahalli,2022,coliform,4,1,1
+kowdhenahalli,2022,nutrients,2,1,1
+kowdhenahalli,2023,BOD,2,1,1
+kowdhenahalli,2023,DO,2,1,1
+kowdhenahalli,2023,coliform,4,1,1
+kowdhenahalli,2023,nutrients,2,1,1
+kowdhenahalli,2024,BOD,9,2,8
+kowdhenahalli,2024,COD,7,1,7
+kowdhenahalli,2024,DO,9,2,8
+kowdhenahalli,2024,coliform,18,2,8
+kowdhenahalli,2024,metals,8,1,1
+kowdhenahalli,2024,nutrients,44,2,8
+kowdhenahalli,2025,BOD,11,1,11
+kowdhenahalli,2025,COD,11,1,11
+kowdhenahalli,2025,DO,11,1,11
+kowdhenahalli,2025,coliform,22,1,11
+kowdhenahalli,2025,metals,16,1,2
+kowdhenahalli,2025,nutrients,66,1,11
+kr puram,2011,COD,1,1,1
+kr puram,2011,metals,4,1,1
+kr puram,2011,nutrients,2,1,1
+kudlu chikkakere,2023,BOD,4,2,3
+kudlu chikkakere,2023,DO,4,2,3
+kudlu chikkakere,2023,coliform,8,2,3
+kudlu chikkakere,2023,nutrients,4,2,3
+kudlu chikkakere,2024,BOD,13,2,11
+kudlu chikkakere,2024,COD,8,1,8
+kudlu chikkakere,2024,DO,13,2,11
+kudlu chikkakere,2024,coliform,26,2,11
+kudlu chikkakere,2024,metals,8,1,1
+kudlu chikkakere,2024,nutrients,52,2,11
+kudlu chikkakere,2025,BOD,11,1,11
+kudlu chikkakere,2025,COD,11,1,11
+kudlu chikkakere,2025,DO,11,1,11
+kudlu chikkakere,2025,coliform,22,1,11
+kudlu chikkakere,2025,metals,16,1,2
+kudlu chikkakere,2025,nutrients,66,1,11
+kudlu dodda,2011,COD,2,1,1
+kudlu dodda,2011,DO,1,1,1
+kudlu dodda,2011,metals,8,1,1
+kudlu dodda,2011,nutrients,4,1,1
+kudlu doddakere kudlu,2023,BOD,5,2,4
+kudlu doddakere kudlu,2023,COD,1,1,1
+kudlu doddakere kudlu,2023,DO,5,2,4
+kudlu doddakere kudlu,2023,coliform,10,2,4
+kudlu doddakere kudlu,2023,nutrients,7,2,4
+kudlu doddakere kudlu,2024,BOD,14,2,12
+kudlu doddakere kudlu,2024,COD,8,1,8
+kudlu doddakere kudlu,2024,DO,14,2,12
+kudlu doddakere kudlu,2024,coliform,28,2,12
+kudlu doddakere kudlu,2024,metals,8,1,1
+kudlu doddakere kudlu,2024,nutrients,52,2,12
+kudlu doddakere kudlu,2025,BOD,11,1,11
+kudlu doddakere kudlu,2025,COD,11,1,11
+kudlu doddakere kudlu,2025,DO,11,1,11
+kudlu doddakere kudlu,2025,coliform,22,1,11
+kudlu doddakere kudlu,2025,metals,16,1,2
+kudlu doddakere kudlu,2025,nutrients,66,1,11
+kundalahalli,2011,COD,2,1,1
+kundalahalli,2011,DO,1,1,1
+kundalahalli,2011,coliform,2,1,1
+kundalahalli,2011,metals,12,1,1
+kundalahalli,2011,nutrients,6,1,1
+kundalahalli,2020,BOD,2,1,1
+kundalahalli,2020,DO,2,1,1
+kundalahalli,2020,coliform,4,1,1
+kundalahalli,2020,nutrients,2,1,1
+kundalahalli,2021,BOD,2,1,1
+kundalahalli,2021,DO,2,1,1
+kundalahalli,2021,coliform,4,1,1
+kundalahalli,2021,nutrients,2,1,1
+kundalahalli,2022,BOD,2,1,1
+kundalahalli,2022,DO,2,1,1
+kundalahalli,2022,coliform,4,1,1
+kundalahalli,2022,nutrients,2,1,1
+kundalahalli,2023,BOD,5,2,4
+kundalahalli,2023,COD,2,1,2
+kundalahalli,2023,DO,5,2,4
+kundalahalli,2023,coliform,10,2,4
+kundalahalli,2023,nutrients,9,2,4
+kundalahalli,2024,BOD,14,2,12
+kundalahalli,2024,COD,8,1,8
+kundalahalli,2024,DO,14,2,12
+kundalahalli,2024,coliform,28,2,12
+kundalahalli,2024,metals,8,1,1
+kundalahalli,2024,nutrients,53,2,12
+kundalahalli,2025,BOD,11,1,11
+kundalahalli,2025,COD,11,1,11
+kundalahalli,2025,DO,11,1,11
+kundalahalli,2025,coliform,22,1,11
+kundalahalli,2025,metals,16,1,2
+kundalahalli,2025,nutrients,66,1,11
+lalbagh,2008,BOD,4,1,1
+lalbagh,2008,DO,4,1,1
+lalbagh,2008,metals,16,1,1
+lalbagh,2009,BOD,4,1,1
+lalbagh,2009,DO,4,1,1
+lalbagh,2009,metals,16,1,1
+lalbagh,2010,BOD,4,1,1
+lalbagh,2010,DO,4,1,1
+lalbagh,2010,metals,16,1,1
+lalbagh,2011,COD,1,1,1
+lalbagh,2011,DO,1,1,1
+lalbagh,2011,metals,4,1,1
+lalbagh,2011,nutrients,2,1,1
+lalbagh,2016,BOD,2,1,1
+lalbagh,2016,DO,2,1,1
+lalbagh,2016,coliform,4,1,1
+lalbagh,2016,nutrients,2,1,1
+lalbagh,2017,BOD,2,1,1
+lalbagh,2017,DO,2,1,1
+lalbagh,2017,coliform,4,1,1
+lalbagh,2017,nutrients,2,1,1
+lalbagh,2018,BOD,2,1,1
+lalbagh,2018,DO,2,1,1
+lalbagh,2018,coliform,4,1,1
+lalbagh,2018,nutrients,2,1,1
+lalbagh,2019,BOD,2,1,1
+lalbagh,2019,DO,2,1,1
+lalbagh,2019,coliform,4,1,1
+lalbagh,2019,nutrients,2,1,1
+lalbagh,2020,BOD,2,1,1
+lalbagh,2020,DO,2,1,1
+lalbagh,2020,coliform,4,1,1
+lalbagh,2020,nutrients,2,1,1
+lalbagh,2021,BOD,2,1,1
+lalbagh,2021,DO,2,1,1
+lalbagh,2021,coliform,4,1,1
+lalbagh,2021,nutrients,2,1,1
+lalbagh,2022,BOD,2,1,1
+lalbagh,2022,DO,2,1,1
+lalbagh,2022,coliform,4,1,1
+lalbagh,2022,nutrients,2,1,1
+lalbagh,2023,BOD,6,2,5
+lalbagh,2023,COD,2,1,2
+lalbagh,2023,DO,6,2,5
+lalbagh,2023,coliform,12,2,5
+lalbagh,2023,nutrients,10,2,5
+lalbagh,2024,BOD,14,2,12
+lalbagh,2024,COD,8,1,8
+lalbagh,2024,DO,14,2,12
+lalbagh,2024,coliform,28,2,12
+lalbagh,2024,metals,8,1,1
+lalbagh,2024,nutrients,53,2,12
+lalbagh,2025,BOD,11,1,11
+lalbagh,2025,COD,11,1,11
+lalbagh,2025,DO,11,1,11
+lalbagh,2025,coliform,22,1,11
+lalbagh,2025,metals,16,1,2
+lalbagh,2025,nutrients,66,1,11
+leghumenahalli,2025,BOD,8,1,8
+leghumenahalli,2025,COD,8,1,8
+leghumenahalli,2025,DO,8,1,8
+leghumenahalli,2025,coliform,16,1,8
+leghumenahalli,2025,metals,16,1,2
+leghumenahalli,2025,nutrients,48,1,8
+lingadeeranahalli,2011,COD,2,1,1
+lingadeeranahalli,2011,DO,1,1,1
+lingadeeranahalli,2011,coliform,2,1,1
+lingadeeranahalli,2011,metals,12,1,1
+lingadeeranahalli,2011,nutrients,4,1,1
+lower amblipura,2025,BOD,8,1,8
+lower amblipura,2025,COD,8,1,8
+lower amblipura,2025,DO,8,1,8
+lower amblipura,2025,coliform,16,1,8
+lower amblipura,2025,metals,16,1,2
+lower amblipura,2025,nutrients,48,1,8
+machohalli,2019,BOD,2,1,1
+machohalli,2019,DO,2,1,1
+machohalli,2019,coliform,4,1,1
+machohalli,2019,nutrients,2,1,1
+machohalli,2020,BOD,2,1,1
+machohalli,2020,DO,2,1,1
+machohalli,2020,coliform,4,1,1
+machohalli,2020,nutrients,2,1,1
+machohalli,2021,BOD,2,1,1
+machohalli,2021,DO,2,1,1
+machohalli,2021,coliform,4,1,1
+machohalli,2021,nutrients,2,1,1
+machohalli,2022,BOD,2,1,1
+machohalli,2022,DO,2,1,1
+machohalli,2022,coliform,4,1,1
+machohalli,2022,nutrients,2,1,1
+machohalli,2023,BOD,3,2,3
+machohalli,2023,DO,4,2,3
+machohalli,2023,coliform,8,2,3
+machohalli,2023,nutrients,4,2,3
+machohalli,2024,BOD,14,2,12
+machohalli,2024,COD,8,1,8
+machohalli,2024,DO,14,2,12
+machohalli,2024,coliform,28,2,12
+machohalli,2024,metals,8,1,1
+machohalli,2024,nutrients,52,2,12
+machohalli,2025,BOD,11,1,11
+machohalli,2025,COD,11,1,11
+machohalli,2025,DO,11,1,11
+machohalli,2025,coliform,22,1,11
+machohalli,2025,metals,16,1,2
+machohalli,2025,nutrients,66,1,11
+madavara,2005,BOD,6,1,6
+madavara,2005,COD,6,1,6
+madavara,2005,DO,6,1,6
+madavara,2005,nutrients,18,1,6
+madavara,2006,BOD,6,1,6
+madavara,2006,COD,6,1,6
+madavara,2006,DO,6,1,6
+madavara,2006,nutrients,18,1,6
+madavara,2008,BOD,4,1,1
+madavara,2008,DO,4,1,1
+madavara,2008,metals,16,1,1
+madavara,2009,BOD,4,1,1
+madavara,2009,DO,4,1,1
+madavara,2009,metals,16,1,1
+madavara,2010,BOD,4,1,1
+madavara,2010,DO,4,1,1
+madavara,2010,metals,16,1,1
+madavara,2016,BOD,2,1,1
+madavara,2016,DO,2,1,1
+madavara,2016,coliform,4,1,1
+madavara,2016,nutrients,2,1,1
+madavara,2017,BOD,2,1,1
+madavara,2017,DO,2,1,1
+madavara,2017,coliform,4,1,1
+madavara,2017,nutrients,2,1,1
+madavara,2018,BOD,2,1,1
+madavara,2018,DO,2,1,1
+madavara,2018,coliform,4,1,1
+madavara,2018,nutrients,2,1,1
+madavara,2019,BOD,2,1,1
+madavara,2019,DO,2,1,1
+madavara,2019,coliform,4,1,1
+madavara,2019,nutrients,2,1,1
+madavara,2021,BOD,2,1,1
+madavara,2021,DO,2,1,1
+madavara,2021,coliform,4,1,1
+madavara,2021,nutrients,2,1,1
+madhure,2019,BOD,1,1,1
+madhure,2019,DO,2,1,1
+madhure,2019,coliform,4,1,1
+madhure,2019,nutrients,2,1,1
+madhure,2020,BOD,2,1,1
+madhure,2020,DO,2,1,1
+madhure,2020,coliform,4,1,1
+madhure,2020,nutrients,2,1,1
+madhure,2021,BOD,2,1,1
+madhure,2021,DO,2,1,1
+madhure,2021,coliform,4,1,1
+madhure,2021,nutrients,2,1,1
+madhure,2022,BOD,2,1,1
+madhure,2022,DO,2,1,1
+madhure,2022,coliform,4,1,1
+madhure,2022,nutrients,2,1,1
+madhure,2023,BOD,5,2,4
+madhure,2023,COD,2,1,2
+madhure,2023,DO,5,2,4
+madhure,2023,coliform,10,2,4
+madhure,2023,nutrients,9,2,4
+madhure,2024,BOD,7,2,5
+madhure,2024,COD,1,1,1
+madhure,2024,DO,7,2,5
+madhure,2024,coliform,14,2,5
+madhure,2024,metals,8,1,1
+madhure,2024,nutrients,12,2,5
+madhure,2025,BOD,1,1,1
+madhure,2025,COD,1,1,1
+madhure,2025,DO,1,1,1
+madhure,2025,coliform,2,1,1
+madhure,2025,nutrients,6,1,1
+madiwala,2011,COD,3,1,1
+madiwala,2011,DO,1,1,1
+madiwala,2011,coliform,2,1,1
+madiwala,2011,metals,12,1,1
+madiwala,2011,nutrients,6,1,1
+madiwala,2016,BOD,2,1,1
+madiwala,2016,DO,2,1,1
+madiwala,2016,coliform,4,1,1
+madiwala,2016,nutrients,2,1,1
+madiwala,2017,BOD,2,1,1
+madiwala,2017,DO,2,1,1
+madiwala,2017,coliform,4,1,1
+madiwala,2017,nutrients,2,1,1
+madiwala,2018,BOD,2,1,1
+madiwala,2018,DO,2,1,1
+madiwala,2018,coliform,4,1,1
+madiwala,2018,nutrients,2,1,1
+madiwala,2019,BOD,2,1,1
+madiwala,2019,DO,2,1,1
+madiwala,2019,coliform,4,1,1
+madiwala,2019,nutrients,2,1,1
+madiwala,2020,BOD,2,1,1
+madiwala,2020,DO,2,1,1
+madiwala,2020,coliform,4,1,1
+madiwala,2020,nutrients,2,1,1
+madiwala,2021,BOD,2,1,1
+madiwala,2021,DO,2,1,1
+madiwala,2021,coliform,4,1,1
+madiwala,2021,nutrients,2,1,1
+madiwala,2022,BOD,2,1,1
+madiwala,2022,DO,2,1,1
+madiwala,2022,coliform,4,1,1
+madiwala,2022,nutrients,2,1,1
+madiwala,2023,BOD,6,2,5
+madiwala,2023,COD,2,1,2
+madiwala,2023,DO,6,2,5
+madiwala,2023,coliform,12,2,5
+madiwala,2023,nutrients,10,2,5
+madiwala,2024,BOD,14,2,12
+madiwala,2024,COD,8,1,8
+madiwala,2024,DO,14,2,12
+madiwala,2024,coliform,28,2,12
+madiwala,2024,metals,8,1,1
+madiwala,2024,nutrients,53,2,12
+madiwala,2025,BOD,11,1,11
+madiwala,2025,COD,11,1,11
+madiwala,2025,DO,11,1,11
+madiwala,2025,coliform,22,1,11
+madiwala,2025,metals,16,1,2
+madiwala,2025,nutrients,66,1,11
+mahadevapura,2025,BOD,8,1,8
+mahadevapura,2025,COD,8,1,8
+mahadevapura,2025,DO,8,1,8
+mahadevapura,2025,coliform,16,1,8
+mahadevapura,2025,metals,16,1,2
+mahadevapura,2025,nutrients,48,1,8
+mahadevpura k r puram,2023,BOD,5,2,4
+mahadevpura k r puram,2023,COD,1,1,1
+mahadevpura k r puram,2023,DO,5,2,4
+mahadevpura k r puram,2023,coliform,10,2,4
+mahadevpura k r puram,2023,nutrients,7,2,4
+mahadevpura k r puram,2024,BOD,13,2,11
+mahadevpura k r puram,2024,COD,7,1,7
+mahadevpura k r puram,2024,DO,13,2,11
+mahadevpura k r puram,2024,coliform,26,2,11
+mahadevpura k r puram,2024,nutrients,47,2,11
+mahadevpura k r puram,2025,BOD,11,1,11
+mahadevpura k r puram,2025,COD,11,1,11
+mahadevpura k r puram,2025,DO,11,1,11
+mahadevpura k r puram,2025,coliform,22,1,11
+mahadevpura k r puram,2025,metals,16,1,2
+mahadevpura k r puram,2025,nutrients,66,1,11
+mailasandra,2011,COD,1,1,1
+mailasandra,2011,metals,4,1,1
+mailasandra,2011,nutrients,2,1,1
+mallathahalli,2007,nutrients,24,1,1
+mallathahalli,2012,BOD,12,1,3
+mallathahalli,2012,COD,12,1,3
+mallathahalli,2012,DO,12,1,3
+mallathahalli,2012,metals,12,1,3
+mallathahalli,2012,nutrients,24,1,3
+mallathahalli,2016,BOD,2,1,1
+mallathahalli,2016,DO,2,1,1
+mallathahalli,2016,coliform,4,1,1
+mallathahalli,2016,nutrients,2,1,1
+mallathahalli,2017,BOD,2,1,1
+mallathahalli,2017,DO,2,1,1
+mallathahalli,2017,coliform,4,1,1
+mallathahalli,2017,nutrients,2,1,1
+mallathahalli,2018,BOD,2,1,1
+mallathahalli,2018,DO,2,1,1
+mallathahalli,2018,coliform,4,1,1
+mallathahalli,2018,nutrients,2,1,1
+mallathahalli,2019,BOD,2,1,1
+mallathahalli,2019,DO,2,1,1
+mallathahalli,2019,coliform,4,1,1
+mallathahalli,2019,nutrients,2,1,1
+mallathahalli,2020,BOD,2,1,1
+mallathahalli,2020,DO,2,1,1
+mallathahalli,2020,coliform,4,1,1
+mallathahalli,2020,nutrients,2,1,1
+mallathahalli,2021,BOD,2,1,1
+mallathahalli,2021,DO,2,1,1
+mallathahalli,2021,coliform,4,1,1
+mallathahalli,2021,nutrients,2,1,1
+mallathahalli,2022,BOD,2,1,1
+mallathahalli,2022,DO,2,1,1
+mallathahalli,2022,coliform,4,1,1
+mallathahalli,2022,nutrients,2,1,1
+mallathahalli,2023,BOD,6,2,5
+mallathahalli,2023,COD,2,1,2
+mallathahalli,2023,DO,6,2,5
+mallathahalli,2023,coliform,12,2,5
+mallathahalli,2023,nutrients,10,2,5
+mallathahalli,2024,BOD,13,2,12
+mallathahalli,2024,COD,8,1,8
+mallathahalli,2024,DO,13,2,12
+mallathahalli,2024,coliform,26,2,12
+mallathahalli,2024,metals,8,1,1
+mallathahalli,2024,nutrients,52,2,12
+mallathahalli,2025,BOD,11,1,11
+mallathahalli,2025,COD,11,1,11
+mallathahalli,2025,DO,11,1,11
+mallathahalli,2025,coliform,22,1,11
+mallathahalli,2025,metals,16,1,2
+mallathahalli,2025,nutrients,66,1,11
+manchanabale dam,2019,BOD,2,1,1
+manchanabale dam,2019,DO,2,1,1
+manchanabale dam,2019,coliform,4,1,1
+manchanabale dam,2019,nutrients,2,1,1
+manchanabale dam,2021,BOD,2,1,1
+manchanabale dam,2021,DO,2,1,1
+manchanabale dam,2021,coliform,4,1,1
+manchanabale dam,2021,nutrients,2,1,1
+mangamanapalya swarana,2019,BOD,2,1,1
+mangamanapalya swarana,2019,DO,2,1,1
+mangamanapalya swarana,2019,coliform,4,1,1
+mangamanapalya swarana,2019,nutrients,2,1,1
+mangamanapalya swarana,2020,BOD,2,1,1
+mangamanapalya swarana,2020,DO,2,1,1
+mangamanapalya swarana,2020,coliform,4,1,1
+mangamanapalya swarana,2020,nutrients,2,1,1
+mangamanapalya swarana,2021,BOD,2,1,1
+mangamanapalya swarana,2021,DO,2,1,1
+mangamanapalya swarana,2021,coliform,4,1,1
+mangamanapalya swarana,2021,nutrients,2,1,1
+mangamanapalya swarana,2022,BOD,2,1,1
+mangamanapalya swarana,2022,DO,2,1,1
+mangamanapalya swarana,2022,coliform,4,1,1
+mangamanapalya swarana,2022,nutrients,2,1,1
+mangamanapalya swarana,2023,BOD,6,2,5
+mangamanapalya swarana,2023,COD,2,1,2
+mangamanapalya swarana,2023,DO,6,2,5
+mangamanapalya swarana,2023,coliform,12,2,5
+mangamanapalya swarana,2023,nutrients,10,2,5
+mangamanapalya swarana,2024,BOD,14,2,12
+mangamanapalya swarana,2024,COD,8,1,8
+mangamanapalya swarana,2024,DO,14,2,12
+mangamanapalya swarana,2024,coliform,28,2,12
+mangamanapalya swarana,2024,metals,8,1,1
+mangamanapalya swarana,2024,nutrients,53,2,12
+mangamanapalya swarana,2025,BOD,11,1,11
+mangamanapalya swarana,2025,COD,11,1,11
+mangamanapalya swarana,2025,DO,11,1,11
+mangamanapalya swarana,2025,coliform,22,1,11
+mangamanapalya swarana,2025,metals,16,1,2
+mangamanapalya swarana,2025,nutrients,66,1,11
+mangammana palya,2011,COD,1,1,1
+mangammana palya,2011,DO,1,1,1
+mangammana palya,2011,metals,4,1,1
+mangammana palya,2011,nutrients,2,1,1
+mathikere,2023,BOD,3,2,2
+mathikere,2023,DO,3,2,2
+mathikere,2023,coliform,6,2,2
+mathikere,2023,nutrients,3,2,2
+mathikere,2024,BOD,10,2,9
+mathikere,2024,COD,7,1,7
+mathikere,2024,DO,10,2,9
+mathikere,2024,coliform,20,2,9
+mathikere,2024,metals,8,1,1
+mathikere,2024,nutrients,45,2,9
+mathikere,2025,BOD,9,1,9
+mathikere,2025,COD,9,1,9
+mathikere,2025,DO,9,1,9
+mathikere,2025,coliform,18,1,9
+mathikere,2025,metals,8,1,1
+mathikere,2025,nutrients,54,1,9
+munekolalu marathahalli,2023,BOD,6,2,5
+munekolalu marathahalli,2023,COD,2,1,2
+munekolalu marathahalli,2023,DO,6,2,5
+munekolalu marathahalli,2023,coliform,12,2,5
+munekolalu marathahalli,2023,nutrients,10,2,5
+munekolalu marathahalli,2024,BOD,14,2,12
+munekolalu marathahalli,2024,COD,8,1,8
+munekolalu marathahalli,2024,DO,14,2,12
+munekolalu marathahalli,2024,coliform,28,2,12
+munekolalu marathahalli,2024,metals,8,1,1
+munekolalu marathahalli,2024,nutrients,53,2,12
+munekolalu marathahalli,2025,BOD,11,1,11
+munekolalu marathahalli,2025,COD,11,1,11
+munekolalu marathahalli,2025,DO,11,1,11
+munekolalu marathahalli,2025,coliform,22,1,11
+munekolalu marathahalli,2025,metals,16,1,2
+munekolalu marathahalli,2025,nutrients,66,1,11
+munnekolalu,2011,COD,2,1,1
+munnekolalu,2011,DO,1,1,1
+munnekolalu,2011,coliform,2,1,1
+munnekolalu,2011,metals,8,1,1
+munnekolalu,2011,nutrients,4,1,1
+mydala,2016,BOD,2,1,1
+mydala,2016,DO,2,1,1
+mydala,2016,coliform,4,1,1
+mydala,2016,nutrients,2,1,1
+mydala,2017,BOD,2,1,1
+mydala,2017,DO,2,1,1
+mydala,2017,coliform,4,1,1
+mydala,2017,nutrients,2,1,1
+mydala,2018,BOD,2,1,1
+mydala,2018,DO,2,1,1
+mydala,2018,coliform,4,1,1
+mydala,2018,nutrients,2,1,1
+mydala,2019,BOD,2,1,1
+mydala,2019,DO,2,1,1
+mydala,2019,coliform,4,1,1
+mydala,2019,nutrients,2,1,1
+mydala,2020,BOD,2,1,1
+mydala,2020,DO,2,1,1
+mydala,2020,coliform,4,1,1
+mydala,2020,nutrients,2,1,1
+mydala,2021,BOD,2,1,1
+mydala,2021,DO,2,1,1
+mydala,2021,coliform,4,1,1
+mydala,2021,nutrients,2,1,1
+mydala,2022,BOD,2,1,1
+mydala,2022,DO,2,1,1
+mydala,2022,coliform,4,1,1
+mydala,2022,nutrients,2,1,1
+mydala,2023,BOD,3,2,2
+mydala,2023,COD,1,1,1
+mydala,2023,DO,3,2,2
+mydala,2023,coliform,6,2,2
+mydala,2023,nutrients,5,2,2
+mydala,2024,BOD,3,2,2
+mydala,2024,COD,1,1,1
+mydala,2024,DO,3,2,2
+mydala,2024,coliform,6,2,2
+mydala,2024,metals,8,1,1
+mydala,2024,nutrients,8,2,2
+mydala,2025,BOD,1,1,1
+mydala,2025,COD,1,1,1
+mydala,2025,DO,1,1,1
+mydala,2025,coliform,2,1,1
+mydala,2025,nutrients,6,1,1
+nagarabhavi,2011,COD,1,1,1
+nagarabhavi,2011,DO,1,1,1
+nagarabhavi,2011,metals,4,1,1
+nagarabhavi,2011,nutrients,2,1,1
+nagasandra here,2011,COD,1,1,1
+nagasandra here,2011,DO,1,1,1
+nagasandra here,2011,metals,4,1,1
+nagasandra here,2011,nutrients,2,1,1
+nagawara,2011,COD,2,1,1
+nagawara,2011,DO,1,1,1
+nagawara,2011,metals,8,1,1
+nagawara,2011,nutrients,4,1,1
+nagawara,2016,BOD,2,1,1
+nagawara,2016,DO,2,1,1
+nagawara,2016,coliform,4,1,1
+nagawara,2016,nutrients,2,1,1
+nagawara,2017,BOD,2,1,1
+nagawara,2017,DO,2,1,1
+nagawara,2017,coliform,4,1,1
+nagawara,2017,nutrients,2,1,1
+nagawara,2018,BOD,2,1,1
+nagawara,2018,DO,2,1,1
+nagawara,2018,coliform,4,1,1
+nagawara,2018,nutrients,2,1,1
+nagawara,2019,BOD,2,1,1
+nagawara,2019,DO,2,1,1
+nagawara,2019,coliform,4,1,1
+nagawara,2019,nutrients,2,1,1
+nagawara,2020,BOD,2,1,1
+nagawara,2020,DO,2,1,1
+nagawara,2020,coliform,4,1,1
+nagawara,2020,nutrients,2,1,1
+nagawara,2021,BOD,2,1,1
+nagawara,2021,DO,2,1,1
+nagawara,2021,coliform,4,1,1
+nagawara,2021,nutrients,2,1,1
+nagawara,2022,BOD,2,1,1
+nagawara,2022,DO,2,1,1
+nagawara,2022,coliform,4,1,1
+nagawara,2022,nutrients,2,1,1
+nagawara,2023,BOD,6,2,5
+nagawara,2023,COD,2,1,2
+nagawara,2023,DO,6,2,5
+nagawara,2023,coliform,12,2,5
+nagawara,2023,nutrients,10,2,5
+nagawara,2024,BOD,12,2,11
+nagawara,2024,COD,8,1,8
+nagawara,2024,DO,12,2,11
+nagawara,2024,coliform,24,2,11
+nagawara,2024,metals,8,1,1
+nagawara,2024,nutrients,51,2,11
+nagawara,2025,BOD,10,1,10
+nagawara,2025,COD,10,1,10
+nagawara,2025,DO,10,1,10
+nagawara,2025,coliform,20,1,10
+nagawara,2025,metals,16,1,2
+nagawara,2025,nutrients,60,1,10
+nallurahalli,2011,COD,3,1,1
+nallurahalli,2011,DO,1,1,1
+nallurahalli,2011,metals,12,1,1
+nallurahalli,2011,nutrients,6,1,1
+nallurahalli,2020,BOD,2,1,1
+nallurahalli,2020,DO,2,1,1
+nallurahalli,2020,coliform,4,1,1
+nallurahalli,2020,nutrients,2,1,1
+nallurahalli,2021,BOD,2,1,1
+nallurahalli,2021,DO,2,1,1
+nallurahalli,2021,coliform,4,1,1
+nallurahalli,2021,nutrients,2,1,1
+nallurahalli,2022,BOD,2,1,1
+nallurahalli,2022,DO,2,1,1
+nallurahalli,2022,coliform,4,1,1
+nallurahalli,2022,nutrients,2,1,1
+nallurahalli,2023,BOD,4,2,3
+nallurahalli,2023,COD,1,1,1
+nallurahalli,2023,DO,4,2,3
+nallurahalli,2023,coliform,8,2,3
+nallurahalli,2023,nutrients,6,2,3
+nallurahalli,2024,BOD,13,2,11
+nallurahalli,2024,COD,8,1,8
+nallurahalli,2024,DO,13,2,11
+nallurahalli,2024,coliform,26,2,11
+nallurahalli,2024,metals,8,1,1
+nallurahalli,2024,nutrients,52,2,11
+nallurahalli,2025,BOD,11,1,11
+nallurahalli,2025,COD,11,1,11
+nallurahalli,2025,DO,11,1,11
+nallurahalli,2025,coliform,22,1,11
+nallurahalli,2025,metals,16,1,2
+nallurahalli,2025,nutrients,65,1,11
+nanjapura,2024,BOD,3,2,2
+nanjapura,2024,COD,1,1,1
+nanjapura,2024,DO,3,2,2
+nanjapura,2024,coliform,4,1,1
+nanjapura,2024,nutrients,5,2,2
+narasapanhalli,2011,COD,1,1,1
+narasapanhalli,2011,DO,1,1,1
+narasapanhalli,2011,metals,2,1,1
+narasapanhalli,2011,nutrients,2,1,1
+narasipura,2019,BOD,2,1,1
+narasipura,2019,DO,2,1,1
+narasipura,2019,coliform,4,1,1
+narasipura,2019,nutrients,2,1,1
+narasipura,2020,BOD,2,1,1
+narasipura,2020,DO,2,1,1
+narasipura,2020,coliform,4,1,1
+narasipura,2020,nutrients,2,1,1
+narasipura,2021,BOD,2,1,1
+narasipura,2021,DO,2,1,1
+narasipura,2021,coliform,4,1,1
+narasipura,2021,nutrients,2,1,1
+narasipura,2022,BOD,2,1,1
+narasipura,2022,DO,2,1,1
+narasipura,2022,coliform,4,1,1
+narasipura,2022,nutrients,2,1,1
+narasipura,2023,BOD,5,2,4
+narasipura,2023,COD,2,1,2
+narasipura,2023,DO,5,2,4
+narasipura,2023,coliform,10,2,4
+narasipura,2023,nutrients,9,2,4
+narasipura,2024,BOD,13,2,11
+narasipura,2024,COD,8,1,8
+narasipura,2024,DO,13,2,11
+narasipura,2024,coliform,26,2,11
+narasipura,2024,metals,8,1,1
+narasipura,2024,nutrients,52,2,11
+narasipura,2025,BOD,10,1,10
+narasipura,2025,COD,10,1,10
+narasipura,2025,DO,10,1,10
+narasipura,2025,coliform,20,1,10
+narasipura,2025,metals,16,1,2
+narasipura,2025,nutrients,60,1,10
+nayandanahalli,2020,BOD,2,1,1
+nayandanahalli,2020,DO,2,1,1
+nayandanahalli,2020,coliform,4,1,1
+nayandanahalli,2020,nutrients,2,1,1
+nayandanahalli,2021,BOD,2,1,1
+nayandanahalli,2021,DO,2,1,1
+nayandanahalli,2021,coliform,4,1,1
+nayandanahalli,2021,nutrients,2,1,1
+nayandanahalli,2022,BOD,2,1,1
+nayandanahalli,2022,DO,2,1,1
+nayandanahalli,2022,coliform,4,1,1
+nayandanahalli,2022,nutrients,2,1,1
+nayandanahalli,2023,BOD,6,2,5
+nayandanahalli,2023,COD,2,1,2
+nayandanahalli,2023,DO,6,2,5
+nayandanahalli,2023,coliform,10,2,4
+nayandanahalli,2023,nutrients,10,2,5
+nayandanahalli,2024,BOD,14,2,12
+nayandanahalli,2024,COD,8,1,8
+nayandanahalli,2024,DO,14,2,12
+nayandanahalli,2024,coliform,28,2,12
+nayandanahalli,2024,metals,8,1,1
+nayandanahalli,2024,nutrients,52,2,12
+nayandanahalli,2025,BOD,11,1,11
+nayandanahalli,2025,COD,11,1,11
+nayandanahalli,2025,DO,11,1,11
+nayandanahalli,2025,coliform,22,1,11
+nayandanahalli,2025,metals,16,1,2
+nayandanahalli,2025,nutrients,66,1,11
+nelamangala,2019,BOD,2,1,1
+nelamangala,2019,DO,2,1,1
+nelamangala,2019,coliform,4,1,1
+nelamangala,2019,nutrients,2,1,1
+nelamangala,2020,BOD,2,1,1
+nelamangala,2020,DO,2,1,1
+nelamangala,2020,coliform,4,1,1
+nelamangala,2020,nutrients,2,1,1
+nelamangala,2021,BOD,2,1,1
+nelamangala,2021,DO,2,1,1
+nelamangala,2021,coliform,4,1,1
+nelamangala,2021,nutrients,2,1,1
+nelamangala,2022,BOD,2,1,1
+nelamangala,2022,DO,2,1,1
+nelamangala,2022,coliform,4,1,1
+nelamangala,2022,nutrients,2,1,1
+nelamangala,2023,BOD,5,2,4
+nelamangala,2023,COD,2,1,2
+nelamangala,2023,DO,5,2,4
+nelamangala,2023,coliform,10,2,4
+nelamangala,2023,nutrients,9,2,4
+nelamangala,2024,BOD,14,2,12
+nelamangala,2024,COD,8,1,8
+nelamangala,2024,DO,14,2,12
+nelamangala,2024,coliform,28,2,12
+nelamangala,2024,metals,8,1,1
+nelamangala,2024,nutrients,53,2,12
+nelamangala,2025,BOD,11,1,11
+nelamangala,2025,COD,11,1,11
+nelamangala,2025,DO,11,1,11
+nelamangala,2025,coliform,22,1,11
+nelamangala,2025,metals,16,1,2
+nelamangala,2025,nutrients,66,1,11
+panathur,2025,BOD,8,1,8
+panathur,2025,COD,8,1,8
+panathur,2025,DO,8,1,8
+panathur,2025,coliform,16,1,8
+panathur,2025,metals,16,1,2
+panathur,2025,nutrients,48,1,8
+parappana agrahara,2016,BOD,2,1,1
+parappana agrahara,2016,DO,2,1,1
+parappana agrahara,2016,coliform,4,1,1
+parappana agrahara,2016,nutrients,2,1,1
+parappana agrahara,2017,BOD,2,1,1
+parappana agrahara,2017,DO,2,1,1
+parappana agrahara,2017,coliform,4,1,1
+parappana agrahara,2017,nutrients,2,1,1
+parappana agrahara,2018,BOD,2,1,1
+parappana agrahara,2018,DO,2,1,1
+parappana agrahara,2018,coliform,4,1,1
+parappana agrahara,2018,nutrients,2,1,1
+parappana agrahara,2019,BOD,2,1,1
+parappana agrahara,2019,DO,2,1,1
+parappana agrahara,2019,coliform,4,1,1
+parappana agrahara,2019,nutrients,2,1,1
+parappana agrahara,2020,BOD,2,1,1
+parappana agrahara,2020,DO,2,1,1
+parappana agrahara,2020,coliform,4,1,1
+parappana agrahara,2020,nutrients,2,1,1
+parappana agrahara,2021,BOD,2,1,1
+parappana agrahara,2021,DO,2,1,1
+parappana agrahara,2021,coliform,4,1,1
+parappana agrahara,2021,nutrients,2,1,1
+parappana agrahara,2022,BOD,2,1,1
+parappana agrahara,2022,DO,2,1,1
+parappana agrahara,2022,coliform,4,1,1
+parappana agrahara,2022,nutrients,2,1,1
+parappana agrahara,2023,BOD,6,2,5
+parappana agrahara,2023,COD,2,1,2
+parappana agrahara,2023,DO,6,2,5
+parappana agrahara,2023,coliform,12,2,5
+parappana agrahara,2023,nutrients,10,2,5
+parappana agrahara,2024,BOD,13,2,12
+parappana agrahara,2024,COD,8,1,8
+parappana agrahara,2024,DO,13,2,12
+parappana agrahara,2024,coliform,26,2,12
+parappana agrahara,2024,metals,8,1,1
+parappana agrahara,2024,nutrients,52,2,12
+parappana agrahara,2025,BOD,11,1,11
+parappana agrahara,2025,COD,11,1,11
+parappana agrahara,2025,DO,11,1,11
+parappana agrahara,2025,coliform,22,1,11
+parappana agrahara,2025,metals,16,1,2
+parappana agrahara,2025,nutrients,66,1,11
+parappana agrahara chikka,2025,BOD,8,1,8
+parappana agrahara chikka,2025,COD,8,1,8
+parappana agrahara chikka,2025,DO,8,1,8
+parappana agrahara chikka,2025,coliform,16,1,8
+parappana agrahara chikka,2025,metals,16,1,2
+parappana agrahara chikka,2025,nutrients,48,1,8
+pattandur agrahara,2020,BOD,2,1,1
+pattandur agrahara,2020,DO,2,1,1
+pattandur agrahara,2020,coliform,4,1,1
+pattandur agrahara,2020,nutrients,2,1,1
+pattandur agrahara,2021,BOD,2,1,1
+pattandur agrahara,2021,DO,2,1,1
+pattandur agrahara,2021,coliform,4,1,1
+pattandur agrahara,2021,nutrients,2,1,1
+pattandur agrahara,2022,BOD,2,1,1
+pattandur agrahara,2022,DO,2,1,1
+pattandur agrahara,2022,coliform,4,1,1
+pattandur agrahara,2022,nutrients,2,1,1
+pattandur agrahara,2023,BOD,4,2,3
+pattandur agrahara,2023,COD,1,1,1
+pattandur agrahara,2023,DO,4,2,3
+pattandur agrahara,2023,coliform,8,2,3
+pattandur agrahara,2023,nutrients,6,2,3
+pattandur agrahara,2024,BOD,14,2,12
+pattandur agrahara,2024,COD,8,1,8
+pattandur agrahara,2024,DO,14,2,12
+pattandur agrahara,2024,coliform,28,2,12
+pattandur agrahara,2024,metals,8,1,1
+pattandur agrahara,2024,nutrients,52,2,12
+pattandur agrahara,2025,BOD,11,1,11
+pattandur agrahara,2025,COD,11,1,11
+pattandur agrahara,2025,DO,11,1,11
+pattandur agrahara,2025,coliform,22,1,11
+pattandur agrahara,2025,metals,16,1,2
+pattandur agrahara,2025,nutrients,66,1,11
+puttenahalli,2008,BOD,4,1,1
+puttenahalli,2008,DO,4,1,1
+puttenahalli,2008,metals,16,1,1
+puttenahalli,2009,BOD,4,1,1
+puttenahalli,2009,DO,4,1,1
+puttenahalli,2009,metals,16,1,1
+puttenahalli,2010,BOD,4,1,1
+puttenahalli,2010,DO,4,1,1
+puttenahalli,2010,metals,16,1,1
+puttenahalli,2016,BOD,4,1,1
+puttenahalli,2016,DO,4,1,1
+puttenahalli,2016,coliform,8,1,1
+puttenahalli,2016,nutrients,4,1,1
+puttenahalli,2017,BOD,4,1,1
+puttenahalli,2017,DO,4,1,1
+puttenahalli,2017,coliform,8,1,1
+puttenahalli,2017,nutrients,4,1,1
+puttenahalli,2018,BOD,4,1,1
+puttenahalli,2018,DO,4,1,1
+puttenahalli,2018,coliform,8,1,1
+puttenahalli,2018,nutrients,4,1,1
+puttenahalli,2019,BOD,4,1,1
+puttenahalli,2019,DO,4,1,1
+puttenahalli,2019,coliform,8,1,1
+puttenahalli,2019,nutrients,4,1,1
+puttenahalli,2020,BOD,4,1,1
+puttenahalli,2020,DO,4,1,1
+puttenahalli,2020,coliform,8,1,1
+puttenahalli,2020,nutrients,4,1,1
+puttenahalli,2021,BOD,4,1,1
+puttenahalli,2021,DO,4,1,1
+puttenahalli,2021,coliform,8,1,1
+puttenahalli,2021,nutrients,4,1,1
+puttenahalli,2022,BOD,4,1,1
+puttenahalli,2022,DO,4,1,1
+puttenahalli,2022,coliform,8,1,1
+puttenahalli,2022,nutrients,4,1,1
+puttenahalli,2023,BOD,12,2,5
+puttenahalli,2023,COD,4,1,2
+puttenahalli,2023,DO,12,2,5
+puttenahalli,2023,coliform,24,2,5
+puttenahalli,2023,nutrients,20,2,5
+puttenahalli,2024,BOD,25,2,12
+puttenahalli,2024,COD,16,1,8
+puttenahalli,2024,DO,25,2,12
+puttenahalli,2024,coliform,48,2,12
+puttenahalli,2024,metals,16,1,1
+puttenahalli,2024,nutrients,103,2,12
+puttenahalli,2025,BOD,21,1,11
+puttenahalli,2025,COD,21,1,11
+puttenahalli,2025,DO,21,1,11
+puttenahalli,2025,coliform,42,1,11
+puttenahalli,2025,metals,32,1,2
+puttenahalli,2025,nutrients,126,1,11
+puttenahalli ulsoor nagawara and sankey lakes,2018,COD,3,1,1
+puttenahalli ulsoor nagawara and sankey lakes,2018,DO,3,1,1
+puttenahalli ulsoor nagawara and sankey lakes,2018,nutrients,6,1,1
+rachenahalli,2019,BOD,2,1,1
+rachenahalli,2019,DO,2,1,1
+rachenahalli,2019,coliform,4,1,1
+rachenahalli,2019,nutrients,2,1,1
+rachenahalli,2020,BOD,2,1,1
+rachenahalli,2020,DO,2,1,1
+rachenahalli,2020,coliform,4,1,1
+rachenahalli,2020,nutrients,2,1,1
+rachenahalli,2021,BOD,2,1,1
+rachenahalli,2021,DO,2,1,1
+rachenahalli,2021,coliform,4,1,1
+rachenahalli,2021,nutrients,2,1,1
+rachenahalli,2022,BOD,2,1,1
+rachenahalli,2022,DO,2,1,1
+rachenahalli,2022,coliform,4,1,1
+rachenahalli,2022,nutrients,2,1,1
+rachenahalli,2023,BOD,5,2,4
+rachenahalli,2023,COD,2,1,2
+rachenahalli,2023,DO,5,2,4
+rachenahalli,2023,coliform,10,2,4
+rachenahalli,2023,nutrients,9,2,4
+rachenahalli,2024,BOD,13,2,11
+rachenahalli,2024,COD,8,1,8
+rachenahalli,2024,DO,13,2,11
+rachenahalli,2024,coliform,26,2,11
+rachenahalli,2024,metals,8,1,1
+rachenahalli,2024,nutrients,52,2,11
+rachenahalli,2025,BOD,10,1,10
+rachenahalli,2025,COD,10,1,10
+rachenahalli,2025,DO,10,1,10
+rachenahalli,2025,coliform,20,1,10
+rachenahalli,2025,metals,16,1,2
+rachenahalli,2025,nutrients,60,1,10
+ramammana,2019,BOD,2,1,1
+ramammana,2019,DO,2,1,1
+ramammana,2019,coliform,4,1,1
+ramammana,2019,nutrients,2,1,1
+ramammana,2020,BOD,2,1,1
+ramammana,2020,DO,2,1,1
+ramammana,2020,coliform,4,1,1
+ramammana,2020,nutrients,2,1,1
+ramammana,2021,BOD,2,1,1
+ramammana,2021,DO,2,1,1
+ramammana,2021,coliform,4,1,1
+ramammana,2021,nutrients,2,1,1
+ramammana,2022,BOD,2,1,1
+ramammana,2022,DO,2,1,1
+ramammana,2022,coliform,4,1,1
+ramammana,2022,nutrients,2,1,1
+ramammana,2023,BOD,4,2,3
+ramammana,2023,COD,1,1,1
+ramammana,2023,DO,4,2,3
+ramammana,2023,coliform,8,2,3
+ramammana,2023,nutrients,6,2,3
+ramammana,2024,BOD,14,2,12
+ramammana,2024,COD,8,1,8
+ramammana,2024,DO,14,2,12
+ramammana,2024,coliform,28,2,12
+ramammana,2024,metals,8,1,1
+ramammana,2024,nutrients,53,2,12
+ramammana,2025,BOD,11,1,11
+ramammana,2025,COD,11,1,11
+ramammana,2025,DO,11,1,11
+ramammana,2025,coliform,22,1,11
+ramammana,2025,metals,16,1,2
+ramammana,2025,nutrients,66,1,11
+rampura,2020,BOD,2,1,1
+rampura,2020,DO,2,1,1
+rampura,2020,coliform,4,1,1
+rampura,2020,nutrients,2,1,1
+rampura,2021,BOD,2,1,1
+rampura,2021,DO,2,1,1
+rampura,2021,coliform,4,1,1
+rampura,2021,nutrients,2,1,1
+rampura,2022,BOD,2,1,1
+rampura,2022,DO,2,1,1
+rampura,2022,coliform,4,1,1
+rampura,2022,nutrients,2,1,1
+rampura,2023,BOD,5,2,4
+rampura,2023,COD,2,1,2
+rampura,2023,DO,5,2,4
+rampura,2023,coliform,10,2,4
+rampura,2023,nutrients,9,2,4
+rampura,2024,BOD,13,2,11
+rampura,2024,COD,7,1,7
+rampura,2024,DO,13,2,11
+rampura,2024,coliform,26,2,11
+rampura,2024,metals,8,1,1
+rampura,2024,nutrients,47,2,11
+rampura,2025,BOD,11,1,11
+rampura,2025,COD,11,1,11
+rampura,2025,DO,11,1,11
+rampura,2025,coliform,22,1,11
+rampura,2025,metals,16,1,2
+rampura,2025,nutrients,66,1,11
+rayasandra,2019,BOD,2,1,1
+rayasandra,2019,DO,2,1,1
+rayasandra,2019,coliform,4,1,1
+rayasandra,2019,nutrients,2,1,1
+rayasandra,2020,BOD,2,1,1
+rayasandra,2020,DO,2,1,1
+rayasandra,2020,coliform,4,1,1
+rayasandra,2020,nutrients,2,1,1
+rayasandra,2021,BOD,2,1,1
+rayasandra,2021,DO,2,1,1
+rayasandra,2021,coliform,4,1,1
+rayasandra,2021,nutrients,2,1,1
+rayasandra,2022,BOD,2,1,1
+rayasandra,2022,DO,2,1,1
+rayasandra,2022,coliform,4,1,1
+rayasandra,2022,nutrients,2,1,1
+rayasandra,2023,BOD,6,2,5
+rayasandra,2023,COD,2,1,2
+rayasandra,2023,DO,6,2,5
+rayasandra,2023,coliform,12,2,5
+rayasandra,2023,nutrients,10,2,5
+rayasandra,2024,BOD,14,2,12
+rayasandra,2024,COD,8,1,8
+rayasandra,2024,DO,14,2,12
+rayasandra,2024,coliform,28,2,12
+rayasandra,2024,metals,8,1,1
+rayasandra,2024,nutrients,51,2,12
+rayasandra,2025,BOD,11,1,11
+rayasandra,2025,COD,11,1,11
+rayasandra,2025,DO,11,1,11
+rayasandra,2025,coliform,22,1,11
+rayasandra,2025,metals,16,1,2
+rayasandra,2025,nutrients,65,1,11
+sadaramangala,2020,BOD,2,1,1
+sadaramangala,2020,DO,2,1,1
+sadaramangala,2020,coliform,4,1,1
+sadaramangala,2020,nutrients,2,1,1
+sadaramangala,2021,BOD,2,1,1
+sadaramangala,2021,DO,2,1,1
+sadaramangala,2021,coliform,4,1,1
+sadaramangala,2021,nutrients,2,1,1
+sadaramangala,2022,BOD,2,1,1
+sadaramangala,2022,DO,2,1,1
+sadaramangala,2022,coliform,4,1,1
+sadaramangala,2022,nutrients,2,1,1
+sadaramangala,2023,BOD,3,2,2
+sadaramangala,2023,DO,3,2,2
+sadaramangala,2023,coliform,6,2,2
+sadaramangala,2023,nutrients,3,2,2
+sadaramangala,2024,BOD,14,2,12
+sadaramangala,2024,COD,8,1,8
+sadaramangala,2024,DO,14,2,12
+sadaramangala,2024,coliform,28,2,12
+sadaramangala,2024,metals,8,1,1
+sadaramangala,2024,nutrients,53,2,12
+sadaramangala,2025,BOD,11,1,11
+sadaramangala,2025,COD,11,1,11
+sadaramangala,2025,DO,11,1,11
+sadaramangala,2025,coliform,22,1,11
+sadaramangala,2025,metals,16,1,2
+sadaramangala,2025,nutrients,66,1,11
+sankey,2008,BOD,4,1,1
+sankey,2008,DO,4,1,1
+sankey,2008,metals,16,1,1
+sankey,2009,BOD,4,1,1
+sankey,2009,DO,4,1,1
+sankey,2009,metals,16,1,1
+sankey,2010,BOD,4,1,1
+sankey,2010,DO,4,1,1
+sankey,2010,metals,16,1,1
+sankey,2012,BOD,12,1,3
+sankey,2012,COD,12,1,3
+sankey,2012,DO,12,1,3
+sankey,2012,metals,12,1,3
+sankey,2012,nutrients,24,1,3
+sankey,2016,BOD,2,1,1
+sankey,2016,DO,2,1,1
+sankey,2016,coliform,4,1,1
+sankey,2016,nutrients,2,1,1
+sankey,2017,BOD,2,1,1
+sankey,2017,DO,2,1,1
+sankey,2017,coliform,4,1,1
+sankey,2017,nutrients,2,1,1
+sankey,2018,BOD,2,1,1
+sankey,2018,DO,2,1,1
+sankey,2018,coliform,4,1,1
+sankey,2018,nutrients,2,1,1
+sankey,2019,BOD,2,1,1
+sankey,2019,DO,2,1,1
+sankey,2019,coliform,4,1,1
+sankey,2019,nutrients,2,1,1
+sankey,2020,BOD,2,1,1
+sankey,2020,DO,2,1,1
+sankey,2020,coliform,4,1,1
+sankey,2020,nutrients,2,1,1
+sankey,2021,BOD,2,1,1
+sankey,2021,DO,2,1,1
+sankey,2021,coliform,4,1,1
+sankey,2021,nutrients,2,1,1
+sankey,2022,BOD,2,1,1
+sankey,2022,DO,2,1,1
+sankey,2022,coliform,4,1,1
+sankey,2022,nutrients,2,1,1
+sankey,2023,BOD,5,2,4
+sankey,2023,COD,1,1,1
+sankey,2023,DO,5,2,4
+sankey,2023,coliform,10,2,4
+sankey,2023,nutrients,7,2,4
+sankey,2024,BOD,14,2,12
+sankey,2024,COD,8,1,8
+sankey,2024,DO,14,2,12
+sankey,2024,coliform,28,2,12
+sankey,2024,metals,8,1,1
+sankey,2024,nutrients,53,2,12
+sankey,2025,BOD,11,1,11
+sankey,2025,COD,11,1,11
+sankey,2025,DO,11,1,11
+sankey,2025,coliform,22,1,11
+sankey,2025,metals,16,1,2
+sankey,2025,nutrients,66,1,11
+sarakki,2019,BOD,2,1,1
+sarakki,2019,DO,2,1,1
+sarakki,2019,coliform,4,1,1
+sarakki,2019,nutrients,2,1,1
+sarakki,2020,BOD,2,1,1
+sarakki,2020,DO,2,1,1
+sarakki,2020,coliform,4,1,1
+sarakki,2020,nutrients,2,1,1
+sarakki,2021,BOD,2,1,1
+sarakki,2021,DO,2,1,1
+sarakki,2021,coliform,4,1,1
+sarakki,2021,nutrients,2,1,1
+sarakki,2022,BOD,2,1,1
+sarakki,2022,DO,2,1,1
+sarakki,2022,coliform,4,1,1
+sarakki,2022,nutrients,2,1,1
+sarakki,2023,BOD,5,2,4
+sarakki,2023,COD,2,1,2
+sarakki,2023,DO,5,2,4
+sarakki,2023,coliform,10,2,4
+sarakki,2023,nutrients,9,2,4
+sarakki,2024,BOD,14,2,12
+sarakki,2024,COD,8,1,8
+sarakki,2024,DO,14,2,12
+sarakki,2024,coliform,28,2,12
+sarakki,2024,metals,8,1,1
+sarakki,2024,nutrients,53,2,12
+sarakki,2025,BOD,11,1,11
+sarakki,2025,COD,11,1,11
+sarakki,2025,DO,11,1,11
+sarakki,2025,coliform,22,1,11
+sarakki,2025,metals,16,1,2
+sarakki,2025,nutrients,66,1,11
+seetharampalya,2020,BOD,2,1,1
+seetharampalya,2020,DO,2,1,1
+seetharampalya,2020,coliform,4,1,1
+seetharampalya,2020,nutrients,2,1,1
+seetharampalya,2021,BOD,2,1,1
+seetharampalya,2021,DO,2,1,1
+seetharampalya,2021,coliform,4,1,1
+seetharampalya,2021,nutrients,2,1,1
+seetharampalya,2022,BOD,2,1,1
+seetharampalya,2022,DO,2,1,1
+seetharampalya,2022,coliform,4,1,1
+seetharampalya,2022,nutrients,2,1,1
+seetharampalya,2023,BOD,5,2,4
+seetharampalya,2023,COD,1,1,1
+seetharampalya,2023,DO,5,2,4
+seetharampalya,2023,coliform,10,2,4
+seetharampalya,2023,nutrients,7,2,4
+seetharampalya,2024,BOD,14,2,12
+seetharampalya,2024,COD,8,1,8
+seetharampalya,2024,DO,14,2,12
+seetharampalya,2024,coliform,28,2,12
+seetharampalya,2024,metals,8,1,1
+seetharampalya,2024,nutrients,53,2,12
+seetharampalya,2025,BOD,11,1,11
+seetharampalya,2025,COD,11,1,11
+seetharampalya,2025,DO,11,1,11
+seetharampalya,2025,coliform,22,1,11
+seetharampalya,2025,metals,16,1,2
+seetharampalya,2025,nutrients,66,1,11
+segehalli baavanapura,2023,BOD,6,2,5
+segehalli baavanapura,2023,COD,2,1,2
+segehalli baavanapura,2023,DO,6,2,5
+segehalli baavanapura,2023,coliform,12,2,5
+segehalli baavanapura,2023,nutrients,10,2,5
+segehalli baavanapura,2024,BOD,14,2,12
+segehalli baavanapura,2024,COD,8,1,8
+segehalli baavanapura,2024,DO,14,2,12
+segehalli baavanapura,2024,coliform,28,2,12
+segehalli baavanapura,2024,metals,8,1,1
+segehalli baavanapura,2024,nutrients,52,2,12
+segehalli baavanapura,2025,BOD,11,1,11
+segehalli baavanapura,2025,COD,11,1,11
+segehalli baavanapura,2025,DO,11,1,11
+segehalli baavanapura,2025,coliform,22,1,11
+segehalli baavanapura,2025,metals,16,1,2
+segehalli baavanapura,2025,nutrients,66,1,11
+sheelavanta whitefield,2021,BOD,2,1,1
+sheelavanta whitefield,2021,DO,2,1,1
+sheelavanta whitefield,2021,coliform,4,1,1
+sheelavanta whitefield,2021,nutrients,2,1,1
+sheelavanta whitefield,2022,BOD,2,1,1
+sheelavanta whitefield,2022,DO,2,1,1
+sheelavanta whitefield,2022,coliform,4,1,1
+sheelavanta whitefield,2022,nutrients,2,1,1
+sheelavanta whitefield,2023,BOD,6,2,5
+sheelavanta whitefield,2023,COD,2,1,2
+sheelavanta whitefield,2023,DO,6,2,5
+sheelavanta whitefield,2023,coliform,12,2,5
+sheelavanta whitefield,2023,nutrients,10,2,5
+sheelavanta whitefield,2024,BOD,14,2,12
+sheelavanta whitefield,2024,COD,8,1,8
+sheelavanta whitefield,2024,DO,14,2,12
+sheelavanta whitefield,2024,coliform,28,2,12
+sheelavanta whitefield,2024,metals,8,1,1
+sheelavanta whitefield,2024,nutrients,53,2,12
+sheelavanta whitefield,2025,BOD,11,1,11
+sheelavanta whitefield,2025,COD,11,1,11
+sheelavanta whitefield,2025,DO,11,1,11
+sheelavanta whitefield,2025,coliform,22,1,11
+sheelavanta whitefield,2025,metals,16,1,2
+sheelavanta whitefield,2025,nutrients,66,1,11
+shettihalli mallasandra gudde,2023,BOD,4,2,3
+shettihalli mallasandra gudde,2023,DO,4,2,3
+shettihalli mallasandra gudde,2023,coliform,8,2,3
+shettihalli mallasandra gudde,2023,nutrients,3,2,2
+shettihalli mallasandra gudde,2024,BOD,13,2,11
+shettihalli mallasandra gudde,2024,COD,8,1,8
+shettihalli mallasandra gudde,2024,DO,13,2,11
+shettihalli mallasandra gudde,2024,coliform,26,2,11
+shettihalli mallasandra gudde,2024,metals,8,1,1
+shettihalli mallasandra gudde,2024,nutrients,52,2,11
+shettihalli mallasandra gudde,2025,BOD,10,1,10
+shettihalli mallasandra gudde,2025,COD,10,1,10
+shettihalli mallasandra gudde,2025,DO,10,1,10
+shettihalli mallasandra gudde,2025,coliform,20,1,10
+shettihalli mallasandra gudde,2025,metals,16,1,2
+shettihalli mallasandra gudde,2025,nutrients,60,1,10
+shivapura,2016,BOD,2,1,1
+shivapura,2016,DO,2,1,1
+shivapura,2016,coliform,4,1,1
+shivapura,2016,nutrients,2,1,1
+shivapura,2017,BOD,2,1,1
+shivapura,2017,DO,2,1,1
+shivapura,2017,coliform,4,1,1
+shivapura,2017,nutrients,2,1,1
+shivapura,2018,BOD,2,1,1
+shivapura,2018,DO,2,1,1
+shivapura,2018,coliform,4,1,1
+shivapura,2018,nutrients,2,1,1
+shivapura,2019,BOD,2,1,1
+shivapura,2019,DO,2,1,1
+shivapura,2019,coliform,4,1,1
+shivapura,2019,nutrients,2,1,1
+shivapura,2020,BOD,2,1,1
+shivapura,2020,DO,2,1,1
+shivapura,2020,coliform,4,1,1
+shivapura,2020,nutrients,2,1,1
+shivapura,2021,BOD,2,1,1
+shivapura,2021,DO,2,1,1
+shivapura,2021,coliform,4,1,1
+shivapura,2021,nutrients,2,1,1
+shivapura,2022,BOD,2,1,1
+shivapura,2022,DO,2,1,1
+shivapura,2022,coliform,4,1,1
+shivapura,2022,nutrients,2,1,1
+shivapura,2023,BOD,6,2,5
+shivapura,2023,COD,2,1,2
+shivapura,2023,DO,6,2,5
+shivapura,2023,coliform,12,2,5
+shivapura,2023,nutrients,10,2,5
+shivapura,2024,BOD,11,2,9
+shivapura,2024,COD,8,1,8
+shivapura,2024,DO,11,2,9
+shivapura,2024,coliform,22,2,9
+shivapura,2024,metals,8,1,1
+shivapura,2024,nutrients,50,2,9
+shivapura,2025,BOD,11,1,11
+shivapura,2025,COD,11,1,11
+shivapura,2025,DO,11,1,11
+shivapura,2025,coliform,22,1,11
+shivapura,2025,metals,16,1,2
+shivapura,2025,nutrients,66,1,11
+singapura,2019,BOD,2,1,1
+singapura,2019,DO,2,1,1
+singapura,2019,coliform,4,1,1
+singapura,2019,nutrients,2,1,1
+singapura,2020,BOD,2,1,1
+singapura,2020,DO,2,1,1
+singapura,2020,coliform,4,1,1
+singapura,2020,nutrients,2,1,1
+singapura,2021,BOD,2,1,1
+singapura,2021,DO,2,1,1
+singapura,2021,coliform,4,1,1
+singapura,2021,nutrients,2,1,1
+singapura,2022,BOD,2,1,1
+singapura,2022,DO,2,1,1
+singapura,2022,coliform,4,1,1
+singapura,2022,nutrients,2,1,1
+singapura,2023,BOD,5,2,4
+singapura,2023,COD,2,1,2
+singapura,2023,DO,5,2,4
+singapura,2023,coliform,10,2,4
+singapura,2023,nutrients,9,2,4
+singapura,2024,BOD,13,2,11
+singapura,2024,COD,8,1,8
+singapura,2024,DO,13,2,11
+singapura,2024,coliform,26,2,11
+singapura,2024,metals,8,1,1
+singapura,2024,nutrients,52,2,11
+singapura,2025,BOD,10,1,10
+singapura,2025,COD,10,1,10
+singapura,2025,DO,10,1,10
+singapura,2025,coliform,20,1,10
+singapura,2025,metals,16,1,2
+singapura,2025,nutrients,60,1,10
+singasandra,2016,BOD,2,1,1
+singasandra,2016,DO,2,1,1
+singasandra,2016,coliform,4,1,1
+singasandra,2016,nutrients,2,1,1
+singasandra,2017,BOD,2,1,1
+singasandra,2017,DO,2,1,1
+singasandra,2017,coliform,4,1,1
+singasandra,2017,nutrients,2,1,1
+singasandra,2018,BOD,2,1,1
+singasandra,2018,DO,2,1,1
+singasandra,2018,coliform,4,1,1
+singasandra,2018,nutrients,2,1,1
+singasandra,2019,BOD,2,1,1
+singasandra,2019,DO,2,1,1
+singasandra,2019,coliform,4,1,1
+singasandra,2019,nutrients,2,1,1
+singasandra,2020,BOD,2,1,1
+singasandra,2020,DO,2,1,1
+singasandra,2020,coliform,4,1,1
+singasandra,2020,nutrients,2,1,1
+singasandra,2021,BOD,2,1,1
+singasandra,2021,DO,2,1,1
+singasandra,2021,coliform,4,1,1
+singasandra,2021,nutrients,2,1,1
+singasandra,2022,BOD,2,1,1
+singasandra,2022,DO,2,1,1
+singasandra,2022,coliform,4,1,1
+singasandra,2022,nutrients,2,1,1
+singasandra,2023,BOD,6,2,5
+singasandra,2023,COD,2,1,2
+singasandra,2023,DO,6,2,5
+singasandra,2023,coliform,12,2,5
+singasandra,2023,nutrients,10,2,5
+singasandra,2024,BOD,13,2,12
+singasandra,2024,COD,8,1,8
+singasandra,2024,DO,13,2,12
+singasandra,2024,coliform,26,2,12
+singasandra,2024,metals,8,1,1
+singasandra,2024,nutrients,52,2,12
+singasandra,2025,BOD,11,1,11
+singasandra,2025,COD,11,1,11
+singasandra,2025,DO,11,1,11
+singasandra,2025,coliform,22,1,11
+singasandra,2025,metals,16,1,2
+singasandra,2025,nutrients,66,1,11
+somasundrapalya,2016,BOD,2,1,1
+somasundrapalya,2016,DO,2,1,1
+somasundrapalya,2016,coliform,4,1,1
+somasundrapalya,2016,nutrients,2,1,1
+somasundrapalya,2017,BOD,2,1,1
+somasundrapalya,2017,DO,2,1,1
+somasundrapalya,2017,coliform,4,1,1
+somasundrapalya,2017,nutrients,2,1,1
+somasundrapalya,2018,BOD,2,1,1
+somasundrapalya,2018,DO,2,1,1
+somasundrapalya,2018,coliform,4,1,1
+somasundrapalya,2018,nutrients,2,1,1
+somasundrapalya,2021,BOD,2,1,1
+somasundrapalya,2021,DO,2,1,1
+somasundrapalya,2021,coliform,4,1,1
+somasundrapalya,2021,nutrients,2,1,1
+somasundrapalya,2022,BOD,2,1,1
+somasundrapalya,2022,DO,2,1,1
+somasundrapalya,2022,coliform,4,1,1
+somasundrapalya,2022,nutrients,2,1,1
+somasundrapalya,2023,BOD,6,2,5
+somasundrapalya,2023,COD,2,1,2
+somasundrapalya,2023,DO,6,2,5
+somasundrapalya,2023,coliform,12,2,5
+somasundrapalya,2023,nutrients,10,2,5
+somasundrapalya,2024,BOD,13,2,12
+somasundrapalya,2024,COD,8,1,8
+somasundrapalya,2024,DO,13,2,12
+somasundrapalya,2024,coliform,26,2,12
+somasundrapalya,2024,metals,8,1,1
+somasundrapalya,2024,nutrients,52,2,12
+somasundrapalya,2025,BOD,11,1,11
+somasundrapalya,2025,COD,11,1,11
+somasundrapalya,2025,DO,11,1,11
+somasundrapalya,2025,coliform,22,1,11
+somasundrapalya,2025,metals,16,1,2
+somasundrapalya,2025,nutrients,66,1,11
+sompura,2019,BOD,2,1,1
+sompura,2019,DO,2,1,1
+sompura,2019,coliform,4,1,1
+sompura,2019,nutrients,2,1,1
+sompura,2020,BOD,2,1,1
+sompura,2020,DO,2,1,1
+sompura,2020,coliform,4,1,1
+sompura,2020,nutrients,2,1,1
+sompura,2021,BOD,2,1,1
+sompura,2021,DO,2,1,1
+sompura,2021,coliform,4,1,1
+sompura,2021,nutrients,2,1,1
+sompura,2022,BOD,2,1,1
+sompura,2022,DO,2,1,1
+sompura,2022,coliform,4,1,1
+sompura,2022,nutrients,2,1,1
+sompura,2023,BOD,6,2,5
+sompura,2023,COD,2,1,2
+sompura,2023,DO,6,2,5
+sompura,2023,coliform,10,2,4
+sompura,2023,nutrients,10,2,5
+sompura,2024,BOD,14,2,12
+sompura,2024,COD,8,1,8
+sompura,2024,DO,14,2,12
+sompura,2024,coliform,28,2,12
+sompura,2024,metals,8,1,1
+sompura,2024,nutrients,53,2,12
+sompura,2025,BOD,11,1,11
+sompura,2025,COD,11,1,11
+sompura,2025,DO,11,1,11
+sompura,2025,coliform,22,1,11
+sompura,2025,metals,16,1,2
+sompura,2025,nutrients,65,1,11
+soulkere kaikondrahalli,2023,BOD,5,2,4
+soulkere kaikondrahalli,2023,COD,2,1,2
+soulkere kaikondrahalli,2023,DO,5,2,4
+soulkere kaikondrahalli,2023,coliform,10,2,4
+soulkere kaikondrahalli,2023,nutrients,9,2,4
+soulkere kaikondrahalli,2024,BOD,14,2,12
+soulkere kaikondrahalli,2024,COD,8,1,8
+soulkere kaikondrahalli,2024,DO,14,2,12
+soulkere kaikondrahalli,2024,coliform,28,2,12
+soulkere kaikondrahalli,2024,metals,8,1,1
+soulkere kaikondrahalli,2024,nutrients,53,2,12
+soulkere kaikondrahalli,2025,BOD,11,1,11
+soulkere kaikondrahalli,2025,COD,11,1,11
+soulkere kaikondrahalli,2025,DO,11,1,11
+soulkere kaikondrahalli,2025,coliform,22,1,11
+soulkere kaikondrahalli,2025,metals,16,1,2
+soulkere kaikondrahalli,2025,nutrients,65,1,11
+subramanyapura,2020,BOD,2,1,1
+subramanyapura,2020,DO,2,1,1
+subramanyapura,2020,coliform,4,1,1
+subramanyapura,2020,nutrients,2,1,1
+subramanyapura,2021,BOD,2,1,1
+subramanyapura,2021,DO,2,1,1
+subramanyapura,2021,coliform,4,1,1
+subramanyapura,2021,nutrients,2,1,1
+subramanyapura,2022,BOD,2,1,1
+subramanyapura,2022,DO,2,1,1
+subramanyapura,2022,coliform,4,1,1
+subramanyapura,2022,nutrients,2,1,1
+subramanyapura,2023,BOD,6,2,5
+subramanyapura,2023,COD,2,1,2
+subramanyapura,2023,DO,6,2,5
+subramanyapura,2023,coliform,10,2,4
+subramanyapura,2023,nutrients,10,2,5
+subramanyapura,2024,BOD,13,2,12
+subramanyapura,2024,COD,8,1,8
+subramanyapura,2024,DO,13,2,12
+subramanyapura,2024,coliform,26,2,12
+subramanyapura,2024,metals,8,1,1
+subramanyapura,2024,nutrients,52,2,12
+subramanyapura,2025,BOD,11,1,11
+subramanyapura,2025,COD,11,1,11
+subramanyapura,2025,DO,11,1,11
+subramanyapura,2025,coliform,22,1,11
+subramanyapura,2025,metals,16,1,2
+subramanyapura,2025,nutrients,66,1,11
+thalaghattapura chickka,2011,COD,1,1,1
+thalaghattapura chickka,2011,DO,1,1,1
+thalaghattapura chickka,2011,metals,4,1,1
+thalaghattapura chickka,2011,nutrients,2,1,1
+thindlu,2011,COD,1,1,1
+thindlu,2011,DO,1,1,1
+thindlu,2011,coliform,2,1,1
+thindlu,2011,metals,8,1,1
+thindlu,2011,nutrients,3,1,1
+thubarahalli,2016,BOD,2,1,1
+thubarahalli,2016,DO,2,1,1
+thubarahalli,2016,coliform,4,1,1
+thubarahalli,2016,nutrients,2,1,1
+thubarahalli,2017,BOD,2,1,1
+thubarahalli,2017,DO,2,1,1
+thubarahalli,2017,coliform,4,1,1
+thubarahalli,2017,nutrients,2,1,1
+thubarahalli,2018,BOD,2,1,1
+thubarahalli,2018,DO,2,1,1
+thubarahalli,2018,coliform,4,1,1
+thubarahalli,2018,nutrients,2,1,1
+thubarahalli,2019,BOD,2,1,1
+thubarahalli,2019,DO,2,1,1
+thubarahalli,2019,coliform,4,1,1
+thubarahalli,2019,nutrients,2,1,1
+thubarahalli,2020,BOD,2,1,1
+thubarahalli,2020,DO,2,1,1
+thubarahalli,2020,coliform,4,1,1
+thubarahalli,2020,nutrients,2,1,1
+thubarahalli,2021,BOD,2,1,1
+thubarahalli,2021,DO,2,1,1
+thubarahalli,2021,coliform,4,1,1
+thubarahalli,2021,nutrients,2,1,1
+thubarahalli,2022,BOD,2,1,1
+thubarahalli,2022,DO,2,1,1
+thubarahalli,2022,coliform,4,1,1
+thubarahalli,2022,nutrients,2,1,1
+thubarahalli,2023,BOD,6,2,5
+thubarahalli,2023,COD,2,1,2
+thubarahalli,2023,DO,6,2,5
+thubarahalli,2023,coliform,12,2,5
+thubarahalli,2023,nutrients,10,2,5
+thubarahalli,2024,BOD,13,2,12
+thubarahalli,2024,COD,8,1,8
+thubarahalli,2024,DO,13,2,12
+thubarahalli,2024,coliform,26,2,12
+thubarahalli,2024,metals,8,1,1
+thubarahalli,2024,nutrients,52,2,12
+thubarahalli,2025,BOD,11,1,11
+thubarahalli,2025,COD,11,1,11
+thubarahalli,2025,DO,11,1,11
+thubarahalli,2025,coliform,21,1,11
+thubarahalli,2025,metals,16,1,2
+thubarahalli,2025,nutrients,66,1,11
+ullalu,2019,BOD,2,1,1
+ullalu,2019,DO,2,1,1
+ullalu,2019,coliform,4,1,1
+ullalu,2019,nutrients,2,1,1
+ullalu,2020,BOD,2,1,1
+ullalu,2020,DO,2,1,1
+ullalu,2020,coliform,4,1,1
+ullalu,2020,nutrients,2,1,1
+ullalu,2021,BOD,2,1,1
+ullalu,2021,DO,2,1,1
+ullalu,2021,coliform,4,1,1
+ullalu,2021,nutrients,2,1,1
+ullalu,2022,BOD,2,1,1
+ullalu,2022,DO,2,1,1
+ullalu,2022,coliform,4,1,1
+ullalu,2022,nutrients,2,1,1
+ullalu,2023,BOD,5,2,5
+ullalu,2023,COD,2,1,2
+ullalu,2023,DO,6,2,5
+ullalu,2023,coliform,12,2,5
+ullalu,2023,nutrients,10,2,5
+ullalu,2024,BOD,10,2,9
+ullalu,2024,COD,8,1,8
+ullalu,2024,DO,10,2,9
+ullalu,2024,coliform,20,2,9
+ullalu,2024,metals,8,1,1
+ullalu,2024,nutrients,49,2,9
+ullalu,2025,BOD,11,1,11
+ullalu,2025,COD,11,1,11
+ullalu,2025,DO,11,1,11
+ullalu,2025,coliform,22,1,11
+ullalu,2025,metals,16,1,2
+ullalu,2025,nutrients,66,1,11
+ulsoor,2008,BOD,4,1,1
+ulsoor,2008,DO,4,1,1
+ulsoor,2008,metals,16,1,1
+ulsoor,2009,BOD,4,1,1
+ulsoor,2009,DO,4,1,1
+ulsoor,2009,metals,16,1,1
+ulsoor,2010,BOD,4,1,1
+ulsoor,2010,DO,4,1,1
+ulsoor,2010,metals,16,1,1
+ulsoor,2011,BOD,2,1,1
+ulsoor,2011,COD,5,2,2
+ulsoor,2011,DO,3,2,2
+ulsoor,2011,metals,12,1,1
+ulsoor,2011,nutrients,10,2,2
+ulsoor,2012,BOD,1,1,1
+ulsoor,2012,DO,1,1,1
+ulsoor,2012,coliform,2,1,1
+ulsoor,2012,nutrients,1,1,1
+ulsoor,2013,BOD,4,2,1
+ulsoor,2013,DO,4,2,1
+ulsoor,2013,coliform,8,2,1
+ulsoor,2013,nutrients,4,2,1
+ulsoor,2014,BOD,4,2,1
+ulsoor,2014,DO,4,2,1
+ulsoor,2014,coliform,8,2,1
+ulsoor,2014,nutrients,4,2,1
+ulsoor,2015,BOD,1,1,1
+ulsoor,2015,DO,1,1,1
+ulsoor,2015,coliform,2,1,1
+ulsoor,2015,nutrients,1,1,1
+ulsoor,2016,BOD,5,2,1
+ulsoor,2016,DO,5,2,1
+ulsoor,2016,coliform,10,2,1
+ulsoor,2016,nutrients,5,2,1
+ulsoor,2017,BOD,5,2,1
+ulsoor,2017,DO,5,2,1
+ulsoor,2017,coliform,10,2,1
+ulsoor,2017,nutrients,5,2,1
+ulsoor,2018,BOD,5,2,1
+ulsoor,2018,DO,5,2,1
+ulsoor,2018,coliform,10,2,1
+ulsoor,2018,nutrients,5,2,1
+ulsoor,2019,BOD,5,2,1
+ulsoor,2019,DO,5,2,1
+ulsoor,2019,coliform,10,2,1
+ulsoor,2019,nutrients,5,2,1
+ulsoor,2020,BOD,5,2,1
+ulsoor,2020,DO,5,2,1
+ulsoor,2020,coliform,10,2,1
+ulsoor,2020,nutrients,5,2,1
+ulsoor,2021,BOD,5,2,1
+ulsoor,2021,DO,5,2,1
+ulsoor,2021,coliform,10,2,1
+ulsoor,2021,metals,30,1,5
+ulsoor,2021,nutrients,5,2,1
+ulsoor,2022,BOD,5,2,1
+ulsoor,2022,DO,5,2,1
+ulsoor,2022,coliform,10,2,1
+ulsoor,2022,metals,37,1,7
+ulsoor,2022,nutrients,5,2,1
+ulsoor,2023,BOD,17,3,5
+ulsoor,2023,COD,6,1,2
+ulsoor,2023,DO,18,3,5
+ulsoor,2023,coliform,36,3,5
+ulsoor,2023,nutrients,30,3,5
+ulsoor,2024,BOD,42,2,12
+ulsoor,2024,COD,24,1,8
+ulsoor,2024,DO,42,2,12
+ulsoor,2024,coliform,84,2,12
+ulsoor,2024,metals,24,1,1
+ulsoor,2024,nutrients,159,2,12
+ulsoor,2025,BOD,33,1,11
+ulsoor,2025,COD,33,1,11
+ulsoor,2025,DO,33,1,11
+ulsoor,2025,coliform,66,1,11
+ulsoor,2025,metals,48,1,2
+ulsoor,2025,nutrients,197,1,11
+uttarahalli,2011,COD,1,1,1
+uttarahalli,2011,DO,1,1,1
+uttarahalli,2011,metals,4,1,1
+uttarahalli,2011,nutrients,2,1,1
+uttarahalli doraikere,2016,BOD,2,1,1
+uttarahalli doraikere,2016,DO,2,1,1
+uttarahalli doraikere,2016,coliform,4,1,1
+uttarahalli doraikere,2016,nutrients,2,1,1
+uttarahalli doraikere,2017,BOD,2,1,1
+uttarahalli doraikere,2017,DO,2,1,1
+uttarahalli doraikere,2017,coliform,4,1,1
+uttarahalli doraikere,2017,nutrients,2,1,1
+uttarahalli doraikere,2018,BOD,2,1,1
+uttarahalli doraikere,2018,DO,2,1,1
+uttarahalli doraikere,2018,coliform,4,1,1
+uttarahalli doraikere,2018,nutrients,2,1,1
+uttarahalli doraikere,2019,BOD,2,1,1
+uttarahalli doraikere,2019,DO,2,1,1
+uttarahalli doraikere,2019,coliform,4,1,1
+uttarahalli doraikere,2019,nutrients,2,1,1
+uttarahalli doraikere,2020,BOD,2,1,1
+uttarahalli doraikere,2020,DO,2,1,1
+uttarahalli doraikere,2020,coliform,4,1,1
+uttarahalli doraikere,2020,nutrients,2,1,1
+uttarahalli doraikere,2021,BOD,2,1,1
+uttarahalli doraikere,2021,DO,2,1,1
+uttarahalli doraikere,2021,coliform,4,1,1
+uttarahalli doraikere,2021,nutrients,2,1,1
+uttarahalli doraikere,2022,BOD,2,1,1
+uttarahalli doraikere,2022,DO,2,1,1
+uttarahalli doraikere,2022,coliform,4,1,1
+uttarahalli doraikere,2022,nutrients,2,1,1
+uttarahalli doraikere,2023,BOD,5,2,5
+uttarahalli doraikere,2023,COD,2,1,2
+uttarahalli doraikere,2023,DO,6,2,5
+uttarahalli doraikere,2023,coliform,10,2,4
+uttarahalli doraikere,2023,nutrients,10,2,5
+uttarahalli doraikere,2024,BOD,12,2,11
+uttarahalli doraikere,2024,COD,7,1,7
+uttarahalli doraikere,2024,DO,12,2,11
+uttarahalli doraikere,2024,coliform,24,2,11
+uttarahalli doraikere,2024,nutrients,46,2,11
+uttarahalli doraikere,2025,BOD,11,1,11
+uttarahalli doraikere,2025,COD,11,1,11
+uttarahalli doraikere,2025,DO,11,1,11
+uttarahalli doraikere,2025,coliform,22,1,11
+uttarahalli doraikere,2025,metals,16,1,2
+uttarahalli doraikere,2025,nutrients,66,1,11
+vajarahalli,2011,COD,1,1,1
+vajarahalli,2011,DO,1,1,1
+vajarahalli,2011,metals,4,1,1
+vajarahalli,2011,nutrients,2,1,1
+varahasandra,2011,COD,1,1,1
+varahasandra,2011,DO,1,1,1
+varahasandra,2011,metals,4,1,1
+varahasandra,2011,nutrients,2,1,1
+varanasi,2025,BOD,8,1,8
+varanasi,2025,COD,8,1,8
+varanasi,2025,DO,8,1,8
+varanasi,2025,coliform,16,1,8
+varanasi,2025,metals,16,1,2
+varanasi,2025,nutrients,48,1,8
+varthur,2006,metals,18,1,1
+varthur,2008,BOD,6,2,1
+varthur,2008,COD,2,1,1
+varthur,2008,DO,6,2,1
+varthur,2008,metals,16,1,1
+varthur,2009,BOD,4,1,1
+varthur,2009,DO,4,1,1
+varthur,2009,metals,16,1,1
+varthur,2010,BOD,4,1,1
+varthur,2010,DO,4,1,1
+varthur,2010,metals,16,1,1
+varthur,2011,COD,2,1,1
+varthur,2011,DO,1,1,1
+varthur,2011,metals,8,1,1
+varthur,2011,nutrients,4,1,1
+varthur,2016,BOD,2,1,1
+varthur,2016,DO,2,1,1
+varthur,2016,coliform,4,1,1
+varthur,2016,nutrients,2,1,1
+varthur,2017,BOD,2,1,1
+varthur,2017,DO,2,1,1
+varthur,2017,coliform,4,1,1
+varthur,2017,nutrients,2,1,1
+varthur,2018,BOD,2,1,1
+varthur,2018,DO,2,1,1
+varthur,2018,coliform,4,1,1
+varthur,2018,nutrients,2,1,1
+varthur,2019,BOD,2,1,1
+varthur,2019,DO,2,1,1
+varthur,2019,coliform,4,1,1
+varthur,2019,nutrients,2,1,1
+varthur,2020,BOD,2,1,1
+varthur,2020,DO,2,1,1
+varthur,2020,coliform,4,1,1
+varthur,2020,nutrients,2,1,1
+varthur,2021,BOD,2,1,1
+varthur,2021,DO,2,1,1
+varthur,2021,coliform,4,1,1
+varthur,2021,nutrients,2,1,1
+varthur,2022,BOD,2,1,1
+varthur,2022,DO,2,1,1
+varthur,2022,coliform,4,1,1
+varthur,2022,nutrients,2,1,1
+varthur,2023,BOD,6,2,5
+varthur,2023,COD,2,1,2
+varthur,2023,DO,6,2,5
+varthur,2023,coliform,12,2,5
+varthur,2023,nutrients,10,2,5
+varthur,2024,BOD,11,2,10
+varthur,2024,COD,6,1,6
+varthur,2024,DO,11,2,10
+varthur,2024,coliform,22,2,10
+varthur,2024,metals,8,1,1
+varthur,2024,nutrients,41,2,10
+varthur,2025,BOD,17,2,11
+varthur,2025,COD,17,2,11
+varthur,2025,DO,16,2,10
+varthur,2025,coliform,22,1,11
+varthur,2025,metals,16,1,2
+varthur,2025,nutrients,66,1,11
+veerapura,2016,BOD,2,1,1
+veerapura,2016,DO,2,1,1
+veerapura,2016,coliform,4,1,1
+veerapura,2016,nutrients,2,1,1
+veerapura,2017,BOD,2,1,1
+veerapura,2017,DO,2,1,1
+veerapura,2017,coliform,4,1,1
+veerapura,2017,nutrients,2,1,1
+veerapura,2018,BOD,2,1,1
+veerapura,2018,DO,2,1,1
+veerapura,2018,coliform,4,1,1
+veerapura,2018,nutrients,2,1,1
+veerapura,2019,BOD,2,1,1
+veerapura,2019,DO,2,1,1
+veerapura,2019,coliform,4,1,1
+veerapura,2019,nutrients,2,1,1
+veerapura,2020,BOD,2,1,1
+veerapura,2020,DO,2,1,1
+veerapura,2020,coliform,4,1,1
+veerapura,2020,nutrients,2,1,1
+veerapura,2021,BOD,2,1,1
+veerapura,2021,DO,2,1,1
+veerapura,2021,coliform,4,1,1
+veerapura,2021,nutrients,2,1,1
+veerapura,2022,BOD,2,1,1
+veerapura,2022,DO,2,1,1
+veerapura,2022,coliform,4,1,1
+veerapura,2022,nutrients,2,1,1
+veerapura,2023,BOD,6,2,5
+veerapura,2023,COD,2,1,2
+veerapura,2023,DO,6,2,5
+veerapura,2023,coliform,12,2,5
+veerapura,2023,nutrients,10,2,5
+veerapura,2024,BOD,6,2,5
+veerapura,2024,COD,1,1,1
+veerapura,2024,DO,6,2,5
+veerapura,2024,coliform,12,2,5
+veerapura,2024,metals,8,1,1
+veerapura,2024,nutrients,11,2,5
+veerapura,2025,BOD,1,1,1
+veerapura,2025,COD,1,1,1
+veerapura,2025,DO,1,1,1
+veerapura,2025,coliform,2,1,1
+veerapura,2025,nutrients,6,1,1
+vengaiah,2011,COD,2,1,1
+vengaiah,2011,DO,1,1,1
+vengaiah,2011,coliform,2,1,1
+vengaiah,2011,metals,8,1,1
+vengaiah,2011,nutrients,4,1,1
+vengaiyyanakere kr puram,2016,BOD,2,1,1
+vengaiyyanakere kr puram,2016,DO,2,1,1
+vengaiyyanakere kr puram,2016,coliform,4,1,1
+vengaiyyanakere kr puram,2016,nutrients,2,1,1
+vengaiyyanakere kr puram,2017,BOD,2,1,1
+vengaiyyanakere kr puram,2017,DO,2,1,1
+vengaiyyanakere kr puram,2017,coliform,4,1,1
+vengaiyyanakere kr puram,2017,nutrients,2,1,1
+vengaiyyanakere kr puram,2018,BOD,2,1,1
+vengaiyyanakere kr puram,2018,DO,2,1,1
+vengaiyyanakere kr puram,2018,coliform,4,1,1
+vengaiyyanakere kr puram,2018,nutrients,2,1,1
+vengaiyyanakere kr puram,2019,BOD,2,1,1
+vengaiyyanakere kr puram,2019,DO,2,1,1
+vengaiyyanakere kr puram,2019,coliform,4,1,1
+vengaiyyanakere kr puram,2019,nutrients,2,1,1
+vengaiyyanakere kr puram,2020,BOD,2,1,1
+vengaiyyanakere kr puram,2020,DO,2,1,1
+vengaiyyanakere kr puram,2020,coliform,4,1,1
+vengaiyyanakere kr puram,2020,nutrients,2,1,1
+vengaiyyanakere kr puram,2021,BOD,2,1,1
+vengaiyyanakere kr puram,2021,DO,2,1,1
+vengaiyyanakere kr puram,2021,coliform,4,1,1
+vengaiyyanakere kr puram,2021,nutrients,2,1,1
+vengaiyyanakere kr puram,2022,BOD,2,1,1
+vengaiyyanakere kr puram,2022,DO,2,1,1
+vengaiyyanakere kr puram,2022,coliform,4,1,1
+vengaiyyanakere kr puram,2022,nutrients,2,1,1
+vengaiyyanakere kr puram,2023,BOD,6,2,5
+vengaiyyanakere kr puram,2023,COD,2,1,2
+vengaiyyanakere kr puram,2023,DO,6,2,5
+vengaiyyanakere kr puram,2023,coliform,12,2,5
+vengaiyyanakere kr puram,2023,nutrients,10,2,5
+vengaiyyanakere kr puram,2024,BOD,9,2,8
+vengaiyyanakere kr puram,2024,COD,4,1,4
+vengaiyyanakere kr puram,2024,DO,9,2,8
+vengaiyyanakere kr puram,2024,coliform,18,2,8
+vengaiyyanakere kr puram,2024,metals,8,1,1
+vengaiyyanakere kr puram,2024,nutrients,28,2,8
+vengaiyyanakere kr puram,2025,BOD,11,1,11
+vengaiyyanakere kr puram,2025,COD,11,1,11
+vengaiyyanakere kr puram,2025,DO,11,1,11
+vengaiyyanakere kr puram,2025,coliform,22,1,11
+vengaiyyanakere kr puram,2025,metals,16,1,2
+vengaiyyanakere kr puram,2025,nutrients,66,1,11
+venkatala,2011,COD,1,1,1
+venkatala,2011,DO,1,1,1
+venkatala,2011,metals,4,1,1
+venkatala,2011,nutrients,2,1,1
+venkojirao,2011,COD,2,1,1
+venkojirao,2011,DO,1,1,1
+venkojirao,2011,coliform,4,1,1
+venkojirao,2011,metals,8,1,1
+venkojirao,2011,nutrients,4,1,1
+vibhuthipura,2022,BOD,2,1,1
+vibhuthipura,2022,DO,2,1,1
+vibhuthipura,2022,coliform,4,1,1
+vibhuthipura,2022,nutrients,2,1,1
+vibhuthipura,2023,BOD,5,2,4
+vibhuthipura,2023,COD,2,1,2
+vibhuthipura,2023,DO,5,2,4
+vibhuthipura,2023,coliform,10,2,4
+vibhuthipura,2023,nutrients,9,2,4
+vibhuthipura,2024,BOD,11,2,9
+vibhuthipura,2024,COD,6,1,6
+vibhuthipura,2024,DO,11,2,9
+vibhuthipura,2024,coliform,22,2,9
+vibhuthipura,2024,metals,8,1,1
+vibhuthipura,2024,nutrients,41,2,9
+vibhuthipura,2025,BOD,11,1,11
+vibhuthipura,2025,COD,11,1,11
+vibhuthipura,2025,DO,11,1,11
+vibhuthipura,2025,coliform,22,1,11
+vibhuthipura,2025,metals,16,1,2
+vibhuthipura,2025,nutrients,66,1,11
+vidyaranyapura,2011,COD,2,1,1
+vidyaranyapura,2011,DO,1,1,1
+vidyaranyapura,2011,coliform,2,1,1
+vidyaranyapura,2011,metals,8,1,1
+vidyaranyapura,2011,nutrients,4,1,1
+vijanapura,2025,BOD,8,1,8
+vijanapura,2025,COD,8,1,8
+vijanapura,2025,DO,8,1,8
+vijanapura,2025,coliform,16,1,8
+vijanapura,2025,metals,16,1,2
+vijanapura,2025,nutrients,48,1,8
+viswaneedam,2020,BOD,2,1,1
+viswaneedam,2020,DO,2,1,1
+viswaneedam,2020,coliform,4,1,1
+viswaneedam,2020,nutrients,2,1,1
+viswaneedam,2022,BOD,2,1,1
+viswaneedam,2022,DO,2,1,1
+viswaneedam,2022,coliform,4,1,1
+viswaneedam,2022,nutrients,2,1,1
+viswaneedam,2023,BOD,2,2,2
+viswaneedam,2023,DO,3,2,2
+viswaneedam,2023,coliform,6,2,2
+viswaneedam,2023,nutrients,3,2,2
+viswaneedam,2024,BOD,12,2,10
+viswaneedam,2024,COD,8,1,8
+viswaneedam,2024,DO,12,2,10
+viswaneedam,2024,coliform,24,2,10
+viswaneedam,2024,metals,8,1,1
+viswaneedam,2024,nutrients,50,2,10
+viswaneedam,2025,BOD,11,1,11
+viswaneedam,2025,COD,11,1,11
+viswaneedam,2025,DO,11,1,11
+viswaneedam,2025,coliform,22,1,11
+viswaneedam,2025,metals,15,1,2
+viswaneedam,2025,nutrients,66,1,11
+vittasandra vittasandra,2025,BOD,8,1,8
+vittasandra vittasandra,2025,COD,8,1,8
+vittasandra vittasandra,2025,DO,8,1,8
+vittasandra vittasandra,2025,coliform,16,1,8
+vittasandra vittasandra,2025,metals,15,1,2
+vittasandra vittasandra,2025,nutrients,48,1,8
+yallenahalli begur,2025,BOD,8,1,8
+yallenahalli begur,2025,COD,8,1,8
+yallenahalli begur,2025,DO,8,1,8
+yallenahalli begur,2025,coliform,16,1,8
+yallenahalli begur,2025,metals,16,1,2
+yallenahalli begur,2025,nutrients,48,1,8
+yediyur,2008,BOD,4,1,1
+yediyur,2008,DO,4,1,1
+yediyur,2008,metals,16,1,1
+yediyur,2009,BOD,4,1,1
+yediyur,2009,DO,4,1,1
+yediyur,2009,metals,16,1,1
+yediyur,2010,BOD,4,1,1
+yediyur,2010,DO,4,1,1
+yediyur,2010,metals,16,1,1
+yediyur,2011,COD,3,1,1
+yediyur,2011,DO,1,1,1
+yediyur,2011,coliform,2,1,1
+yediyur,2011,metals,12,1,1
+yediyur,2011,nutrients,6,1,1
+yediyur,2016,BOD,2,1,1
+yediyur,2016,DO,2,1,1
+yediyur,2016,coliform,4,1,1
+yediyur,2016,nutrients,2,1,1
+yediyur,2017,BOD,2,1,1
+yediyur,2017,DO,2,1,1
+yediyur,2017,coliform,4,1,1
+yediyur,2017,nutrients,2,1,1
+yediyur,2018,BOD,2,1,1
+yediyur,2018,DO,2,1,1
+yediyur,2018,coliform,4,1,1
+yediyur,2018,nutrients,2,1,1
+yediyur,2019,BOD,2,1,1
+yediyur,2019,DO,2,1,1
+yediyur,2019,coliform,4,1,1
+yediyur,2019,nutrients,2,1,1
+yediyur,2020,BOD,2,1,1
+yediyur,2020,DO,2,1,1
+yediyur,2020,coliform,4,1,1
+yediyur,2020,nutrients,2,1,1
+yediyur,2021,BOD,2,1,1
+yediyur,2021,DO,2,1,1
+yediyur,2021,coliform,4,1,1
+yediyur,2021,nutrients,2,1,1
+yediyur,2022,BOD,2,1,1
+yediyur,2022,DO,2,1,1
+yediyur,2022,coliform,4,1,1
+yediyur,2022,nutrients,2,1,1
+yediyur,2023,BOD,6,2,5
+yediyur,2023,COD,2,1,2
+yediyur,2023,DO,6,2,5
+yediyur,2023,coliform,12,2,5
+yediyur,2023,nutrients,10,2,5
+yediyur,2024,BOD,14,2,12
+yediyur,2024,COD,8,1,8
+yediyur,2024,DO,14,2,12
+yediyur,2024,coliform,28,2,12
+yediyur,2024,metals,8,1,1
+yediyur,2024,nutrients,53,2,12
+yediyur,2025,BOD,11,1,11
+yediyur,2025,COD,11,1,11
+yediyur,2025,DO,11,1,11
+yediyur,2025,coliform,22,1,11
+yediyur,2025,metals,16,1,2
+yediyur,2025,nutrients,66,1,11
+yelachenahalli,2020,BOD,2,1,1
+yelachenahalli,2020,DO,2,1,1
+yelachenahalli,2020,coliform,4,1,1
+yelachenahalli,2020,nutrients,2,1,1
+yelachenahalli,2022,BOD,2,1,1
+yelachenahalli,2022,DO,2,1,1
+yelachenahalli,2022,coliform,4,1,1
+yelachenahalli,2022,nutrients,2,1,1
+yelachenahalli,2023,BOD,5,2,4
+yelachenahalli,2023,COD,2,1,2
+yelachenahalli,2023,DO,5,2,4
+yelachenahalli,2023,coliform,10,2,4
+yelachenahalli,2023,nutrients,9,2,4
+yelachenahalli,2024,BOD,13,2,12
+yelachenahalli,2024,COD,8,1,8
+yelachenahalli,2024,DO,13,2,12
+yelachenahalli,2024,coliform,26,2,12
+yelachenahalli,2024,metals,8,1,1
+yelachenahalli,2024,nutrients,52,2,12
+yelachenahalli,2025,BOD,11,1,11
+yelachenahalli,2025,COD,11,1,11
+yelachenahalli,2025,DO,11,1,11
+yelachenahalli,2025,coliform,22,1,11
+yelachenahalli,2025,metals,16,1,2
+yelachenahalli,2025,nutrients,66,1,11
+yelahanka,2008,BOD,4,1,1
+yelahanka,2008,DO,4,1,1
+yelahanka,2008,metals,16,1,1
+yelahanka,2009,BOD,4,1,1
+yelahanka,2009,DO,4,1,1
+yelahanka,2009,metals,16,1,1
+yelahanka,2010,BOD,4,1,1
+yelahanka,2010,DO,4,1,1
+yelahanka,2010,metals,16,1,1
+yelahanka,2011,COD,3,1,1
+yelahanka,2011,DO,1,1,1
+yelahanka,2011,metals,12,1,1
+yelahanka,2011,nutrients,6,1,1
+yelahanka,2016,BOD,2,1,1
+yelahanka,2016,DO,2,1,1
+yelahanka,2016,coliform,4,1,1
+yelahanka,2016,nutrients,2,1,1
+yelahanka,2017,BOD,2,1,1
+yelahanka,2017,DO,2,1,1
+yelahanka,2017,coliform,4,1,1
+yelahanka,2017,nutrients,2,1,1
+yelahanka,2018,BOD,2,1,1
+yelahanka,2018,DO,2,1,1
+yelahanka,2018,coliform,4,1,1
+yelahanka,2018,nutrients,2,1,1
+yelahanka,2019,BOD,2,1,1
+yelahanka,2019,DO,2,1,1
+yelahanka,2019,coliform,4,1,1
+yelahanka,2019,nutrients,2,1,1
+yelahanka,2020,BOD,2,1,1
+yelahanka,2020,DO,2,1,1
+yelahanka,2020,coliform,4,1,1
+yelahanka,2020,nutrients,2,1,1
+yelahanka,2021,BOD,2,1,1
+yelahanka,2021,DO,2,1,1
+yelahanka,2021,coliform,4,1,1
+yelahanka,2021,nutrients,2,1,1
+yelahanka,2022,BOD,2,1,1
+yelahanka,2022,DO,2,1,1
+yelahanka,2022,coliform,4,1,1
+yelahanka,2022,nutrients,2,1,1
+yelahanka,2023,BOD,6,2,5
+yelahanka,2023,COD,2,1,2
+yelahanka,2023,DO,6,2,5
+yelahanka,2023,coliform,12,2,5
+yelahanka,2023,nutrients,10,2,5
+yelahanka,2024,BOD,12,2,11
+yelahanka,2024,COD,8,1,8
+yelahanka,2024,DO,12,2,11
+yelahanka,2024,coliform,24,2,11
+yelahanka,2024,metals,8,1,1
+yelahanka,2024,nutrients,51,2,11
+yelahanka,2025,BOD,11,1,11
+yelahanka,2025,COD,11,1,11
+yelahanka,2025,DO,11,1,11
+yelahanka,2025,coliform,22,1,11
+yelahanka,2025,metals,16,1,2
+yelahanka,2025,nutrients,66,1,11
+yellamallappa chetty,2008,BOD,4,1,1
+yellamallappa chetty,2008,DO,4,1,1
+yellamallappa chetty,2008,metals,16,1,1
+yellamallappa chetty,2009,BOD,4,1,1
+yellamallappa chetty,2009,DO,4,1,1
+yellamallappa chetty,2009,metals,16,1,1
+yellamallappa chetty,2010,BOD,4,1,1
+yellamallappa chetty,2010,DO,4,1,1
+yellamallappa chetty,2010,metals,16,1,1
+yellamallappa chetty,2011,COD,2,1,1
+yellamallappa chetty,2011,coliform,2,1,1
+yellamallappa chetty,2011,metals,8,1,1
+yellamallappa chetty,2011,nutrients,4,1,1
+yellamallappa chetty,2016,BOD,2,1,1
+yellamallappa chetty,2016,DO,2,1,1
+yellamallappa chetty,2016,coliform,4,1,1
+yellamallappa chetty,2016,nutrients,2,1,1
+yellamallappa chetty,2017,BOD,2,1,1
+yellamallappa chetty,2017,DO,2,1,1
+yellamallappa chetty,2017,coliform,4,1,1
+yellamallappa chetty,2017,nutrients,2,1,1
+yellamallappa chetty,2018,BOD,2,1,1
+yellamallappa chetty,2018,DO,2,1,1
+yellamallappa chetty,2018,coliform,4,1,1
+yellamallappa chetty,2018,nutrients,2,1,1
+yellamallappa chetty,2019,BOD,2,1,1
+yellamallappa chetty,2019,DO,2,1,1
+yellamallappa chetty,2019,coliform,4,1,1
+yellamallappa chetty,2019,nutrients,2,1,1
+yellamallappa chetty,2020,BOD,2,1,1
+yellamallappa chetty,2020,DO,2,1,1
+yellamallappa chetty,2020,coliform,4,1,1
+yellamallappa chetty,2020,nutrients,2,1,1
+yellamallappa chetty,2021,BOD,2,1,1
+yellamallappa chetty,2021,DO,2,1,1
+yellamallappa chetty,2021,coliform,4,1,1
+yellamallappa chetty,2021,nutrients,2,1,1
+yellamallappa chetty,2022,BOD,2,1,1
+yellamallappa chetty,2022,DO,2,1,1
+yellamallappa chetty,2022,coliform,4,1,1
+yellamallappa chetty,2022,nutrients,2,1,1
+yellamallappa chetty,2023,BOD,6,2,5
+yellamallappa chetty,2023,COD,2,1,2
+yellamallappa chetty,2023,DO,6,2,5
+yellamallappa chetty,2023,coliform,12,2,5
+yellamallappa chetty,2023,nutrients,10,2,5
+yellamallappa chetty,2024,BOD,13,2,12
+yellamallappa chetty,2024,COD,8,1,8
+yellamallappa chetty,2024,DO,13,2,12
+yellamallappa chetty,2024,coliform,26,2,12
+yellamallappa chetty,2024,metals,8,1,1
+yellamallappa chetty,2024,nutrients,52,2,12
+yellamallappa chetty,2025,BOD,11,1,11
+yellamallappa chetty,2025,COD,11,1,11
+yellamallappa chetty,2025,DO,11,1,11
+yellamallappa chetty,2025,coliform,22,1,11
+yellamallappa chetty,2025,metals,16,1,2
+yellamallappa chetty,2025,nutrients,66,1,11

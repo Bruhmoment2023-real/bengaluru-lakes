@@ -1,0 +1,4 @@
+contrast,pairs_flag,pairs_other,studies_flag,studies_other,median_abs_log10_flag,median_abs_log10_other,factor_flag,factor_other,diff,diff_lo,diff_hi,mannwhitney_p_one_sided,auc
+undated vs dated,40,48,6,6,0.216,0.225,1.65,1.68,-0.008,-0.225,0.123,0.9611335059713498,0.391
+quality score < 3 vs >= 3,19,69,3,9,0.111,0.28,1.29,1.91,-0.17,-0.201,0.003,0.9871623930293124,0.333
+fewer than 10 values vs 10 or more,73,15,10,2,0.214,0.28,1.64,1.91,-0.066,-0.161,0.089,0.5573505803580039,0.489

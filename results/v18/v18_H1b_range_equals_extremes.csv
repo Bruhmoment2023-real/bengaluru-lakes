@@ -1,0 +1,5 @@
+parameter,year,stations,min_equal,max_equal,both_equal
+BOD,2023,108,67,35,20
+BOD,2024,122,118,117,114
+DO,2023,117,37,45,12
+DO,2024,122,116,117,113
